@@ -1,0 +1,343 @@
+symbol,keep,pilot,market,industry,layout,status,sign,T1_period,T2_period,T1_tokens_approx,T2_tokens_approx,problems,fetch_errors,stratum
+2S,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),948,1007,,,SET|INDUS
+ABM,True,False,mai,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),906,947,,,mai|RESOURC
+ACAP,True,False,mai,FINCIAL,finance company,Listed,"SP, NC, NP",FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),665,677,,,mai|FINCIAL
+ACE,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),938,1017,,,SET|RESOURC
+ACG,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1022,1081,,,SET|INDUS
+ADB,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1045,1092,,,mai|INDUS
+ADD,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),887,927,,,mai|SERVICE
+ADVANC,True,True,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1014,1079,,,
+ADVICE,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1008,1072,,,SET|SERVICE
+AEONTS,True,False,SET,FINCIAL,finance company,Listed,XD,FY2025 (12 months to 28 Feb 2025),6M 2026 (6 months to 31 Aug 2026),870,935,,,SET|FINCIAL
+AF,True,False,mai,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),891,911,,,mai|FINCIAL
+AFC,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 30 Jun 2025),FY2026 (12 months to 30 Jun 2026),954,1009,,,SET|CONSUMP
+AGE,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),967,1027,,,SET|RESOURC
+AH,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1050,1113,,,SET|INDUS
+AI,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),864,928,,,SET|RESOURC
+AIE,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),887,964,,,SET|RESOURC
+AMA,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),965,1005,,,mai|SERVICE
+AMATAR,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),805,861,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+AMATAV,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),896,938,,,SET|PROPCON
+AMC,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),998,1056,,,SET|INDUS
+AMR,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),909,973,,,SET|TECH
+ANAN,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),906,962,,,SET|PROPCON
+AOT,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 30 Sep 2025),9M 2026 (9 months to 30 Jun 2026),953,1017,,,SET|SERVICE
+APCO,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),916,982,,,SET|CONSUMP
+APCS,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),939,996,,,SET|PROPCON
+APO,True,False,mai,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),945,1004,,,mai|AGRO
+AQUA,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),815,852,,,SET|AGRO
+AS,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),920,988,,,SET|SERVICE
+AYUD,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),867,925,,,SET|FINCIAL
+B-WORK,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),723,795,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+BA,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),998,1061,,,SET|SERVICE
+BCH,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1055,1113,,,SET|SERVICE
+BDMS,True,True,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1161,1223,,,
+BEC,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),964,1027,,,SET|SERVICE
+BGC,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),952,1010,,,SET|INDUS
+BJC,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),988,1052,,,SET|SERVICE
+BKA,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),878,930,,,mai|PROPCON
+BLA,True,True,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1076,1138,,,
+BLC,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),916,978,,,SET|CONSUMP
+BLISS,True,False,SET,TECH,general company,Listed,"SP, NC, NP",FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),730,768,,,SET|TECH
+BPS,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),878,938,,,mai|INDUS
+BRR,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1121,1179,,,SET|AGRO
+BRRGIF,False,False,SET,RESOURC,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),810,873,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|RESOURC
+BSM,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),767,795,,,mai|PROPCON
+BTG,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),939,1020,,,SET|AGRO
+BTNC,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),852,940,,,SET|CONSUMP
+BTW,True,False,mai,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),899,944,,,mai|PROPCON
+BUI,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),830,888,,,SET|FINCIAL
+BVG,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),978,1019,,,mai|TECH
+BWG,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),867,984,,,SET|SERVICE
+CBG,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1029,1095,,,SET|AGRO
+CFARM,True,True,mai,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),813,895,,,
+CHARAN,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),819,916,,,SET|FINCIAL
+CHIC,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),862,894,,,mai|SERVICE
+CHOTI,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),834,897,,,SET|AGRO
+CHOW,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),828,862,,,mai|INDUS
+CI,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),900,949,,,SET|PROPCON
+CM,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),853,928,,,SET|AGRO
+CMAN,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),957,1041,,,SET|INDUS
+CMC,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),969,1037,,,SET|PROPCON
+CPALL,True,True,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1068,1133,,,
+CPANEL,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),877,918,,,mai|PROPCON
+CPF,True,True,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1061,1128,,,
+CPH,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),822,892,,,SET|CONSUMP
+CPL,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),945,1004,,,SET|CONSUMP
+CPNCG,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),847,905,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+CPW,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1013,1073,,,SET|SERVICE
+CRANE,False,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),896,962,T1: Thai text in card | T2: Thai text in card,,SET|INDUS
+CRD,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),788,826,,,mai|PROPCON
+CREDIT,True,False,SET,FINCIAL,bank,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),800,883,,,SET|FINCIAL
+CTARAF,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),774,828,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+CWT,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1050,1109,,,SET|INDUS
+D,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),947,1003,,,SET|SERVICE
+DCON,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),929,988,,,SET|PROPCON
+DEMCO,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),945,1003,,,SET|PROPCON
+DEXON,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),924,959,,,mai|SERVICE
+DMT,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),965,1023,,,SET|SERVICE
+DPAINT,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),823,864,,,mai|PROPCON
+DTCI,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),857,923,,,SET|CONSUMP
+EA,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1140,1201,,,SET|RESOURC
+EASON,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),930,995,,,SET|INDUS
+EAST,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),937,998,,,SET|FINCIAL
+EASTW,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),914,976,,,SET|RESOURC
+ECF,True,False,mai,CONSUMP,general company,Listed,"SP, NC",FY2025 (12 months to 31 Dec 2025),FY2025 (12 months to 31 Dec 2025),967,949,,,mai|CONSUMP
+EFORL,True,False,mai,CONSUMP,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),807,845,,,mai|CONSUMP
+EGATIF,False,False,SET,RESOURC,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),768,802,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|RESOURC
+EKH,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),932,982,,,SET|SERVICE
+EMC,True,False,SET,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),854,898,,,SET|PROPCON
+EP,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),974,1036,,,SET|RESOURC
+ERW,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),939,1017,,,SET|SERVICE
+ETC,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),843,958,,,SET|RESOURC
+F&D,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),931,971,,,SET|AGRO
+FE,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1004,1059,,,SET|SERVICE
+FLE,False,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),735,822,T1: no prior period | T1: no market data | T2: no prior period,,mai|INDUS
+FLOYD,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),938,998,,,mai|PROPCON
+FM,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),974,1058,,,SET|AGRO
+FNS,True,False,SET,FINCIAL,finance company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),914,977,,,SET|FINCIAL
+FPT,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 30 Sep 2025),9M 2026 (9 months to 30 Jun 2026),1028,1092,,,SET|PROPCON
+FTREIT,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 30 Sep 2025),9M 2026 (9 months to 30 Jun 2026),772,828,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+GEL,True,False,SET,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),884,935,,,SET|PROPCON
+GFC,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),900,925,,,mai|SERVICE
+GPI,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),921,994,,,SET|SERVICE
+GRAMMY,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),810,925,,,SET|SERVICE
+GST,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),972,1035,,,SET|TECH
+GSTEEL,True,False,SET,INDUS,general company,Listed,"SP, NC",FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),790,817,,,SET|INDUS
+GULF,False,False,SET,RESOURC,general company,Listed,,FY2024 (12 months to 31 Dec 2024),6M 2026 (6 months to 30 Jun 2026),824,1066,T1: no prior period,,SET|RESOURC
+HANA,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),970,1042,,,SET|TECH
+HL,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),991,1017,,,mai|SERVICE
+HPT,False,False,mai,CONSUMP,general company,Listed,SP,FY2025 (12 months to 31 Dec 2025),FY2025 (12 months to 31 Dec 2025),941,915,trading sign=SP,,mai|CONSUMP
+ICC,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),966,1019,,,SET|SERVICE
+IDG,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),827,924,,,mai|TECH
+IHL,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1013,1077,,,SET|CONSUMP
+ILM,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1067,1115,,,SET|SERVICE
+INET,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),957,1016,,,SET|TECH
+INSET,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),916,985,,,SET|TECH
+IROYAL,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),862,975,,,mai|SERVICE
+IT,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),978,1044,,,SET|SERVICE
+ITC,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),914,977,,,SET|AGRO
+ITD,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),896,944,,,SET|PROPCON
+IVF,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),832,863,,,mai|SERVICE
+IVL,True,True,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1038,1099,,,
+J,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1005,1068,,,SET|PROPCON
+JAK,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),858,917,,,mai|PROPCON
+JAS,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),955,1013,,,SET|TECH
+JCK,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),839,901,,,SET|PROPCON
+JDF,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),878,964,,,SET|AGRO
+KASET,True,False,mai,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),835,875,,,mai|AGRO
+KBANK,True,True,SET,FINCIAL,bank,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1030,1093,,,
+KCAR,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),910,975,,,SET|FINCIAL
+KCC,True,False,mai,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),863,947,,,mai|FINCIAL
+KCE,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),924,983,,,SET|TECH
+KCG,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),965,1046,,,SET|AGRO
+KDH,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1084,1154,,,SET|SERVICE
+KKP,True,False,SET,FINCIAL,bank,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),938,1001,,,SET|FINCIAL
+KLINIQ,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),933,1006,,,SET|SERVICE
+KSL,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Oct 2025),9M 2026 (9 months to 31 Jul 2026),929,993,,,SET|AGRO
+KTIS,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 30 Sep 2025),9M 2026 (9 months to 30 Jun 2026),959,1026,,,SET|AGRO
+KUN,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),880,938,,,SET|PROPCON
+KWI,False,False,SET,FINCIAL,insurer,Listed,"SP, NC",,9M 2024 (9 months to 30 Sep 2024),,730,T1: no usable period | T2: no prior period,,SET|FINCIAL
+KYE,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Mar 2025),3M 2026 (3 months to 30 Jun 2026),982,1037,,,SET|CONSUMP
+LEO,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),927,962,,,mai|SERVICE
+LH,True,True,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1112,1176,,,
+LHHOTEL,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),922,973,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+LHSC,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),791,842,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+LOXLEY,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1106,1178,,,SET|SERVICE
+LPH,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),997,1061,,,SET|SERVICE
+LTMH,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),788,881,,,mai|SERVICE
+LTS,True,False,mai,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),827,859,,,mai|CONSUMP
+MADAME,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),973,1034,,,SET|AGRO
+MAGURO,True,False,mai,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),981,1061,,,mai|AGRO
+MASTEC,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),878,1003,,,SET|INDUS
+MASTER,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),904,962,,,SET|SERVICE
+MBK,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),988,1050,,,SET|PROPCON
+MC,True,True,SET,SERVICE,general company,Listed,,FY2025 (12 months to 30 Jun 2025),FY2026 (12 months to 30 Jun 2026),999,1064,,,
+MCOT,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),809,874,,,SET|SERVICE
+MEB,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),950,1012,,,mai|SERVICE
+MENA,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),921,987,,,SET|SERVICE
+METCO,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 30 Sep 2025),9M 2026 (9 months to 30 Jun 2026),891,958,,,SET|TECH
+MFEC,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1082,1145,,,SET|TECH
+MONO,True,False,SET,SERVICE,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),868,928,,,SET|SERVICE
+MOSHI,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),960,1043,,,SET|SERVICE
+MOTHER,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),826,915,,,mai|SERVICE
+MPJ,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),888,946,,,mai|SERVICE
+MUD,True,False,mai,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),974,1012,,,mai|AGRO
+MVP,True,False,mai,SERVICE,general company,Listed,"SP, CB, CS",FY2025 (12 months to 31 Dec 2025),FY2025 (12 months to 31 Dec 2025),787,770,,,mai|SERVICE
+NAT,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),935,956,,,mai|TECH
+NCH,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),958,1008,,,SET|PROPCON
+NCL,True,False,mai,SERVICE,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),753,790,,,mai|SERVICE
+NEO,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),976,1055,,,SET|CONSUMP
+NER,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),992,1053,,,SET|AGRO
+NETBAY,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),995,1036,,,mai|TECH
+NEW,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),893,936,,,SET|SERVICE
+NEX,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),837,895,,,SET|INDUS
+NKI,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),796,857,,,SET|FINCIAL
+NKT,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),913,971,,,SET|SERVICE
+NPK,True,False,mai,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),867,921,,,mai|CONSUMP
+NUT,True,False,mai,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),872,955,,,mai|CONSUMP
+NVD,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1125,1182,,,SET|PROPCON
+PACO,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),906,941,,,mai|INDUS
+PATO,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1014,1066,,,SET|INDUS
+PCSGH,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),930,995,,,SET|INDUS
+PERM,True,False,SET,INDUS,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),882,935,,,SET|INDUS
+PG,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),941,1004,,,SET|CONSUMP
+PHOL,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),985,1022,,,mai|INDUS
+PICO,False,False,mai,SERVICE,general company,Listed,SP,FY2025 (12 months to 31 Oct 2025),9M 2026 (9 months to 31 Jul 2026),856,827,trading sign=SP,,mai|SERVICE
+PIMO,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1009,1043,,,mai|INDUS
+PIN,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1047,1108,,,SET|PROPCON
+PJW,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1015,1086,,,SET|INDUS
+PL,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),858,937,,,SET|FINCIAL
+PLANB,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),985,1050,,,SET|SERVICE
+PLANET,True,False,mai,TECH,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),830,871,,,mai|TECH
+PLAT,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),851,968,,,SET|PROPCON
+PMC,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),927,985,,,mai|INDUS
+POLY,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),929,977,,,SET|INDUS
+POPF,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),936,979,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+PREB,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),877,927,,,SET|PROPCON
+PRG,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1034,1099,,,SET|AGRO
+PRI,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),948,992,,,mai|PROPCON
+PRINC,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),860,938,,,SET|SERVICE
+PROUD,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),813,931,,,SET|PROPCON
+PSGC,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),801,845,,,mai|PROPCON
+PSL,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1009,1072,,,SET|SERVICE
+PSP,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1001,1065,,,SET|INDUS
+PTC,True,False,mai,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),898,942,,,mai|RESOURC
+PTG,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),999,1061,,,SET|RESOURC
+PTT,True,True,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1050,1115,,,
+PTTEP,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),935,998,,,SET|RESOURC
+QHHRREIT,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),933,992,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+QTCG,True,False,mai,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),812,849,,,mai|PROPCON
+QUICK,False,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),743,819,T1: no prior period | T1: no market data | T2: no prior period,,mai|TECH
+RABBIT,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),856,912,,,SET|PROPCON
+RAM,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),895,960,,,SET|SERVICE
+RATCH,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1066,1122,,,SET|RESOURC
+RBF,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),975,1041,,,SET|AGRO
+RICHY,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),867,893,,,SET|PROPCON
+ROH,True,False,SET,SERVICE,general company,Listed,"SP, NC",FY2025 (12 months to 31 Dec 2025),3M 2026 (3 months to 31 Mar 2026),834,817,,,SET|SERVICE
+ROJNA,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),949,1002,,,SET|PROPCON
+RS,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),891,942,,,SET|SERVICE
+RT,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),933,993,,,SET|PROPCON
+RWI,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),834,879,,,mai|INDUS
+S,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),899,966,,,SET|PROPCON
+SAMART,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),907,1012,,,SET|TECH
+SAPPE,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1100,1160,,,SET|AGRO
+SAUCE,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),959,1001,,,SET|AGRO
+SAV,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1034,1084,,,SET|SERVICE
+SAWAD,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1044,1107,,,SET|FINCIAL
+SAWANG,True,False,SET,CONSUMP,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),739,781,,,SET|CONSUMP
+SCI,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),865,924,,,SET|INDUS
+SCL,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),876,953,,,mai|INDUS
+SEAFCO,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1005,1096,,,SET|PROPCON
+SEAOIL,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),977,1038,,,SET|RESOURC
+SELIC,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1043,1106,,,SET|INDUS
+SENA,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1071,1132,,,SET|PROPCON
+SFT,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),958,992,,,mai|INDUS
+SGF,True,False,mai,FINCIAL,finance company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),716,744,,,mai|FINCIAL
+SGP,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1034,1103,,,SET|RESOURC
+SHANG,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),881,958,,,SET|SERVICE
+SIMAT,True,True,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),907,955,,,
+SINGER,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1056,1129,,,SET|SERVICE
+SIS,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),972,1034,,,SET|TECH
+SITHAI,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),952,1005,,,SET|INDUS
+SJWD,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),935,998,,,SET|SERVICE
+SK,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),932,948,,,mai|PROPCON
+SKY,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),926,1041,,,SET|TECH
+SOLAR,True,False,SET,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),857,915,,,SET|PROPCON
+SONIC,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),985,1021,,,mai|SERVICE
+SORKON,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),942,1009,,,SET|AGRO
+SPREME,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1028,1110,,,SET|TECH
+SPTX,True,False,mai,SERVICE,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),842,832,,,mai|SERVICE
+SQ,True,False,SET,PROPCON,general company,Listed,"CB, CS",FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1010,1053,,,SET|PROPCON
+SRIPANWA,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),969,1011,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+SRS,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),890,928,,,mai|TECH
+SSSC,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),962,1013,,,SET|INDUS
+STA,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1029,1090,,,SET|AGRO
+STARM,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),992,1072,,,SET|FINCIAL
+STECH,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),947,1032,,,SET|PROPCON
+STELLA,True,False,SET,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),787,835,,,SET|PROPCON
+STOWER,True,False,mai,RESOURC,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),780,808,,,mai|RESOURC
+STP,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),906,946,,,mai|INDUS
+STPI,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),886,933,,,SET|PROPCON
+SUC,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),960,994,,,SET|CONSUMP
+SUPEREIF,False,False,SET,RESOURC,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),842,895,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|RESOURC
+SVR,True,False,mai,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),851,894,,,mai|PROPCON
+SWC,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),897,931,,,mai|INDUS
+SYMC,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),992,1057,,,SET|TECH
+SYNEX,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1009,1074,,,SET|TECH
+TAKUNI,True,False,mai,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),972,1012,,,mai|RESOURC
+TASCO,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1091,1146,,,SET|PROPCON
+TATG,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),946,1002,,,mai|INDUS
+TBN,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1006,1058,,,mai|TECH
+TCC,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),878,920,,,SET|RESOURC
+TCMC,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),962,1006,,,SET|CONSUMP
+TCOAT,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),861,926,,,SET|INDUS
+TEAM,True,False,SET,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),884,949,,,SET|TECH
+TEKA,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),949,1001,,,SET|PROPCON
+TERA,True,False,mai,TECH,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),859,934,,,mai|TECH
+TFFIF,False,False,SET,SERVICE,property fund / REIT,Listed,,FY2025 (12 months to 30 Sep 2025),9M 2026 (9 months to 30 Jun 2026),849,912,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|SERVICE
+TFI,True,False,SET,INDUS,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),854,908,,,SET|INDUS
+TFMAMA,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),951,1012,,,SET|AGRO
+TGE,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1008,1085,,,SET|RESOURC
+TGH,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),838,925,,,SET|FINCIAL
+TGPRO,True,False,SET,INDUS,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),896,934,,,SET|INDUS
+THE,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),936,1006,,,SET|INDUS
+THG,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),958,1038,,,SET|SERVICE
+THIP,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),940,1004,,,SET|INDUS
+TIPCO,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),907,971,,,SET|AGRO
+TIPH,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),879,937,,,SET|FINCIAL
+TK,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),836,885,,,SET|FINCIAL
+TKS,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),966,1038,,,SET|SERVICE
+TLI,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),865,936,,,SET|FINCIAL
+TM,True,False,mai,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1041,1082,,,mai|CONSUMP
+TMAN,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),977,1068,,,SET|CONSUMP
+TMD,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),922,972,,,SET|INDUS
+TMILL,True,False,mai,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1006,1040,,,mai|AGRO
+TNITY,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),941,976,,,SET|FINCIAL
+TNL,True,False,SET,FINCIAL,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),977,1032,,,SET|FINCIAL
+TNP,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),938,975,,,mai|SERVICE
+TNPC,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),941,1000,,,SET|INDUS
+TNPF,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),706,741,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+TOPP,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),931,982,,,SET|INDUS
+TPBI,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1047,1109,,,SET|INDUS
+TPCS,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),952,992,,,SET|INDUS
+TPIPL,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),940,1003,,,SET|PROPCON
+TPIPP,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1025,1091,,,SET|RESOURC
+TPOLY,True,False,SET,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),909,962,,,SET|PROPCON
+TPRIME,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),877,939,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+TRC,True,False,SET,PROPCON,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),853,915,,,SET|PROPCON
+TRT,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),916,957,,,mai|INDUS
+TRU,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),923,989,,,SET|INDUS
+TSI,True,False,SET,FINCIAL,insurer,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),839,884,,,SET|FINCIAL
+TSTH,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Mar 2025),6M 2026 (6 months to 30 Sep 2026),880,982,,,SET|INDUS
+TTW,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),932,994,,,SET|RESOURC
+TU-PF,False,False,SET,PROPCON,property fund / REIT,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),761,818,"property fund / REIT (trust, not an operating company): excluded by design | T1: no net profit | T2: no net profit",,SET|PROPCON
+TU,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1036,1099,,,SET|AGRO
+TURBO,True,False,SET,FINCIAL,finance company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),855,918,,,SET|FINCIAL
+TVDH,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),845,878,,,mai|SERVICE
+TVH,True,False,SET,FINCIAL,insurer,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),886,968,,,SET|FINCIAL
+TVO,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),977,1041,,,SET|AGRO
+UBA,True,False,mai,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),927,987,,,mai|SERVICE
+UEC,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),939,962,,,mai|INDUS
+UMI,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),998,1084,,,SET|PROPCON
+UNIX,False,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),743,879,T1: no prior period | T1: no market data | T2: no prior period,,SET|INDUS
+UPF,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),970,1022,,,SET|CONSUMP
+UTP,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),894,958,,,SET|INDUS
+VARO,True,False,SET,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),859,925,,,SET|INDUS
+VIBHA,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),938,997,,,SET|SERVICE
+VIH,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1145,1197,,,SET|SERVICE
+VS,True,False,mai,SERVICE,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),790,829,,,mai|SERVICE
+WACOAL,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),930,991,,,SET|CONSUMP
+WAVE,True,False,SET,SERVICE,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),846,877,,,SET|SERVICE
+WELL,True,False,mai,PROPCON,general company,Listed,"SP, NC, NP",FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),726,741,,,mai|PROPCON
+WFX,True,False,SET,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),968,1015,,,SET|CONSUMP
+WGE,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),870,926,,,SET|PROPCON
+WICE,True,False,SET,SERVICE,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),1077,1142,,,SET|SERVICE
+WIN,True,False,SET,PROPCON,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),800,848,,,SET|PROPCON
+WINMED,True,False,mai,CONSUMP,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),927,966,,,mai|CONSUMP
+WP,True,False,SET,RESOURC,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),907,970,,,SET|RESOURC
+WSOL,True,False,SET,SERVICE,general company,Listed,"SP, NC",FY2025 (12 months to 31 Dec 2025),FY2025 (12 months to 31 Dec 2025),1085,1098,,,SET|SERVICE
+XPG,True,False,SET,FINCIAL,securities company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),734,850,,,SET|FINCIAL
+YGG,True,False,mai,SERVICE,general company,Listed,CB,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),928,967,,,mai|SERVICE
+ZEN,True,False,SET,AGRO,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),988,1071,,,SET|AGRO
+ZIGA,True,False,mai,INDUS,general company,Listed,,FY2025 (12 months to 31 Dec 2025),6M 2026 (6 months to 30 Jun 2026),920,960,,,mai|INDUS

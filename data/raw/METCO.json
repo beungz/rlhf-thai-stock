@@ -1,0 +1,3117 @@
+{
+ "_meta": {
+  "symbol": "METCO",
+  "stratum": "SET|TECH",
+  "batch": "reserve",
+  "fetchedAt": "2026-10-24T11:42:41.290Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "METCO",
+  "name": "MURAMOTO ELECTRON (THAILAND) PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "TECH",
+  "industryName": "Technology",
+  "sector": "ETRON",
+  "sectorName": "Electronic Components",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/METCO.png",
+  "cgScore": 4,
+  "cgRemark": "",
+  "cacFlag": false,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "METCO",
+  "name": "MURAMOTO ELECTRON (THAILAND) PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "TECH",
+  "industryName": "Technology",
+  "sector": "ETRON",
+  "sectorName": "Electronic Components",
+  "logoUrl": "https://media.set.or.th/common/logo/company/METCO.png",
+  "businessType": "Manufacturer and exporter of electrical, electronic component parts and car parts",
+  "url": "http://www.metco.co.th",
+  "address": "886 RAMINDRA ROAD, KHAN NA YAO Bangkok 10230",
+  "telephone": "0-2518-1280",
+  "fax": "0-2518-1287",
+  "email": "",
+  "dividendPolicy": "Minimum of 30% of net profit (with additional conditions)",
+  "cgScore": 4,
+  "cgRemark": "",
+  "cacFlag": false,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "establishedDate": "05/06/1987",
+  "auditEnd": "2026-09-30T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "Mr. PIYANAT SINGKHORN",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-09-30T00:00:00+07:00"
+   },
+   {
+    "name": "Miss JAMJUREE SATHAPORNCHAIWAT",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-09-30T00:00:00+07:00"
+   },
+   {
+    "name": "MISS VILAIVAN PHOLPRASERT",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-09-30T00:00:00+07:00"
+   },
+   {
+    "name": "MISS MARISA THARATHORNBUNPAKUL",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-09-30T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Mr. Takashi Maejima",
+    "startDate": "2026-05-01T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Miss Vipavee Lertchaiprasert",
+    "startDate": "2024-03-21T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 238981000,
+   "paidupCapital": 208981000,
+   "par": 10,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 20898100,
+   "votingRights": [
+    {
+     "symbol": "METCO",
+     "paidupShare": 20898100,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 20898100
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 20898100
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "METCO",
+  "sign": "",
+  "prior": 300,
+  "last": 302,
+  "open": 300,
+  "high": 302,
+  "low": 300,
+  "average": 301,
+  "floor": 210,
+  "ceiling": 390,
+  "change": 2,
+  "percentChange": 0.666667,
+  "totalVolume": 507,
+  "totalValue": 152620,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 500,
+  "aomValue": 150500,
+  "bids": [
+   {
+    "volume": 500,
+    "price": "300.00"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 300,
+    "price": "302.00"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 1,
+  "nameEN": "MURAMOTO ELECTRON (THAILAND) PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัทมูราโมโต้ อีเล็คตรอน (ประเทศไทย) จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "TECH",
+  "sectorName": "ETRON",
+  "isNPG": false,
+  "high52Weeks": 305,
+  "low52Weeks": 218,
+  "par": 10,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 6311226200,
+  "peRatio": 5.8,
+  "pbRatio": 0.86,
+  "dividendYield": 9.93,
+  "nvdrNetVolume": null,
+  "listedShare": 20898100,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2026,
+   "beginDate": "2025-10-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0304FIN130820261612300839E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 3392761,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 2928006,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 1690021,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 8010788,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 2067160,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2108415,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 10119203,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 2103390,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 2238559,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 521613,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2760172,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 238981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 208981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 653700,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 6496350,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 7359031,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2025,
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0304FIN080820251600390720E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2742736,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 2964664,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 1599500,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 7306900,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 2217060,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2262668,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 9569568,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1959833,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 2113142,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 520658,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2633800,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 238981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 208981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 653700,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 6073087,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 6935768,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202511/0304FIN201120251537100676E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2959301.166,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 3335174.978,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 1512301.833,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 7806777.977,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 2161877.663,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2206891.106,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 10013669.083,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 2009575.077,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 2243681.839,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 539831.848,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2783513.687,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 238981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 208981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 653700,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 6367474.396,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 7230155.396,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2023-10-01T00:00:00+07:00",
+   "endDate": "2024-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202411/0304FIN221120241618370268E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 1985739.899,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 2906104.894,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 1765477.358,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 6677252.167,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 2308119.968,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2355354.699,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 9032606.866,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 2019439.875,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 2127124.214,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 570363.717,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2697487.931,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 238981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 208981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 653700,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 5472437.935,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 6335118.935,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2022-10-01T00:00:00+07:00",
+   "endDate": "2023-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202311/0304FIN241120231652570001E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2528633.673,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 2601821.049,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 1532478.599,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 6662933.321,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 2472438.432,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2538119.024,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 9201052.345,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 2164163.942,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 2315437.478,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 610887.248,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2926324.726,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 238981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 208981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 653700,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 5412046.619,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 6274727.619,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2026,
+   "beginDate": "2025-10-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0304FIN130820261612300839E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 11973784,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 71158,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 12044942,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 10555735,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 523624,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 11079359,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 1251518,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 301833,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 949685,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 755819,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 36.16705,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2025,
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0304FIN080820251600390720E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 13241780,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 89393,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 13331173,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 11758237,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 573772,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 12332009,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 1311592,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 329045,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 982547,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 767834,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 36.74198,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202511/0304FIN201120251537100676E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 17693471.304,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 110612.542,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 17804083.846,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 15557475.191,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 801823.441,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 16359298.632,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 1834862.287,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 435137.067,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 1399725.22,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 1099936.265,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 52.63357,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2023-10-01T00:00:00+07:00",
+   "endDate": "2024-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202411/0304FIN221120241618370268E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 15833113.852,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 125167.507,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 15958281.359,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 14614122.584,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 698055.024,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 15312177.608,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 818842.597,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 440002.377,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 378840.22,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 295692.86,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 14.14934,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2022-10-01T00:00:00+07:00",
+   "endDate": "2023-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202311/0304FIN241120231652570001E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 17908076.412,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 112210.164,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 18020286.576,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 16575199.739,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 1055432.705,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 17630632.444,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 843105.62,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 437973.328,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 405132.292,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 242684.767,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 11.61282,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2026,
+   "beginDate": "2025-10-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0304FIN130820261612300839E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 1274258,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -159869,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -711716,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 402673,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2025,
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0304FIN080820251600390720E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 1229564,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -220123,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -258012,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 751429,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202511/0304FIN201120251537100676E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 1524120.295,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -269930.879,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -287306.421,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 966882.995,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2023-10-01T00:00:00+07:00",
+   "endDate": "2024-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202411/0304FIN221120241618370268E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 126550.157,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -219635.267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -342888.584,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -435973.694,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2022-10-01T00:00:00+07:00",
+   "endDate": "2023-09-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202311/0304FIN241120231652570001E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 550850.607,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -273305.321,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -503675.111,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -226129.825,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": "2025-10-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 3.578546734752133
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 15.221218010830373
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 13.884698237386173
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.37507275074666757
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 1.677895776226967
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 11.842947893497996
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 7.884512851950636
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 6.274990780362413
+    }
+   ]
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 3.4578367189710866
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 9.32179211959747
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 8.60439474318624
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.3797416522582647
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 1.870687427893292
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 11.2035013419646
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 7.370296672318332
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 5.759688213482789
+    }
+   ]
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-09-30T00:00:00+07:00",
+   "asOfDate": "2025-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 3.4794496442508094
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 16.21694088053364
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 14.698151207507758
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.38498670305205335
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 1.8695606308961619
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 12.072227511398518
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 7.861821095613409
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 6.177999773911422
+    }
+   ]
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": "2023-10-01T00:00:00+07:00",
+   "endDate": "2024-09-30T00:00:00+07:00",
+   "asOfDate": "2024-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 3.139098383916189
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 4.6898724515486885
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 4.155394322434859
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.4257990986129759
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 1.7504200519987563
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 7.698998955912892
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 2.3739412249590766
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 1.8529116847204155
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -9.575721693005018
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -10.22689030676963
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -9.648295765121343
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -10.157712340300757
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": -1.5647913481299343
+    }
+   ]
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 13.786862546245478
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 9.921100153604115
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 13.619988471952437
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 10.028847308586794
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 75.63980565645845
+    }
+   ]
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-09-30T00:00:00+07:00",
+   "asOfDate": "2025-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 11.749788876810237
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 6.455075252283804
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 11.566424030012227
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 6.838485332851371
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 271.986073657646
+    }
+   ]
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2024-09-30T00:00:00+07:00",
+   "asOfDate": "2024-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -11.586741716387397
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -11.831393833930353
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -11.442688277158348
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -13.150151237569567
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 21.842363655535532
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "METCO",
+   "fiveDayPercentChange": 0.6666666666666666,
+   "oneMonthPercentChange": 0.33222591362126247,
+   "threeMonthPercentChange": 0.33222591362126247,
+   "sixMonthPercentChange": 14.393939393939394,
+   "ytdPercentChange": 9.420289855072463,
+   "peRatio": 5.8,
+   "pbRatio": 0.86,
+   "turnoverRatio": null
+  },
+  "sector": {
+   "symbol": "ETRON",
+   "fiveDayPercentChange": 11.775839353341922,
+   "oneMonthPercentChange": 7.289155413938486,
+   "threeMonthPercentChange": 26.603761989942054,
+   "sixMonthPercentChange": 41.02766302657983,
+   "ytdPercentChange": -21.720998486308517,
+   "peRatio": 90.49,
+   "pbRatio": 17.32,
+   "turnoverRatio": 2.1500000953674316
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": 1.5176503463053992,
+   "oneMonthPercentChange": 3.0140954551119536,
+   "threeMonthPercentChange": 5.254872256605436,
+   "sixMonthPercentChange": 8.323118687113752,
+   "ytdPercentChange": -11.796184401219056,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2021-10-01T00:00:00+07:00",
+   "endDate": "2022-09-30T00:00:00+07:00",
+   "asOfDate": "2022-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 9837080.15,
+   "totalLiability": 3424376.04,
+   "equity": 6412704.11,
+   "paidupCapital": 208981,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 18705052.26,
+   "totalExpense": 17772352.51,
+   "sales": 18556960.68,
+   "ebit": 927364.22,
+   "ebitda": 1348522.42,
+   "netProfit": 704635.77,
+   "profitFromOtherActivity": -5335.53,
+   "eps": 33.72,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1052938.27,
+   "netInvesting": -304292.95,
+   "netFinancing": -411261.89,
+   "netCashflow": 337383.42,
+   "roa": 10.062560781137101,
+   "roe": 11.378785138320191,
+   "netProfitMargin": 3.767087951455956,
+   "grossProfitMargin": 8.58805370923489,
+   "deRatio": 0.5339987595342208,
+   "currentRatio": 2.546551002793814,
+   "quickRatio": 1.8991778651218982,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2022-10-01T00:00:00+07:00",
+   "endDate": "2023-09-30T00:00:00+07:00",
+   "asOfDate": "2023-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 9201052.35,
+   "totalLiability": 2926324.73,
+   "equity": 6274727.62,
+   "paidupCapital": 208981,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 18020286.58,
+   "totalExpense": 17630632.44,
+   "sales": 17908076.41,
+   "ebit": 405132.29,
+   "ebitda": 843105.62,
+   "netProfit": 242684.77,
+   "profitFromOtherActivity": 15478.16,
+   "eps": 11.61,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 550850.61,
+   "netInvesting": -273305.32,
+   "netFinancing": -503675.11,
+   "netCashflow": -226129.83,
+   "roa": 4.256008723544707,
+   "roe": 3.825593311132959,
+   "netProfitMargin": 1.3467309130885088,
+   "grossProfitMargin": 7.44288018145663,
+   "deRatio": 0.466366814182127,
+   "currentRatio": 2.8776131411676036,
+   "quickRatio": 2.1926833412059996,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2023-10-01T00:00:00+07:00",
+   "endDate": "2024-09-30T00:00:00+07:00",
+   "asOfDate": "2024-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 9032606.87,
+   "totalLiability": 2697487.93,
+   "equity": 6335118.93,
+   "paidupCapital": 208981,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 15958281.36,
+   "totalExpense": 15312177.61,
+   "sales": 15833113.85,
+   "ebit": 378840.22,
+   "ebitda": 818842.6,
+   "netProfit": 295692.86,
+   "profitFromOtherActivity": -267263.53,
+   "eps": 14.15,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 126550.16,
+   "netInvesting": -219635.27,
+   "netFinancing": -342888.58,
+   "netCashflow": -435973.69,
+   "roa": 4.155394322434859,
+   "roe": 4.6898724515486885,
+   "netProfitMargin": 1.8529116847204155,
+   "grossProfitMargin": 7.698998955912892,
+   "deRatio": 0.4257990986129759,
+   "currentRatio": 3.139098383916189,
+   "quickRatio": 2.123302367001878,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2024-10-01T00:00:00+07:00",
+   "endDate": "2025-09-30T00:00:00+07:00",
+   "asOfDate": "2025-09-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 10013669.08,
+   "totalLiability": 2783513.69,
+   "equity": 7230155.4,
+   "paidupCapital": 208981,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 17804083.85,
+   "totalExpense": 16359298.63,
+   "sales": 17693471.3,
+   "ebit": 1399725.22,
+   "ebitda": 1834862.29,
+   "netProfit": 1099936.26,
+   "profitFromOtherActivity": -45059.99,
+   "eps": 52.63,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1524120.29,
+   "netInvesting": -269930.88,
+   "netFinancing": -287306.42,
+   "netCashflow": 966882.99,
+   "roa": 14.698151207507758,
+   "roe": 16.21694088053364,
+   "netProfitMargin": 6.177999773911422,
+   "grossProfitMargin": 12.072227511398518,
+   "deRatio": 0.38498670305205335,
+   "currentRatio": 3.4794496442508094,
+   "quickRatio": 2.8054227822247744,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "METCO",
+   "quarter": "9M",
+   "year": 2026,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2025-10-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 10119203,
+   "totalLiability": 2760172,
+   "equity": 7359031,
+   "paidupCapital": 208981,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 12044942,
+   "totalExpense": 11079359,
+   "sales": 11973784,
+   "ebit": 949685,
+   "ebitda": 1251518,
+   "netProfit": 755819,
+   "profitFromOtherActivity": -15898,
+   "eps": 36.17,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1274258,
+   "netInvesting": -159869,
+   "netFinancing": -711716,
+   "netCashflow": 402673,
+   "roa": 13.884698237386173,
+   "roe": 15.221218010830373,
+   "netProfitMargin": 6.274990780362413,
+   "grossProfitMargin": 11.842947893497996,
+   "deRatio": 0.37507275074666757,
+   "currentRatio": 3.578546734752133,
+   "quickRatio": 2.823587406005381,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "METCO",
+   "market": "SET",
+   "industry": "TECH",
+   "sector": "ETRON",
+   "prior": 266,
+   "open": 267,
+   "high": 293,
+   "low": 224,
+   "average": null,
+   "close": 283,
+   "change": 17,
+   "percentChange": 6.390977443609023,
+   "totalVolume": 3080405,
+   "totalValue": 813531308.5,
+   "pe": 8.39,
+   "pbv": 0.92,
+   "bookValuePerShare": 306.86,
+   "dividendYield": 6.360000133514404,
+   "marketCap": 5914162300,
+   "listedShare": 20898100,
+   "par": 10,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 14.740119915207602,
+   "beta": 0.34,
+   "dividendPayoutRatio": 0.42,
+   "averageValue": 3375648.582987552
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "METCO",
+   "market": "SET",
+   "industry": "TECH",
+   "sector": "ETRON",
+   "prior": 283,
+   "open": 283,
+   "high": 298,
+   "low": 223,
+   "average": null,
+   "close": 241,
+   "change": -42,
+   "percentChange": -14.840989399293287,
+   "totalVolume": 1430517,
+   "totalValue": 358880690,
+   "pe": 20.75,
+   "pbv": 0.8,
+   "bookValuePerShare": 300.25,
+   "dividendYield": 4.150000095367432,
+   "marketCap": 5036442100,
+   "listedShare": 20898100,
+   "par": 10,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 6.845201238390093,
+   "beta": 0.26,
+   "dividendPayoutRatio": 1.55,
+   "averageValue": 1476875.267489712
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "METCO",
+   "market": "SET",
+   "industry": "TECH",
+   "sector": "ETRON",
+   "prior": 241,
+   "open": 242,
+   "high": 250,
+   "low": 159,
+   "average": null,
+   "close": 173.5,
+   "change": -67.5,
+   "percentChange": -28.008298755186722,
+   "totalVolume": 1419609,
+   "totalValue": 276675859,
+   "pe": 12.26,
+   "pbv": 0.57,
+   "bookValuePerShare": 303.14,
+   "dividendYield": 4.610000133514404,
+   "marketCap": 3625820350,
+   "listedShare": 20898100,
+   "par": 10,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 6.793005105727315,
+   "beta": 0.39,
+   "dividendPayoutRatio": 0.71,
+   "averageValue": 1133917.4549180327
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "METCO",
+   "market": "SET",
+   "industry": "TECH",
+   "sector": "ETRON",
+   "prior": 173.5,
+   "open": 174,
+   "high": 276,
+   "low": 154.5,
+   "average": null,
+   "close": 276,
+   "change": 102.5,
+   "percentChange": 59.07780979827089,
+   "totalVolume": 1070468,
+   "totalValue": 222828813,
+   "pe": 5.24,
+   "pbv": 0.8,
+   "bookValuePerShare": 345.97,
+   "dividendYield": 10.87,
+   "marketCap": 5767875600,
+   "listedShare": 20898100,
+   "par": 10,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 5.1223221249778685,
+   "beta": 0.14,
+   "dividendPayoutRatio": 0.15,
+   "averageValue": 920780.2190082645
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "METCO",
+   "market": "SET",
+   "industry": "TECH",
+   "sector": "ETRON",
+   "prior": 276,
+   "open": 277,
+   "high": 305,
+   "low": 245,
+   "average": null,
+   "close": 302,
+   "change": 26,
+   "percentChange": 9.420289855072463,
+   "totalVolume": 2424342,
+   "totalValue": 686072016,
+   "pe": 5.8,
+   "pbv": 0.86,
+   "bookValuePerShare": 352.14,
+   "dividendYield": 9.93,
+   "marketCap": 6311226200,
+   "listedShare": 20898100,
+   "par": 10,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 11.600777104138654,
+   "beta": 0.13,
+   "dividendPayoutRatio": 0.58,
+   "averageValue": 3518318.030769231
+  }
+ ],
+ "shareholder": {
+  "symbol": "METCO",
+  "bookCloseDate": "2026-02-06T00:00:00+07:00",
+  "caType": "XD",
+  "totalShareholder": 2316,
+  "percentScriptless": 23.82,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "MURAMOTO INDUSTRY CO., LTD.",
+    "nationality": null,
+    "numberOfShare": 15099920,
+    "percentOfShare": 72.25,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "MR. JARUPAT SORSONGSERMKUL",
+    "nationality": null,
+    "numberOfShare": 834600,
+    "percentOfShare": 3.99,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "บริษัท  ไทย อาร์.ที.เอ็น.ที โฮลดิ้ง จำกัด",
+    "nationality": null,
+    "numberOfShare": 685900,
+    "percentOfShare": 3.28,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "MR. Prinya Tieanworn",
+    "nationality": null,
+    "numberOfShare": 430000,
+    "percentOfShare": 2.06,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "DBS BANK LTD. AC DBS NOMINEES-PB CLIENTS",
+    "nationality": null,
+    "numberOfShare": 209900,
+    "percentOfShare": 1,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "SOJITZ ASIA PTE. LTD.",
+    "nationality": null,
+    "numberOfShare": 192500,
+    "percentOfShare": 0.92,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "Thai NVDR Company Limited",
+    "nationality": null,
+    "numberOfShare": 171734,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": true
+   },
+   {
+    "sequence": 8,
+    "name": "นาย มานะ รุ่งศุภตานนท์",
+    "nationality": null,
+    "numberOfShare": 161200,
+    "percentOfShare": 0.77,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "นาย ศุภชัย สุทธิพงษ์ชัย",
+    "nationality": null,
+    "numberOfShare": 127100,
+    "percentOfShare": 0.61,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "นาย ชยันธร ผลาดิกานนท์",
+    "nationality": null,
+    "numberOfShare": 100400,
+    "percentOfShare": 0.48,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2025-12-08T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 27.68000030517578,
+   "numberOfHolder": 1344
+  }
+ },
+ "dividend_xd": [
+  {
+   "currency": "Baht",
+   "symbol": "METCO",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-02-06T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-02-20T00:00:00+07:00",
+   "beginOperation": "2024-10-01T00:00:00+07:00",
+   "endOperation": "2025-09-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 30,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "30.00",
+   "xdate": "2026-02-05T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "METCO",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2025-02-07T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2025-02-21T00:00:00+07:00",
+   "beginOperation": "2023-10-01T00:00:00+07:00",
+   "endOperation": "2024-09-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 8,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "8.00",
+   "xdate": "2025-02-06T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "METCO",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-02-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2024-02-22T00:00:00+07:00",
+   "beginOperation": "2022-10-01T00:00:00+07:00",
+   "endOperation": "2023-09-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 10,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "10.00",
+   "xdate": "2024-02-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "METCO",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-02-09T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-02-24T00:00:00+07:00",
+   "beginOperation": "2021-10-01T00:00:00+07:00",
+   "endOperation": "2022-09-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 18,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "18.00",
+   "xdate": "2023-02-08T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "METCO",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2022-02-10T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2022-02-25T00:00:00+07:00",
+   "beginOperation": null,
+   "endOperation": null,
+   "sourceOfDividend": "Retained Earnings",
+   "dividend": 14,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "14.00",
+   "xdate": "2022-02-09T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "METCO",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2021-02-11T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2021-02-25T00:00:00+07:00",
+   "beginOperation": null,
+   "endOperation": null,
+   "sourceOfDividend": "Retained Earnings",
+   "dividend": 10,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "10.00",
+   "xdate": "2021-02-10T00:00:00+07:00",
+   "xSession": ""
+  }
+ ]
+}

@@ -1,0 +1,3172 @@
+{
+ "_meta": {
+  "symbol": "MOSHI",
+  "stratum": "SET|SERVICE",
+  "batch": "reserve",
+  "fetchedAt": "2026-10-24T11:40:48.794Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "MOSHI",
+  "name": "Moshi Moshi Retail Corporation Public Company Limited",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "SERVICE",
+  "industryName": "Services",
+  "sector": "COMM",
+  "sectorName": "Commerce",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [
+   "SET100",
+   "SET100FF",
+   "SETESG"
+  ],
+  "logoUrl": "https://media.set.or.th/common/logo/company/MOSHI.png",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "AA",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": true
+ },
+ "profile": {
+  "symbol": "MOSHI",
+  "name": "Moshi Moshi Retail Corporation Public Company Limited",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "SERVICE",
+  "industryName": "Services",
+  "sector": "COMM",
+  "sectorName": "Commerce",
+  "logoUrl": "https://media.set.or.th/common/logo/company/MOSHI.png",
+  "businessType": "The Company operates a retail business that responds to the daily lifestyle of each group of consumers (\"Lifestyle Products\") under the company's brand \"Moshi Moshi\"",
+  "url": "http://www.moshimoshi.co.th",
+  "address": "No. 129 The Mall Thapra Building, 9th Floor, Ratchadapisek Road (Thapra-Taksin), Bukklalo Sub-district, Thonburi District Bangkok 10600",
+  "telephone": "0-2891-3088",
+  "fax": "",
+  "email": "",
+  "dividendPolicy": "Not less than 40% of the net profit from the Company's separate financial statements after deduction of corporate income tax and allocation of all types of reserves as stipulated in the laws and articles of association of the Company.",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "AA",
+  "setesgRatingRemark": "",
+  "establishedDate": "16/06/2000",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "MR. KRIT CHATCHAVALWONG",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS SUKHUMAPORN WONG-ARIYAPORN",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS VARAPORN VORATHITIKUL",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Miss Supharada Rojwattana",
+    "startDate": "2020-01-02T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Mr. Thana Rochanaprasertsud",
+    "startDate": "2023-10-16T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 330000000,
+   "paidupCapital": 329999954,
+   "par": 1,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 329999954,
+   "votingRights": [
+    {
+     "symbol": "MOSHI",
+     "paidupShare": 329999954,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 329999954
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 329999954
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "MOSHI",
+  "sign": "",
+  "prior": 34.75,
+  "last": 34.75,
+  "open": 34.75,
+  "high": 35,
+  "low": 34.5,
+  "average": 34.70914,
+  "floor": 24.4,
+  "ceiling": 45,
+  "change": 0,
+  "percentChange": 0,
+  "totalVolume": 190372,
+  "totalValue": 6607661.5,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 190300,
+  "aomValue": 6605150,
+  "bids": [
+   {
+    "volume": 83800,
+    "price": "34.75"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 31600,
+    "price": "35.00"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.25,
+  "nameEN": "Moshi Moshi Retail Corporation Public Company Limited",
+  "nameTH": "บริษัท โมชิ โมชิ รีเทล คอร์ปอเรชั่น จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "SERVICE",
+  "sectorName": "COMM",
+  "isNPG": false,
+  "high52Weeks": 43.25,
+  "low52Weeks": 30.25,
+  "par": 1,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 11467498401.5,
+  "peRatio": 15.65,
+  "pbRatio": 4.28,
+  "dividendYield": 3.51,
+  "nvdrNetVolume": -18300,
+  "listedShare": 329999954,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1741FIN160820261726256010E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 125597.547,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 34854.807,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 698607.495,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 1891734.109,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 1049866.997,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 3159976.798,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 5051710.907,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 276820.162,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 736948.258,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 1634023.479,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2370971.737,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 330000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 329999.954,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1178098.136,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 1172641.08,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 2680739.17,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1741FIN110820251624510364E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 147500.686,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 21829.863,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 573977.919,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 1725873.838,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 853110.172,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2683445.617,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 4409319.455,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 248066.761,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 659667.707,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 1401718.572,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2061386.279,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 330000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 329999.954,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1178098.136,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 839835.086,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 2347933.176,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1741FIN230220261804370353E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 151627.189,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 25585.264,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 752664.576,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 2243778.99,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 910799.17,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2807578.374,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 5051357.364,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 378140.208,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 843856.031,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 1477000.236,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2320856.267,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 330000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 329999.954,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1178098.136,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 1222403.007,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 2730501.097,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1741FIN240220251631220002E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 177186.845,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 23574.651,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 703374.939,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 1886134.361,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 782952.362,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2489545.311,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 4375679.672,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 326880.008,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 731706.442,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 1322459.128,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 2054165.57,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 330000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 329999.954,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1178098.136,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 813416.012,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 2321514.102,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1741FIN220220241251310926E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 95093.333,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 12434.674,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 421806.188,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 1624228.319,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 716510.734,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 2018792.777,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 3643021.096,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 282893.619,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 600698.841,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 1060397.21,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 1661096.051,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 330000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 329999.954,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1178098.136,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 473826.955,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 1981925.045,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1741FIN160820261726256010E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 1940512.114,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 7259.459,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 1947771.573,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 845075.921,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 638420.986,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1483496.907,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 699661.748,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 223080.37,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 476581.378,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 352838.017,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 1.06921,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1741FIN110820251624510364E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 1654414.9,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 8691.339,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 1663106.239,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 741703.382,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 532011.071,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1273714.453,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 603014.748,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 198261.267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 404753.481,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 290418.917,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 0.88,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1741FIN230220261804370353E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 3664346.335,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 18389.919,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 3682736.254,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1621547.268,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 1164163.837,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 2785711.105,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 1333357.474,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 411159.987,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 922197.487,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 670221.068,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 2.03,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1741FIN240220251631220002E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 3111263.066,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 16644.98,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 3127908.046,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1447209.703,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 975406.525,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 2422616.228,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 1084744.862,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 354643.34,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 730101.522,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 520679.351,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 1.58,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1741FIN220220241251310926E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 2529513.765,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 13741.784,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 2543255.549,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1179539.982,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 815341.986,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1994881.968,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 871236.479,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 308017.813,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 563218.666,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 401507.282,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 1.22,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1741FIN160820261726256010E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 510543.741,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": 63777.806,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -600351.189,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -26029.642,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1741FIN110820251624510364E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 534256.708,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -122394.859,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -441548.008,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -29686.159,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1741FIN230220261804370353E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 1141781.079,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -538624.898,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -628715.837,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -25559.656,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1741FIN240220251631220002E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 687999.966,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -96518.694,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -509387.76,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 82093.512,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1741FIN220220241251310926E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 718575.745,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -1113197.851,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -266015.97,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -660638.076,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "U",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 2.5669836170045373
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 29.13851281414564
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 21.013047206809624
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.8844470086957398
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.8386827693496952
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 56.4508814119176
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 24.468032460295124
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 18.114958932273563
+    }
+   ]
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 2.616277580116814
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 27.766886206207612
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 20.83728924471591
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.8779578130924492
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.8541368836391036
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 55.16823621450701
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 24.33719928800219
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 17.46243944103054
+    }
+   ]
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 2.658959479142432
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 26.53282080386456
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 19.56494890360588
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.8499744863680883
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.7813136268317877
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 55.74798002240143
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 25.041095191109598
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 18.198997280894062
+    }
+   ]
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "U",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 2.5777200484937652
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 24.19829039338988
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 18.20997041867423
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.8848387222804289
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.7801533280307785
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 53.48481734140212
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 23.34152757463571
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 16.646248600562284
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 17.292954143486025
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 13.937180655695547
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 17.11648499376685
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 16.470132689473687
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 21.492780153579538
+    }
+   ]
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 24.547412113052708
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 21.356952710534532
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 24.415905573118177
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 20.544988337686245
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 40.574085751963295
+    }
+   ]
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 17.7768079251492
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 12.046462236951568
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 17.737995846776897
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 14.987717225026605
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 28.720501398797545
+    }
+   ]
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 22.99846345568618
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 22.692721275967262
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 22.98835050217427
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 21.441582330808274
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 29.681172904262144
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "MOSHI",
+   "fiveDayPercentChange": -1.4184397163120568,
+   "oneMonthPercentChange": -2.112676056338028,
+   "threeMonthPercentChange": -10.32258064516129,
+   "sixMonthPercentChange": -1.4184397163120568,
+   "ytdPercentChange": 0.7246376811594203,
+   "peRatio": 15.65,
+   "pbRatio": 4.28,
+   "turnoverRatio": 0.05999999865889549
+  },
+  "sector": {
+   "symbol": "COMM",
+   "fiveDayPercentChange": -2.7108753809878983,
+   "oneMonthPercentChange": -3.398390015296604,
+   "threeMonthPercentChange": -11.834300124540832,
+   "sixMonthPercentChange": -9.679644708856127,
+   "ytdPercentChange": -10.469273376569255,
+   "peRatio": 15.31,
+   "pbRatio": 1.4,
+   "turnoverRatio": 0.3400000035762787
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": -0.5850824423245693,
+   "oneMonthPercentChange": 0.50384152006413,
+   "threeMonthPercentChange": -5.922695997775795,
+   "sixMonthPercentChange": -6.650106539328227,
+   "ytdPercentChange": -18.805759150791047,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "U",
+   "accountFormId": "6",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2801452.81,
+   "totalLiability": 1191035,
+   "equity": 1610417.81,
+   "paidupCapital": 300000,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1895893.17,
+   "totalExpense": 1553634.91,
+   "sales": 1890369.53,
+   "ebit": 348555.3,
+   "ebitda": 637040.8,
+   "netProfit": 253166.48,
+   "profitFromOtherActivity": 6297.04,
+   "eps": 1.05,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 554520.75,
+   "netInvesting": -98481.97,
+   "netFinancing": 61786.58,
+   "netCashflow": 517825.36,
+   "roa": 14.540221230012929,
+   "roe": 19.748300483278843,
+   "netProfitMargin": 13.353414844571649,
+   "grossProfitMargin": 52.42091211658495,
+   "deRatio": 0.7395813636710835,
+   "currentRatio": 2.315948168823486,
+   "quickRatio": 1.4510013823581367,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "U",
+   "accountFormId": "6",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 3643021.1,
+   "totalLiability": 1661096.05,
+   "equity": 1981925.04,
+   "paidupCapital": 329999.95,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 2543255.55,
+   "totalExpense": 1994881.97,
+   "sales": 2529513.77,
+   "ebit": 563218.67,
+   "ebitda": 871236.48,
+   "netProfit": 401507.28,
+   "profitFromOtherActivity": 14845.08,
+   "eps": 1.22,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 718575.74,
+   "netInvesting": -1113197.85,
+   "netFinancing": -266015.97,
+   "netCashflow": -660638.08,
+   "roa": 17.479120157569046,
+   "roe": 22.35350553371178,
+   "netProfitMargin": 15.787138653840744,
+   "grossProfitMargin": 53.36890457014591,
+   "deRatio": 0.8381225406991175,
+   "currentRatio": 2.703897880009224,
+   "quickRatio": 1.99349171375127,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "U",
+   "accountFormId": "6",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 4375679.67,
+   "totalLiability": 2054165.57,
+   "equity": 2321514.1,
+   "paidupCapital": 329999.95,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 3127908.05,
+   "totalExpense": 2422616.23,
+   "sales": 3111263.07,
+   "ebit": 730101.52,
+   "ebitda": 1084744.86,
+   "netProfit": 520679.35,
+   "profitFromOtherActivity": 24809.7,
+   "eps": 1.58,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 687999.97,
+   "netInvesting": -96518.69,
+   "netFinancing": -509387.76,
+   "netCashflow": 82093.51,
+   "roa": 18.20997041867423,
+   "roe": 24.19829039338988,
+   "netProfitMargin": 16.646248600562284,
+   "grossProfitMargin": 53.48481734140212,
+   "deRatio": 0.8848387222804289,
+   "currentRatio": 2.5777200484937652,
+   "quickRatio": 1.6103062315537362,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "U",
+   "accountFormId": "6",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 5051357.36,
+   "totalLiability": 2320856.27,
+   "equity": 2730501.1,
+   "paidupCapital": 329999.95,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 3682736.25,
+   "totalExpense": 2785711.1,
+   "sales": 3664346.33,
+   "ebit": 922197.49,
+   "ebitda": 1333357.48,
+   "netProfit": 670221.07,
+   "profitFromOtherActivity": 25172.34,
+   "eps": 2.03,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1141781.08,
+   "netInvesting": -538624.9,
+   "netFinancing": -628715.84,
+   "netCashflow": -25559.66,
+   "roa": 19.56494890360588,
+   "roe": 26.53282080386456,
+   "netProfitMargin": 18.198997280894062,
+   "grossProfitMargin": 55.74798002240143,
+   "deRatio": 0.8499744863680883,
+   "currentRatio": 2.658959479142432,
+   "quickRatio": 1.7605149304911643,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "MOSHI",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "U",
+   "accountFormId": "6",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 5051710.91,
+   "totalLiability": 2370971.74,
+   "equity": 2680739.17,
+   "paidupCapital": 329999.95,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1947771.57,
+   "totalExpense": 1483496.91,
+   "sales": 1940512.11,
+   "ebit": 476581.38,
+   "ebitda": 699661.75,
+   "netProfit": 352838.02,
+   "profitFromOtherActivity": 12306.71,
+   "eps": 1.07,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 510543.74,
+   "netInvesting": 63777.81,
+   "netFinancing": -600351.19,
+   "netCashflow": -26029.64,
+   "roa": 21.013047206809624,
+   "roe": 29.13851281414564,
+   "netProfitMargin": 18.114958932273563,
+   "grossProfitMargin": 56.4508814119176,
+   "deRatio": 0.8844470086957398,
+   "currentRatio": 2.5669836170045373,
+   "quickRatio": 1.6113070814496528,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "MOSHI",
+   "market": "SET",
+   "industry": "SERVICE",
+   "sector": "COMM",
+   "prior": 21,
+   "open": 35,
+   "high": 38.25,
+   "low": 31.25,
+   "average": null,
+   "close": 36.5,
+   "change": 15.5,
+   "percentChange": 73.80952380952381,
+   "totalVolume": 140981563,
+   "totalValue": 4948253537.5,
+   "pe": 49.81,
+   "pbv": 4.66,
+   "bookValuePerShare": 7.84,
+   "dividendYield": null,
+   "marketCap": 10950000000,
+   "listedShare": 300000000,
+   "par": 1,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 46.99385433333333,
+   "beta": null,
+   "dividendPayoutRatio": null,
+   "averageValue": 706893362.5
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "MOSHI",
+   "market": "SET",
+   "industry": "SERVICE",
+   "sector": "COMM",
+   "prior": 36.5,
+   "open": 37,
+   "high": 62,
+   "low": 36.75,
+   "average": null,
+   "close": 53.5,
+   "change": 17,
+   "percentChange": 46.57534246575342,
+   "totalVolume": 383329987,
+   "totalValue": 18616748642.25,
+   "pe": 47.9,
+   "pbv": 9.65,
+   "bookValuePerShare": 5.55,
+   "dividendYield": 0.17000000178813934,
+   "marketCap": 17654997539,
+   "listedShare": 329999954,
+   "par": 1,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 120.67521058183841,
+   "beta": 1.42,
+   "dividendPayoutRatio": 0.08,
+   "averageValue": 76612134.33024691
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "MOSHI",
+   "market": "SET",
+   "industry": "SERVICE",
+   "sector": "COMM",
+   "prior": 53.5,
+   "open": 53.75,
+   "high": 59.75,
+   "low": 36.5,
+   "average": null,
+   "close": 43.25,
+   "change": -10.25,
+   "percentChange": -19.1588785046729,
+   "totalVolume": 215292172,
+   "totalValue": 10188698240.25,
+   "pe": 30.62,
+   "pbv": 6.75,
+   "bookValuePerShare": 6.41,
+   "dividendYield": 1.3899999856948853,
+   "marketCap": 14272498010.5,
+   "listedShare": 329999954,
+   "par": 1,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 65.24006121528126,
+   "beta": 0.68,
+   "dividendPayoutRatio": 0.42,
+   "averageValue": 41756960.00102459
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "MOSHI",
+   "market": "SET",
+   "industry": "SERVICE",
+   "sector": "COMM",
+   "prior": 43.25,
+   "open": 42.75,
+   "high": 45.25,
+   "low": 30.25,
+   "average": null,
+   "close": 34.5,
+   "change": -8.75,
+   "percentChange": -20.23121387283237,
+   "totalVolume": 132304787,
+   "totalValue": 5212126684.25,
+   "pe": 17.97,
+   "pbv": 4.58,
+   "bookValuePerShare": 7.53,
+   "dividendYield": 2.32,
+   "marketCap": 11384998413,
+   "listedShare": 329999954,
+   "par": 1,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 40.09236528560243,
+   "beta": 0.59,
+   "dividendPayoutRatio": 0.42,
+   "averageValue": 21537713.571280994
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "MOSHI",
+   "market": "SET",
+   "industry": "SERVICE",
+   "sector": "COMM",
+   "prior": 34.5,
+   "open": 34.5,
+   "high": 43.25,
+   "low": 30.5,
+   "average": null,
+   "close": 34.75,
+   "change": 0.25,
+   "percentChange": 0.7246376811594203,
+   "totalVolume": 111454749,
+   "totalValue": 4080151151.25,
+   "pe": 15.65,
+   "pbv": 4.28,
+   "bookValuePerShare": 8.12,
+   "dividendYield": 3.51,
+   "marketCap": 11467498401.5,
+   "listedShare": 329999954,
+   "par": 1,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 33.774171071551116,
+   "beta": 0.56,
+   "dividendPayoutRatio": 0.84,
+   "averageValue": 20923852.057692308
+  }
+ ],
+ "shareholder": {
+  "symbol": "MOSHI",
+  "bookCloseDate": "2026-08-31T00:00:00+07:00",
+  "caType": "XD",
+  "totalShareholder": 3845,
+  "percentScriptless": 100,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "MISS MONTHANA ASAVAMETHA",
+    "nationality": null,
+    "numberOfShare": 40760000,
+    "percentOfShare": 12.35,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "MR. SA-NGA BOONSONGKOR",
+    "nationality": null,
+    "numberOfShare": 31730100,
+    "percentOfShare": 9.62,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "MR. SOMCHAI BOONSONGKORH",
+    "nationality": null,
+    "numberOfShare": 31680000,
+    "percentOfShare": 9.6,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "MR. NAPHON BOONSONGKROH",
+    "nationality": null,
+    "numberOfShare": 30360000,
+    "percentOfShare": 9.2,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "MR. ACHIRA BOONSONGKOR",
+    "nationality": null,
+    "numberOfShare": 25080000,
+    "percentOfShare": 7.6,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "MISS NATHA BOONSONGKROH",
+    "nationality": null,
+    "numberOfShare": 25080000,
+    "percentOfShare": 7.6,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "MR. KACHEN BENJAKUL",
+    "nationality": null,
+    "numberOfShare": 16347130,
+    "percentOfShare": 4.95,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 8,
+    "name": "MISS PLOYNAPHAT BOONSONGKOR",
+    "nationality": null,
+    "numberOfShare": 15312000,
+    "percentOfShare": 4.64,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "MISS BOONYAWEE BOONSONGKOR",
+    "nationality": null,
+    "numberOfShare": 14784000,
+    "percentOfShare": 4.48,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "MISS NICHAPA BOONSONGKOR",
+    "nationality": null,
+    "numberOfShare": 14784000,
+    "percentOfShare": 4.48,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 11,
+    "name": "MISS CHARUWAN KOKIATWANIT",
+    "nationality": null,
+    "numberOfShare": 11880000,
+    "percentOfShare": 3.6,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 12,
+    "name": "Thai NVDR Company Limited",
+    "nationality": null,
+    "numberOfShare": 7835173,
+    "percentOfShare": 2.37,
+    "isThaiNVDR": true
+   },
+   {
+    "sequence": 13,
+    "name": "MISS NUTTAVIBHA BENJAKUL",
+    "nationality": null,
+    "numberOfShare": 5828700,
+    "percentOfShare": 1.77,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 14,
+    "name": "นาย ศุภวัฒน์ เจียกภาพร",
+    "nationality": null,
+    "numberOfShare": 2426800,
+    "percentOfShare": 0.74,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 15,
+    "name": "BBHISL NOMINEES LIMITED",
+    "nationality": null,
+    "numberOfShare": 1953400,
+    "percentOfShare": 0.59,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 16,
+    "name": "BBHISL NOMINEES LIMITED",
+    "nationality": null,
+    "numberOfShare": 1861500,
+    "percentOfShare": 0.56,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 17,
+    "name": "UBS AG SINGAPORE BRANCH - FOR CLIENTS' ACCOUNTS",
+    "nationality": null,
+    "numberOfShare": 1760000,
+    "percentOfShare": 0.53,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-09T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 26.829999923706055,
+   "numberOfHolder": 3351
+  }
+ },
+ "dividend_xd": [
+  {
+   "currency": "Baht",
+   "symbol": "MOSHI",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-08-31T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-09-11T00:00:00+07:00",
+   "beginOperation": "2026-01-01T00:00:00+07:00",
+   "endOperation": "2026-06-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.64,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.64",
+   "xdate": "2026-08-28T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "MOSHI",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-04-30T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-05-22T00:00:00+07:00",
+   "beginOperation": "2025-01-01T00:00:00+07:00",
+   "endOperation": "2025-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 1.22,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "1.22",
+   "xdate": "2026-04-29T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "MOSHI",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2025-05-02T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2025-05-23T00:00:00+07:00",
+   "beginOperation": "2024-01-01T00:00:00+07:00",
+   "endOperation": "2024-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.8,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.80",
+   "xdate": "2025-04-30T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "MOSHI",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-05-03T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": null,
+   "beginOperation": "2023-01-01T00:00:00+07:00",
+   "endOperation": "2023-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.6,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": "2024-05-24T00:00:00+07:00",
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.60",
+   "xdate": "2024-05-02T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "MOSHI",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-05-03T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-05-23T00:00:00+07:00",
+   "beginOperation": "2022-01-01T00:00:00+07:00",
+   "endOperation": "2022-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.1,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.10",
+   "xdate": "2023-05-02T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": null,
+   "symbol": "MOSHI",
+   "name": "",
+   "caType": "XD(ST)",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-05-03T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-05-23T00:00:00+07:00",
+   "beginOperation": "2022-01-01T00:00:00+07:00",
+   "endOperation": "2022-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": null,
+   "ratio": "10 : 1",
+   "dividendType": "Stock Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "10 : 1",
+   "xdate": "2023-05-02T00:00:00+07:00",
+   "xSession": ""
+  }
+ ]
+}

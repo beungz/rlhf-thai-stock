@@ -1,0 +1,635 @@
+{
+ "symbol": "ADVANC",
+ "snapshot": "T2",
+ "periods": {
+  "current": "6M 2026 (6 months to 30 Jun 2026)",
+  "prior": "6M 2025 (6 months to 30 Jun 2025)",
+  "statement_type": "Consolidate",
+  "audit_status": "Reviewed"
+ },
+ "facts": [
+  {
+   "key": "income.Revenue from operations.current",
+   "label": "Revenue from operations",
+   "value": 114694.5,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Revenue from operations.prior",
+   "label": "Revenue from operations",
+   "value": 112354.7,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Revenue from operations.yoy",
+   "label": "Revenue from operations YoY change",
+   "value": 2.1,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.Total revenues.current",
+   "label": "Total revenues",
+   "value": 114975.6,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Total revenues.prior",
+   "label": "Total revenues",
+   "value": 112750.5,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Total revenues.yoy",
+   "label": "Total revenues YoY change",
+   "value": 2.0,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.EBITDA.current",
+   "label": "EBITDA",
+   "value": 65133.0,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.EBITDA.prior",
+   "label": "EBITDA",
+   "value": 60513.1,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.EBITDA.yoy",
+   "label": "EBITDA YoY change",
+   "value": 7.6,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.EBIT.current",
+   "label": "EBIT",
+   "value": 37830.8,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.EBIT.prior",
+   "label": "EBIT",
+   "value": 30865.1,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.EBIT.yoy",
+   "label": "EBIT YoY change",
+   "value": 22.6,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.Net profit (owners of the parent).current",
+   "label": "Net profit (owners of the parent)",
+   "value": 27211.5,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Net profit (owners of the parent).prior",
+   "label": "Net profit (owners of the parent)",
+   "value": 21565.4,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Net profit (owners of the parent).yoy",
+   "label": "Net profit (owners of the parent) YoY change",
+   "value": 26.2,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.EPS (THB per share).current",
+   "label": "EPS (THB per share)",
+   "value": 9.15,
+   "unit": "THB",
+   "period": "current"
+  },
+  {
+   "key": "income.EPS (THB per share).prior",
+   "label": "EPS (THB per share)",
+   "value": 7.25,
+   "unit": "THB",
+   "period": "prior"
+  },
+  {
+   "key": "income.EPS (THB per share).yoy",
+   "label": "EPS (THB per share) YoY change",
+   "value": 26.2,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Cash and cash equivalents.current",
+   "label": "Cash and cash equivalents",
+   "value": 14144.0,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Cash and cash equivalents.prior",
+   "label": "Cash and cash equivalents",
+   "value": 20713.7,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Cash and cash equivalents.yoy",
+   "label": "Cash and cash equivalents YoY change",
+   "value": -31.7,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Current assets.current",
+   "label": "Current assets",
+   "value": 42062.6,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Current assets.prior",
+   "label": "Current assets",
+   "value": 48016.3,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Current assets.yoy",
+   "label": "Current assets YoY change",
+   "value": -12.4,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Total assets.current",
+   "label": "Total assets",
+   "value": 401786.8,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Total assets.prior",
+   "label": "Total assets",
+   "value": 411878.6,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Total assets.yoy",
+   "label": "Total assets YoY change",
+   "value": -2.5,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Current liabilities.current",
+   "label": "Current liabilities",
+   "value": 105759.5,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Current liabilities.prior",
+   "label": "Current liabilities",
+   "value": 110819.9,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Current liabilities.yoy",
+   "label": "Current liabilities YoY change",
+   "value": -4.6,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Total liabilities.current",
+   "label": "Total liabilities",
+   "value": 349406.8,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Total liabilities.prior",
+   "label": "Total liabilities",
+   "value": 310095.1,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Total liabilities.yoy",
+   "label": "Total liabilities YoY change",
+   "value": 12.7,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Shareholders' equity.current",
+   "label": "Shareholders' equity",
+   "value": 52274.4,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Shareholders' equity.prior",
+   "label": "Shareholders' equity",
+   "value": 101682.8,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Shareholders' equity.yoy",
+   "label": "Shareholders' equity YoY change",
+   "value": -48.6,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "cash_flow.Operating cash flow.current",
+   "label": "Operating cash flow",
+   "value": 52399.1,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Operating cash flow.prior",
+   "label": "Operating cash flow",
+   "value": 55978.0,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "cash_flow.Operating cash flow.yoy",
+   "label": "Operating cash flow YoY change",
+   "value": -6.4,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "cash_flow.Investing cash flow.current",
+   "label": "Investing cash flow",
+   "value": -20690.5,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Investing cash flow.prior",
+   "label": "Investing cash flow",
+   "value": -20992.3,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "cash_flow.Financing cash flow.current",
+   "label": "Financing cash flow",
+   "value": -42916.1,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Financing cash flow.prior",
+   "label": "Financing cash flow",
+   "value": -36876.5,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "cash_flow.Net cash flow.current",
+   "label": "Net cash flow",
+   "value": -11207.5,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Net cash flow.prior",
+   "label": "Net cash flow",
+   "value": -1890.8,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.Current Ratio (X).current",
+   "label": "Current Ratio (X)",
+   "value": 0.4,
+   "unit": "x",
+   "period": "current"
+  },
+  {
+   "key": "ratio.Current Ratio (X).prior",
+   "label": "Current Ratio (X)",
+   "value": 0.43,
+   "unit": "x",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.ROE (%).current",
+   "label": "ROE (%)",
+   "value": 69.54,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.ROE (%).prior",
+   "label": "ROE (%)",
+   "value": 40.51,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.ROA (%).current",
+   "label": "ROA (%)",
+   "value": 17.82,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.ROA (%).prior",
+   "label": "ROA (%)",
+   "value": 13.5,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.D/E (X).current",
+   "label": "D/E (X)",
+   "value": 6.67,
+   "unit": "x",
+   "period": "current"
+  },
+  {
+   "key": "ratio.D/E (X).prior",
+   "label": "D/E (X)",
+   "value": 3.05,
+   "unit": "x",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.Total Asset Turnover (X).current",
+   "label": "Total Asset Turnover (X)",
+   "value": 0.56,
+   "unit": "x",
+   "period": "current"
+  },
+  {
+   "key": "ratio.Total Asset Turnover (X).prior",
+   "label": "Total Asset Turnover (X)",
+   "value": 0.52,
+   "unit": "x",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.Gross Profit Margin (%).current",
+   "label": "Gross Profit Margin (%)",
+   "value": 44.04,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.Gross Profit Margin (%).prior",
+   "label": "Gross Profit Margin (%)",
+   "value": 38.21,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.EBIT Margin (%).current",
+   "label": "EBIT Margin (%)",
+   "value": 32.9,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.EBIT Margin (%).prior",
+   "label": "EBIT Margin (%)",
+   "value": 27.37,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.Net Profit Margin (%).current",
+   "label": "Net Profit Margin (%)",
+   "value": 23.67,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.Net Profit Margin (%).prior",
+   "label": "Net Profit Margin (%)",
+   "value": 19.13,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "market.last_price_thb",
+   "label": "last_price_thb",
+   "value": 336.0,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "market.price_change_ytd_pct",
+   "label": "price_change_ytd_pct",
+   "value": 7.35,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.price_change_1m_pct",
+   "label": "price_change_1m_pct",
+   "value": -4.27,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.price_change_3m_pct",
+   "label": "price_change_3m_pct",
+   "value": -10.88,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.price_change_6m_pct",
+   "label": "price_change_6m_pct",
+   "value": -3.72,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.high_52w_thb",
+   "label": "high_52w_thb",
+   "value": 410.0,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "market.low_52w_thb",
+   "label": "low_52w_thb",
+   "value": 298.0,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "market.market_cap_thb_m",
+   "label": "market_cap_thb_m",
+   "value": 999334.5,
+   "unit": "THB m",
+   "period": null
+  },
+  {
+   "key": "market.pe_x",
+   "label": "pe_x",
+   "value": 18.67,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.pbv_x",
+   "label": "pbv_x",
+   "value": 19.12,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.dividend_yield_pct",
+   "label": "dividend_yield_pct",
+   "value": 10.21,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.beta",
+   "label": "beta",
+   "value": 0.6,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.sector_ytd_pct",
+   "label": "sector_ytd_pct",
+   "value": -0.29,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.sector_pe_x",
+   "label": "sector_pe_x",
+   "value": 20.92,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.set_index_ytd_pct",
+   "label": "set_index_ytd_pct",
+   "value": -13.47,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "dividend.0.dps",
+   "label": "Dividend per share",
+   "value": 8.69,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "dividend.1.dps",
+   "label": "Dividend per share",
+   "value": 27.41,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "dividend.2.dps",
+   "label": "Dividend per share",
+   "value": 6.89,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "dividend.3.dps",
+   "label": "Dividend per share",
+   "value": 5.74,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "holders.total",
+   "label": "Number of shareholders",
+   "value": 70846,
+   "unit": "count",
+   "period": null
+  },
+  {
+   "key": "holders.free_float",
+   "label": "Free float",
+   "value": 34.79,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top1",
+   "label": "Gulf Development PCL",
+   "value": 40.44,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top2",
+   "label": "SINGTEL STRATEGIC INVESTMENTS PTE LTD.",
+   "value": 19.1,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top3",
+   "label": "Thai NVDR Company Limited",
+   "value": 6.91,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top4",
+   "label": "RAFFLE NOMINEES (PTE) LTD S/A SINGTEL STRATEGIC INVESTMENTS PTE LTD.",
+   "value": 5.67,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top5",
+   "label": "Vayupak Fund 1",
+   "value": 3.32,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "company.cg_score",
+   "label": "CG score",
+   "value": 5,
+   "unit": "score",
+   "period": null
+  },
+  {
+   "key": "text.dividend_policy.0",
+   "label": "number in dividend_policy text",
+   "value": 70.0,
+   "unit": "%",
+   "period": null
+  }
+ ]
+}

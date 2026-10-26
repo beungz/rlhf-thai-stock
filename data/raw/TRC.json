@@ -1,0 +1,3058 @@
+{
+ "_meta": {
+  "symbol": "TRC",
+  "stratum": "SET|PROPCON",
+  "batch": "reserve",
+  "fetchedAt": "2026-10-24T11:35:23.802Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "TRC",
+  "name": "TRC CONSTRUCTION PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "PROPCON",
+  "industryName": "Property & Construction",
+  "sector": "CONS",
+  "sectorName": "Construction Services",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/TRC.png",
+  "cgScore": 3,
+  "cgRemark": "",
+  "cacFlag": false,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "TRC",
+  "name": "TRC CONSTRUCTION PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "PROPCON",
+  "industryName": "Property & Construction",
+  "sector": "CONS",
+  "sectorName": "Construction Services",
+  "logoUrl": "https://media.set.or.th/common/logo/company/TRC.png",
+  "businessType": "The Group is engaged in business of pipeline, contractor business system installation of engineering, petrochemical & process plant and business development and investment.",
+  "url": "http://www.trc-con.com",
+  "address": "No.8 Soi Sukhapiban 5 soi 32, Tha Raeng, Bang Khen District Bangkok 10220",
+  "telephone": "0-2022-7777",
+  "fax": "0-2022-7788",
+  "email": "",
+  "dividendPolicy": "The Company has a policy to pay dividends to shareholders at a rate of not less than 40 percent of net profit after tax and statutory reserves. However, this dividend payment may be subject to change, depending on investment plans, necessities, and other appropriate considerations in the future.",
+  "cgScore": 3,
+  "cgRemark": "",
+  "cacFlag": false,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "establishedDate": "1998",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion with an emphasis of matters",
+  "auditors": [
+   {
+    "name": "MR. NOPPAROEK PISSANUWONG",
+    "company": "D I A INTERNATIONAL AUDIT CO.,LTD.",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "Ms. RAWEEWAN CHUENCHOM",
+    "company": "D I A INTERNATIONAL AUDIT CO.,LTD.",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS SOMJINTANA PHOLHIRUNRAT",
+    "company": "D I A INTERNATIONAL AUDIT CO.,LTD.",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "Mr. WIROTE SATJATHAMNUKUL",
+    "company": "D I A INTERNATIONAL AUDIT CO.,LTD.",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Mr. Pasit Leesakul",
+    "startDate": "2024-01-04T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Miss Keerati Kimthi",
+    "startDate": "2024-02-19T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 3058239690,
+   "paidupCapital": 2366584729.5,
+   "par": 1.5,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 1577723153,
+   "votingRights": [
+    {
+     "symbol": "TRC",
+     "paidupShare": 1577723153,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 1577723153
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 1577723153
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "TRC",
+  "sign": "CB",
+  "prior": 0.36,
+  "last": 0.38,
+  "open": 0.35,
+  "high": 0.41,
+  "low": 0.34,
+  "average": 0.3781,
+  "floor": 0.26,
+  "ceiling": 0.46,
+  "change": 0.02,
+  "percentChange": 5.555556,
+  "totalVolume": 3908576,
+  "totalValue": 1477813.78,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 3908500,
+  "aomValue": 1477785,
+  "bids": [
+   {
+    "volume": 180700,
+    "price": "0.37"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 103000,
+    "price": "0.38"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.01,
+  "nameEN": "TRC CONSTRUCTION PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัท ทีอาร์ซี คอนสตรัคชั่น จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "PROPCON",
+  "sectorName": "CONS",
+  "isNPG": false,
+  "high52Weeks": 0.75,
+  "low52Weeks": 0.28,
+  "par": 1.5,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 599534798.14,
+  "peRatio": null,
+  "pbRatio": null,
+  "dividendYield": null,
+  "nvdrNetVolume": -50000,
+  "listedShare": 1577723153,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0890FIN120820261852260128E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 16017,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 164107,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 1898340,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 668458,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 1157343,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 3055683,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 830711,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1076274,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": 26150,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 2940207,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 217700,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 3157907,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 3058240,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 2366585,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": -164430,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -2518408,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 212478,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": -103775,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 1551,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0890FIN130820251156002130E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 31221,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 207719,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 2411204,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 705583,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 1201976,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 3613180,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 801402,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1003590,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3252215,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 233447,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 3485662,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 2713240,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 2096585,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 27736,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -2212052,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 213298,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 125567,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 1951,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202603/0890FIN020320261929006850E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 45944,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 195651,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 2135752,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 685653,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 1185432,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 3321184,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 814151,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1112375,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": 91582,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3218568,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 164803,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 3383371,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 2713240,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 2096585,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 27736,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -2401078,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 213019,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": -63738,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 1551,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0890FIN270220251854030605E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 8953,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 297040,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 2707798,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 727637,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 1003800,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 3711598,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 821609,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 959503,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": 16033,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3686387,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 269190,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 3955577,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 3492416,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 1497992,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 179759,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -2137204,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 213523,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": -245930,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 1951,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0890FIN290220240011330776E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 27031.569,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 203297.745,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 3165087.537,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 526174.919,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 761788.898,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 3926876.435,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 878460.81,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 987108.104,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 4091168.241,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 74415.851,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 4165584.092,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 1198393.355,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 1198393.355,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -1454160.675,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 15108.533,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": -240658.787,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 1951.13,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0890FIN120820261852260128E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 248557,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 20642,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 269287,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 214955,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 105073,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 355026,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": -67335,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 20775,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": -88110,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": -120498,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": -0.0867,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0890FIN130820251156002130E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 454644,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 34573,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 489456,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 410758,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 97643,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 546924,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": -27298,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 27758,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": -55056,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": -91387,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": -0.0808,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202603/0890FIN020320261929006850E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 1023620,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 53201,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 1077172,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1040995,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 212718,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1291241,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": -153277,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 53403,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": -206680,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": -280413,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": -0.2216,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0890FIN270220251854030605E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 1301306,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 65331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 1367423,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1647318,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 239248,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1979386,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": -554760,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 58449,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": -613209,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": -683043,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": -0.6957,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0890FIN290220240011330776E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 2141266.206,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 51497.329,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 2193878.163,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 2262168.588,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 258032.438,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 2520201.026,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": -393556.004,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 66193.684,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": -459749.688,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": -540315.854,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": -0.0564,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0890FIN120820261852260128E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": -67427,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": 2110,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": 35165,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -30152,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0890FIN130820251156002130E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 66726,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -132667,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": 88434,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 22493,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202603/0890FIN020320261929006850E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 134036,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -135420,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": 38597,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 37213,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0890FIN270220251854030605E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": -365572,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -24680,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": 371499,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -18753,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0890FIN290220240011330776E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 54974.64,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -145893.061,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": 102950.57,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 12032.149,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 0.6456484186317494
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": -2840.712187958884
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -7.1896513693563655
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": null
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.2570162260043429
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 13.518830690746992
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": -32.71973767764504
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -44.747054258096384
+    }
+   ]
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 0.7414036279889245
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": -358.43594084437717
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -10.395034024694146
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 27.334666478457944
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.2623521151505503
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 9.652827267048504
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": -11.248406394037461
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -18.67113693570004
+    }
+   ]
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 0.6635721227576985
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": null
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -5.877617136433349
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": null
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.3063288468205043
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": -1.697407240968328
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": -19.187279283159977
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -26.032332812215692
+    }
+   ]
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 0.7345398082187248
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": null
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -16.055797654799772
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": null
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.35803562890497803
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": -26.589595375722542
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": -44.84413381960081
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -49.95111242095533
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -45.32931260502723
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -47.66870030528925
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -44.982388611029386
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -35.086776224850254
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -43.94654107435673
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -56.6314340224657
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -40.512356797514784
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -49.393797796890105
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -21.33902402663171
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -36.8066760637594
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -21.226131197149677
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -34.76557882090709
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -39.22726684226713
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -27.179697955226224
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -37.670968929286396
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -21.459202006595476
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "TRC",
+   "fiveDayPercentChange": null,
+   "oneMonthPercentChange": -13.636363636363637,
+   "threeMonthPercentChange": -34.48275862068965,
+   "sixMonthPercentChange": 5.555555555555561,
+   "ytdPercentChange": -19.14893617021276,
+   "peRatio": null,
+   "pbRatio": null,
+   "turnoverRatio": 0.25
+  },
+  "sector": {
+   "symbol": "CONS",
+   "fiveDayPercentChange": 2.0590253946429105,
+   "oneMonthPercentChange": -9.74397371103196,
+   "threeMonthPercentChange": -29.326517249268647,
+   "sixMonthPercentChange": -10.117186507026254,
+   "ytdPercentChange": -45.48888467023766,
+   "peRatio": null,
+   "pbRatio": 0.91,
+   "turnoverRatio": 0.3100000023841858
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": 0.8453480261312096,
+   "oneMonthPercentChange": -11.327872981970899,
+   "threeMonthPercentChange": -31.2682559447903,
+   "sixMonthPercentChange": -0.04621719378908873,
+   "ytdPercentChange": -34.825868817809315,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 4353391.26,
+   "totalLiability": 4050563.38,
+   "equity": 300366.76,
+   "paidupCapital": 1198393.35,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 3373020.68,
+   "totalExpense": 3415896.91,
+   "sales": 3343290.04,
+   "ebit": -63913.21,
+   "ebitda": 5666.22,
+   "netProfit": -111960.82,
+   "profitFromOtherActivity": -21036.98,
+   "eps": -0.01,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -160564.81,
+   "netInvesting": -39511.34,
+   "netFinancing": 166475.5,
+   "netCashflow": -33600.64,
+   "roa": -1.5129671902899666,
+   "roe": -31.998926517615715,
+   "netProfitMargin": -3.3369072021224606,
+   "grossProfitMargin": 6.65689447631651,
+   "deRatio": 13.375793689280071,
+   "currentRatio": 0.8905989535434389,
+   "quickRatio": 0.06588866792390527,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 3926876.44,
+   "totalLiability": 4165584.09,
+   "equity": -240658.79,
+   "paidupCapital": 1198393.35,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 2193878.16,
+   "totalExpense": 2520201.03,
+   "sales": 2141266.21,
+   "ebit": -459749.69,
+   "ebitda": -393556.01,
+   "netProfit": -540315.85,
+   "profitFromOtherActivity": -133426.82,
+   "eps": -0.06,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 54974.64,
+   "netInvesting": -145893.06,
+   "netFinancing": 102950.57,
+   "netCashflow": 12032.15,
+   "roa": -11.104705950509306,
+   "roe": -1809.8614289078275,
+   "netProfitMargin": -24.628343535723058,
+   "grossProfitMargin": -5.646303081577133,
+   "deRatio": null,
+   "currentRatio": 0.773639057190178,
+   "quickRatio": 0.056299153808448604,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 3711598,
+   "totalLiability": 3955577,
+   "equity": -245930,
+   "paidupCapital": 1497992,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1367423,
+   "totalExpense": 1979386,
+   "sales": 1301306,
+   "ebit": -613209,
+   "ebitda": -554760,
+   "netProfit": -683043,
+   "profitFromOtherActivity": -1246,
+   "eps": -0.7,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -365572,
+   "netInvesting": -24680,
+   "netFinancing": 371499,
+   "netCashflow": -18753,
+   "roa": -16.055797654799772,
+   "roe": null,
+   "netProfitMargin": -49.95111242095533,
+   "grossProfitMargin": -26.589595375722542,
+   "deRatio": null,
+   "currentRatio": 0.7345398082187248,
+   "quickRatio": 0.0830062063478414,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 3321184,
+   "totalLiability": 3383371,
+   "equity": -63738,
+   "paidupCapital": 2096585,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1077172,
+   "totalExpense": 1291241,
+   "sales": 1023620,
+   "ebit": -206680,
+   "ebitda": -153277,
+   "netProfit": -280413,
+   "profitFromOtherActivity": 7389,
+   "eps": -0.22,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 134036,
+   "netInvesting": -135420,
+   "netFinancing": 38597,
+   "netCashflow": 37213,
+   "roa": -5.877617136433349,
+   "roe": null,
+   "netProfitMargin": -26.032332812215692,
+   "grossProfitMargin": -1.697407240968328,
+   "deRatio": null,
+   "currentRatio": 0.6635721227576985,
+   "quickRatio": 0.07506288510915414,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TRC",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 3055683,
+   "totalLiability": 3157907,
+   "equity": -103775,
+   "paidupCapital": 2366585,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 269287,
+   "totalExpense": 355026,
+   "sales": 248557,
+   "ebit": -88110,
+   "ebitda": -67335,
+   "netProfit": -120498,
+   "profitFromOtherActivity": -2371,
+   "eps": -0.09,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -67427,
+   "netInvesting": 2110,
+   "netFinancing": 35165,
+   "netCashflow": -30152,
+   "roa": -7.1896513693563655,
+   "roe": -2840.712187958884,
+   "netProfitMargin": -44.747054258096384,
+   "grossProfitMargin": 13.518830690746992,
+   "deRatio": null,
+   "currentRatio": 0.6456484186317494,
+   "quickRatio": 0.06126235329689372,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "TRC",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "CONS",
+   "prior": 0.43,
+   "open": 0.43,
+   "high": 0.56,
+   "low": 0.25,
+   "average": null,
+   "close": 0.29,
+   "change": -0.14,
+   "percentChange": -32.55813953488373,
+   "totalVolume": 14170194008,
+   "totalValue": 5552415850.659998,
+   "pe": null,
+   "pbv": 9.23,
+   "bookValuePerShare": 0.03,
+   "dividendYield": null,
+   "marketCap": 2780272583.02,
+   "listedShare": 9587146838,
+   "par": 0.125,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 147.80407818345338,
+   "beta": 1.08,
+   "dividendPayoutRatio": null,
+   "averageValue": 23039069.91975103
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "TRC",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "CONS",
+   "prior": 0.29,
+   "open": 0.29,
+   "high": 0.89,
+   "low": 0.28,
+   "average": null,
+   "close": 0.33,
+   "change": 0.040000000000000036,
+   "percentChange": 13.793103448275875,
+   "totalVolume": 14240432970,
+   "totalValue": 8527250512.759999,
+   "pe": null,
+   "pbv": 6.9,
+   "bookValuePerShare": 0.05,
+   "dividendYield": null,
+   "marketCap": 3163758456.54,
+   "listedShare": 9587146838,
+   "par": 0.125,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 148.5367149437625,
+   "beta": 2.21,
+   "dividendPayoutRatio": null,
+   "averageValue": 35091565.89613169
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "TRC",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "CONS",
+   "prior": 0.33,
+   "open": 0.32,
+   "high": 1.8,
+   "low": 0.07,
+   "average": null,
+   "close": 1.24,
+   "change": 0.9099999999999999,
+   "percentChange": 275.7575757575757,
+   "totalVolume": 5023945398,
+   "totalValue": 1161594845.61,
+   "pe": null,
+   "pbv": 12.86,
+   "bookValuePerShare": 0.1,
+   "dividendYield": null,
+   "marketCap": 1238339799.96,
+   "listedShare": 998661129,
+   "par": 1.5,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 49.655587488929264,
+   "beta": 1.7,
+   "dividendPayoutRatio": null,
+   "averageValue": 4760634.6131557375
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "TRC",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "CONS",
+   "prior": 1.24,
+   "open": 1.24,
+   "high": 1.26,
+   "low": 0.28,
+   "average": null,
+   "close": 0.47,
+   "change": -0.77,
+   "percentChange": -62.096774193548384,
+   "totalVolume": 278406019,
+   "totalValue": 168097564.86999997,
+   "pe": null,
+   "pbv": 35.99,
+   "bookValuePerShare": 0.01,
+   "dividendYield": null,
+   "marketCap": 656929881.91,
+   "listedShare": 1397723153,
+   "par": 1.5,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 22.143634055368604,
+   "beta": 1.11,
+   "dividendPayoutRatio": null,
+   "averageValue": 694618.0366528925
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "TRC",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "CONS",
+   "prior": 0.47,
+   "open": 0.46,
+   "high": 0.75,
+   "low": 0.28,
+   "average": null,
+   "close": 0.38,
+   "change": -0.08999999999999997,
+   "percentChange": -19.14893617021276,
+   "totalVolume": 761045753,
+   "totalValue": 410493978.36,
+   "pe": null,
+   "pbv": null,
+   "bookValuePerShare": -0.07,
+   "dividendYield": null,
+   "marketCap": 599534798.14,
+   "listedShare": 1577723153,
+   "par": 1.5,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 49.452146820026755,
+   "beta": 0.45,
+   "dividendPayoutRatio": null,
+   "averageValue": 2105097.324923077
+  }
+ ],
+ "shareholder": {
+  "symbol": "TRC",
+  "bookCloseDate": "2026-10-05T00:00:00+07:00",
+  "caType": "Shareholding Change",
+  "totalShareholder": 10165,
+  "percentScriptless": 76.05,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "บริษัท  เคพีเค 1999 จำกัด",
+    "nationality": null,
+    "numberOfShare": 332051855,
+    "percentOfShare": 21.05,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "นาย ณรงค์เกียรติ จิระเกียรติ์",
+    "nationality": null,
+    "numberOfShare": 106833299,
+    "percentOfShare": 6.77,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "MR. Ayuth Potch-anant",
+    "nationality": null,
+    "numberOfShare": 92760458,
+    "percentOfShare": 5.88,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "UOB KAY HIAN PRIVATE LIMITED",
+    "nationality": null,
+    "numberOfShare": 72857143,
+    "percentOfShare": 4.62,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "MR. CHOODEJ TAJAPAIBUL",
+    "nationality": null,
+    "numberOfShare": 71516571,
+    "percentOfShare": 4.53,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "UBS AG SINGAPORE BRANCH - FOR CLIENTS' ACCOUNTS",
+    "nationality": null,
+    "numberOfShare": 48484326,
+    "percentOfShare": 3.07,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "MR. PISIT SAELIM",
+    "nationality": null,
+    "numberOfShare": 44545800,
+    "percentOfShare": 2.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 8,
+    "name": "MR. TAWORN SUKSRISARANJITR",
+    "nationality": null,
+    "numberOfShare": 39867184,
+    "percentOfShare": 2.53,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "SMPR Holding Pte. Ltd.",
+    "nationality": null,
+    "numberOfShare": 36295311,
+    "percentOfShare": 2.3,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "Thai NVDR Company Limited",
+    "nationality": null,
+    "numberOfShare": 22882992,
+    "percentOfShare": 1.45,
+    "isThaiNVDR": true
+   },
+   {
+    "sequence": 11,
+    "name": "MR. ANUWAT SAISITH",
+    "nationality": null,
+    "numberOfShare": 18939607,
+    "percentOfShare": 1.2,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 12,
+    "name": "MR. CHOTIVAT PORNCHOTTHAVERAT",
+    "nationality": null,
+    "numberOfShare": 16726471,
+    "percentOfShare": 1.06,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 13,
+    "name": "UBS AG LONDON BRANCH",
+    "nationality": null,
+    "numberOfShare": 16013186,
+    "percentOfShare": 1.01,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 14,
+    "name": "MR. TASNAI KRAIWATTANAPONG",
+    "nationality": null,
+    "numberOfShare": 14262236,
+    "percentOfShare": 0.9,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 15,
+    "name": "น.ส. ภาสิตา ลี้สกุล",
+    "nationality": null,
+    "numberOfShare": 12888391,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 16,
+    "name": "MR. SOMPONG SOMBOON",
+    "nationality": null,
+    "numberOfShare": 12471683,
+    "percentOfShare": 0.79,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 17,
+    "name": "MR. Thatchai Bavontaranon",
+    "nationality": null,
+    "numberOfShare": 12366252,
+    "percentOfShare": 0.78,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 18,
+    "name": "MR. ATTHASIT SAKSUTHAPHORN",
+    "nationality": null,
+    "numberOfShare": 11400184,
+    "percentOfShare": 0.72,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 19,
+    "name": "MR. JANEWIT SOMBATCHAROENWONG",
+    "nationality": null,
+    "numberOfShare": 10349784,
+    "percentOfShare": 0.66,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 20,
+    "name": "MR. UKRIT VANICHKUL",
+    "nationality": null,
+    "numberOfShare": 9049674,
+    "percentOfShare": 0.57,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-30T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 56.060001373291016,
+   "numberOfHolder": 7464
+  }
+ },
+ "dividend_xd": []
+}

@@ -1,0 +1,52 @@
+{
+  "run": "rm_lc75",
+  "stage": "rm",
+  "status": "ok",
+  "error": null,
+  "steps_done": 114,
+  "peak_alloc_gb": 9.214,
+  "peak_reserved_gb": 10.266,
+  "mean_step_seconds": 5.62,
+  "mean_step_seconds_after_first": 5.61,
+  "total_seconds": 652.3,
+  "settings": {
+    "run": "rm_lc75",
+    "train": [
+      "data/rm/B_train.jsonl"
+    ],
+    "eval": "data/rm/B_val.jsonl",
+    "test": "data/rm/B_test.jsonl",
+    "test_limit": null,
+    "probes": "data/rm/probes_B_test.jsonl",
+    "candidates": "outputs/base_runs/gen_B_sft.jsonl",
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "no_train": false,
+    "limit": null,
+    "train_frac": 0.75,
+    "frac_unit": "prompt",
+    "no_margin": false,
+    "epochs": 2.0,
+    "max_steps": -1,
+    "batch_size": 2,
+    "grad_accum": 4,
+    "lr": 1e-05,
+    "center": 0.01,
+    "max_length": 2560,
+    "dtype": "float32",
+    "no_grad_ckpt": false,
+    "seed": 2026,
+    "n_train_pairs_all": 609,
+    "n_train_pairs": 451,
+    "n_train_prompts": 99,
+    "n_train_after_length_filter": 451
+  },
+  "versions": {
+    "python": "3.10.11",
+    "torch": "2.11.0+cu128",
+    "transformers": "5.20.2",
+    "trl": "1.12.0",
+    "peft": "0.21.2",
+    "gpu": "NVIDIA GeForce RTX 5060 Ti",
+    "gpu_total_gb": 15.9
+  }
+}

@@ -1,0 +1,2912 @@
+{
+ "_meta": {
+  "symbol": "STARM",
+  "stratum": "SET|FINCIAL",
+  "fetchedAt": "2026-10-24T08:53:41.154Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "STARM",
+  "name": "STAR MONEY PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "FIN",
+  "sectorName": "Finance & Securities",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/STARM.png",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "STARM",
+  "name": "STAR MONEY PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "FIN",
+  "sectorName": "Finance & Securities",
+  "logoUrl": "https://media.set.or.th/common/logo/company/STARM.png",
+  "businessType": "A dealer in electrical appliances which sell the products both in cash and installment and a credit provider in various types such as (1) Personal loan under regulations of Bank of Thailand (\"BOT\") with an original car registration as a mortgage security (2) Personal loan under regulations of BOT which is not a credit with an original car registration as a mortgage security (3) Secured loan with mortgage securities such as an original car registration, land and buildings including insurance broker service business.",
+  "url": "http://www.starmoney.co.th",
+  "address": "204/1-8 Sukhumwit Road, Thang Kwian, Klaeng Rayong 21110",
+  "telephone": "06-1393-9988",
+  "fax": "",
+  "email": "",
+  "dividendPolicy": "Not less than 40% of the net profit shown in separate financial statements after corporate income tax and all reserves specified by law and other reserves (if any) (with additional conditions)",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "establishedDate": "27/06/2016",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "Ms. PLOYJUTA SUCANTHAMAL",
+    "company": "EY OFFICE LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "Miss SARANYA PLUDSRI",
+    "company": "EY OFFICE LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "Miss Somjai Khunapasut",
+    "company": "EY OFFICE LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Miss SUWAKHON MUADKHONG",
+    "startDate": "2019-01-02T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Mrs. KRITSANA WISAMON",
+    "startDate": "2018-08-01T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 550000000,
+   "paidupCapital": 550000000,
+   "par": 0.5,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 1100000000,
+   "votingRights": [
+    {
+     "symbol": "STARM",
+     "paidupShare": 1100000000,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 1100000000
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 1100000000
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "STARM",
+  "sign": "",
+  "prior": 0.94,
+  "last": 0.95,
+  "open": 0.92,
+  "high": 0.95,
+  "low": 0.92,
+  "average": 0.93462,
+  "floor": 0.66,
+  "ceiling": 1.22,
+  "change": 0.01,
+  "percentChange": 1.06383,
+  "totalVolume": 6500,
+  "totalValue": 6075,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 6500,
+  "aomValue": 6075,
+  "bids": [
+   {
+    "volume": 3500,
+    "price": "0.92"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 19400,
+    "price": "0.95"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.01,
+  "nameEN": "STAR MONEY PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัท สตาร์ มันนี่ จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "FINCIAL",
+  "sectorName": "FIN",
+  "isNPG": false,
+  "high52Weeks": 1.06,
+  "low52Weeks": 0.72,
+  "par": 0.5,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 1045000000,
+  "peRatio": 11.5,
+  "pbRatio": 0.87,
+  "dividendYield": 6.11,
+  "nvdrNetVolume": -3000,
+  "listedShare": 1100000000,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1727FIN130820261616500672E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 14765,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 1973420,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 1968017,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 25502,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2711298,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": 1218190,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 1516977,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 466251,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 178070,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1194321,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1727FIN130820251552030691E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 34707,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 2135850,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 2129380,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 31400,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2905943,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": 1256350,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 1741795,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 466251,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 147897,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1164148,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1727FIN260220261656460845E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 17926.142,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 2125199.379,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 2120070.967,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 27389.592,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2793936.527,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": 1215340,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 1592791.562,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 466251.2,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 184893.765,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1201144.965,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1727FIN270220251739070946E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 39799.266,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 2356474.643,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 2349964.319,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 33386.94,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2993666.13,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": 1354530,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 1847417.533,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 466251.2,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 129997.397,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1146248.597,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1727FIN280220241531180679E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 39514.815,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 2369105.928,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 2361454.88,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 43057.981,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2959606.537,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": 1275780,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 1831979.049,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 550000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 466251.2,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 111377.371,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1127627.488,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1727FIN130820261616500672E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 723671,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 278755,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 211996,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 741589,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": 366664,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 39749,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 216201,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": 109411,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 56976,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": 0.0518,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1727FIN130820251552030691E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 780224,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 312561,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 236057,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 801716,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": 387299,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 65082,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 215750,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": 109071,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 50900,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": 0.04627,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1727FIN260220261656460845E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 1468029.157,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 608804.347,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 456995.763,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 1507938.231,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": 709532.636,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 132627.805,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 435939.076,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": 191720.26,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 84823.851,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": 0.07711,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1727FIN270220251739070946E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 1500399.062,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 635936.594,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 508636.058,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 1545059.336,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": 712071.383,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 182825.053,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 435841.579,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": 162999.554,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 50584.353,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": 0.04599,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1727FIN280220241531180679E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 1330554.104,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 539913.936,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 455351.034,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 1379854.254,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": 656836.48,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 108299.248,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 421313.999,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": 155355.101,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 61749.676,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": 0.05614,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1727FIN130820261616500672E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 228733,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -4282,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -227612,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": -3161,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1727FIN130820251552030691E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 266160,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -3219,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -268033,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": -5092,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1727FIN260220261656460845E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 428035.441,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -9966.434,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -439942.131,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": -21873.124,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1727FIN270220251739070946E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 139872.305,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -7082.055,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -132505.799,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": 284.451,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "U",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1727FIN280220241531180679E.zip",
+   "fsTypeDescription": "Company",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": -42872.024,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -7393.636,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -428864.958,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": -479130.618,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "U",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 7.708377765406287
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 6.838241763171635
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.2701585252206065
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.515488379437521
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 7.682961856230338
+    }
+   ]
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 4.766041562921307
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 5.452996125824366
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.4961972189103103
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.5045399762461229
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 6.3488816488631885
+    }
+   ]
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 7.2270667111562945
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 6.625204640430516
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.326061049899747
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.5210925208884329
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 5.625154155021323
+    }
+   ]
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "U",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 4.449173813823893
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 5.475964524440362
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.6117075562840382
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.5190621774106272
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 3.273942216355263
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -10.192877144079608
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 11.93713163064833
+    }
+   ]
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -6.607505993875565
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 9.349488699836728
+    }
+   ]
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -10.15270132440079
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 67.68793114866557
+    }
+   ]
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "U",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": 11.701967600688192
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": -18.081599775091956
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "STARM",
+   "fiveDayPercentChange": 1.0638297872340436,
+   "oneMonthPercentChange": 1.0638297872340436,
+   "threeMonthPercentChange": -1.0416666666666676,
+   "sixMonthPercentChange": 13.095238095238093,
+   "ytdPercentChange": 11.76470588235294,
+   "peRatio": 11.5,
+   "pbRatio": 0.87,
+   "turnoverRatio": null
+  },
+  "sector": {
+   "symbol": "FIN",
+   "fiveDayPercentChange": -0.5348365733026217,
+   "oneMonthPercentChange": 3.738189419185245,
+   "threeMonthPercentChange": 8.41861864498532,
+   "sixMonthPercentChange": 5.148971585824169,
+   "ytdPercentChange": 4.09444896069735,
+   "peRatio": 10.54,
+   "pbRatio": 0.98,
+   "turnoverRatio": 0.46000000834465027
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": 1.9181708774730355,
+   "oneMonthPercentChange": 3.765255021097902,
+   "threeMonthPercentChange": 3.8135717500563215,
+   "sixMonthPercentChange": 7.093338720940268,
+   "ytdPercentChange": -9.906348071677584,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "U",
+   "accountFormId": "2",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 3209885.28,
+   "totalLiability": 2098531.42,
+   "equity": 1111353.86,
+   "paidupCapital": 550000,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1399436.16,
+   "totalExpense": 1224691.39,
+   "sales": null,
+   "ebit": 174744.77,
+   "ebitda": null,
+   "netProfit": 81144.87,
+   "profitFromOtherActivity": null,
+   "eps": 0.1,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -147753.89,
+   "netInvesting": -11215.82,
+   "netFinancing": 656444.56,
+   "netCashflow": 497474.85,
+   "roa": 6.345226337911044,
+   "roe": 9.985184568640074,
+   "netProfitMargin": 5.798397405995283,
+   "grossProfitMargin": null,
+   "deRatio": 1.888265741030494,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "U",
+   "accountFormId": "2",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2959606.54,
+   "totalLiability": 1831979.05,
+   "equity": 1127627.49,
+   "paidupCapital": 550000,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1379854.25,
+   "totalExpense": 1224499.15,
+   "sales": null,
+   "ebit": 155355.1,
+   "ebitda": null,
+   "netProfit": 61749.68,
+   "profitFromOtherActivity": null,
+   "eps": 0.06,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -42872.02,
+   "netInvesting": -7393.64,
+   "netFinancing": -428864.96,
+   "netCashflow": -479130.62,
+   "roa": 5.0362365177753,
+   "roe": 5.51587262879223,
+   "netProfitMargin": 4.475087133296868,
+   "grossProfitMargin": null,
+   "deRatio": 1.6246314197253209,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "U",
+   "accountFormId": "2",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2993666.13,
+   "totalLiability": 1847417.53,
+   "equity": 1146248.6,
+   "paidupCapital": 550000,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1545059.34,
+   "totalExpense": 1382059.78,
+   "sales": null,
+   "ebit": 162999.55,
+   "ebitda": null,
+   "netProfit": 50584.35,
+   "profitFromOtherActivity": null,
+   "eps": 0.05,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 139872.3,
+   "netInvesting": -7082.06,
+   "netFinancing": -132505.8,
+   "netCashflow": 284.45,
+   "roa": 5.475964524440362,
+   "roe": 4.449173813823893,
+   "netProfitMargin": 3.273942216355263,
+   "grossProfitMargin": null,
+   "deRatio": 1.6117075562840382,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "U",
+   "accountFormId": "2",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2793936.53,
+   "totalLiability": 1592791.56,
+   "equity": 1201144.97,
+   "paidupCapital": 550000,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1507938.23,
+   "totalExpense": 1316217.97,
+   "sales": null,
+   "ebit": 191720.26,
+   "ebitda": null,
+   "netProfit": 84823.85,
+   "profitFromOtherActivity": null,
+   "eps": 0.08,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 428035.44,
+   "netInvesting": -9966.43,
+   "netFinancing": -439942.13,
+   "netCashflow": -21873.12,
+   "roa": 6.625204640430516,
+   "roe": 7.2270667111562945,
+   "netProfitMargin": 5.625154155021323,
+   "grossProfitMargin": null,
+   "deRatio": 1.326061049899747,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "STARM",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "U",
+   "accountFormId": "2",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2711298,
+   "totalLiability": 1516977,
+   "equity": 1194321,
+   "paidupCapital": 550000,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 741589,
+   "totalExpense": 632178,
+   "sales": null,
+   "ebit": 109411,
+   "ebitda": null,
+   "netProfit": 56976,
+   "profitFromOtherActivity": null,
+   "eps": 0.05,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 228733,
+   "netInvesting": -4282,
+   "netFinancing": -227612,
+   "netCashflow": -3161,
+   "roa": 6.838241763171635,
+   "roe": 7.708377765406287,
+   "netProfitMargin": 7.682961856230338,
+   "grossProfitMargin": null,
+   "deRatio": 1.2701585252206065,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "STARM",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "FIN",
+   "prior": 2.04,
+   "open": 2.4,
+   "high": 2.68,
+   "low": 1.81,
+   "average": null,
+   "close": 2.08,
+   "change": 0.040000000000000036,
+   "percentChange": 1.960784313725492,
+   "totalVolume": 2095571259,
+   "totalValue": 4740008655.829999,
+   "pe": 24.2,
+   "pbv": 2.07,
+   "bookValuePerShare": 1,
+   "dividendYield": null,
+   "marketCap": 2288000000,
+   "listedShare": 1100000000,
+   "par": 0.5,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 190.5064780909091,
+   "beta": null,
+   "dividendPayoutRatio": null,
+   "averageValue": 526667628.42555547
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "STARM",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "FIN",
+   "prior": 2.08,
+   "open": 2.08,
+   "high": 2.34,
+   "low": 1.05,
+   "average": null,
+   "close": 1.19,
+   "change": -0.8900000000000001,
+   "percentChange": -42.78846153846155,
+   "totalVolume": 1158980206,
+   "totalValue": 2401532333.44,
+   "pe": 19.51,
+   "pbv": 1.15,
+   "bookValuePerShare": 1.03,
+   "dividendYield": 3.359999895095825,
+   "marketCap": 1309000000,
+   "listedShare": 1100000000,
+   "par": 0.5,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 105.36183690909091,
+   "beta": 1.45,
+   "dividendPayoutRatio": 0.66,
+   "averageValue": 9882849.108806584
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "STARM",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "FIN",
+   "prior": 1.19,
+   "open": 1.17,
+   "high": 1.52,
+   "low": 0.95,
+   "average": null,
+   "close": 1,
+   "change": -0.18999999999999995,
+   "percentChange": -15.966386554621844,
+   "totalVolume": 154818414,
+   "totalValue": 198389625.43999997,
+   "pe": 17.53,
+   "pbv": 0.95,
+   "bookValuePerShare": 1.06,
+   "dividendYield": 3,
+   "marketCap": 1100000000,
+   "listedShare": 1100000000,
+   "par": 0.5,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 14.074401272727274,
+   "beta": 0.74,
+   "dividendPayoutRatio": 0.53,
+   "averageValue": 813072.2354098359
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "STARM",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "FIN",
+   "prior": 1,
+   "open": 0.99,
+   "high": 1.08,
+   "low": 0.7,
+   "average": null,
+   "close": 0.85,
+   "change": -0.15000000000000002,
+   "percentChange": -15.000000000000002,
+   "totalVolume": 57882141,
+   "totalValue": 51590422.31999999,
+   "pe": 16.7,
+   "pbv": 0.79,
+   "bookValuePerShare": 1.08,
+   "dividendYield": 3.53,
+   "marketCap": 935000000,
+   "listedShare": 1100000000,
+   "par": 0.5,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 5.262012818181818,
+   "beta": 0.33,
+   "dividendPayoutRatio": 0.59,
+   "averageValue": 213183.5633057851
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "STARM",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "FIN",
+   "prior": 0.85,
+   "open": 0.84,
+   "high": 1.03,
+   "low": 0.8,
+   "average": null,
+   "close": 0.95,
+   "change": 0.09999999999999998,
+   "percentChange": 11.76470588235294,
+   "totalVolume": 28791564,
+   "totalValue": 25927040.28,
+   "pe": 11.5,
+   "pbv": 0.87,
+   "bookValuePerShare": 1.09,
+   "dividendYield": 6.11,
+   "marketCap": 1045000000,
+   "listedShare": 1100000000,
+   "par": 0.5,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 2.617414909090909,
+   "beta": 0.32,
+   "dividendPayoutRatio": 0.7,
+   "averageValue": 132959.18092307693
+  }
+ ],
+ "shareholder": {
+  "symbol": "STARM",
+  "bookCloseDate": "2026-05-07T00:00:00+07:00",
+  "caType": "XD",
+  "totalShareholder": 1942,
+  "percentScriptless": 100,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "บริษัท  ธนาธิวัตถ์ จำกัด",
+    "nationality": null,
+    "numberOfShare": 344000000,
+    "percentOfShare": 31.27,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "MR. VITIT LAVANSTHIEN",
+    "nationality": null,
+    "numberOfShare": 89124600,
+    "percentOfShare": 8.1,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "บริษัท  บัวหลวงเวนเจอร์ส จำกัด",
+    "nationality": null,
+    "numberOfShare": 64000000,
+    "percentOfShare": 5.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "MISS NICHANUN LAWANSATHIAN",
+    "nationality": null,
+    "numberOfShare": 37600000,
+    "percentOfShare": 3.42,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "MR. TINNAKORN LAWUNSATRAIN",
+    "nationality": null,
+    "numberOfShare": 35990100,
+    "percentOfShare": 3.27,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "MR. AKEAPOP LAVANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 34173400,
+    "percentOfShare": 3.11,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "MR. CHAVALIT VISALARNKUL",
+    "nationality": null,
+    "numberOfShare": 33818200,
+    "percentOfShare": 3.07,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 8,
+    "name": "MRS. SAVITREE LAVANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 24720000,
+    "percentOfShare": 2.25,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "MR. DANUWAT LAWANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 22246400,
+    "percentOfShare": 2.02,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "นาย ทรัสตี ลีนุวงศ์พันธ์",
+    "nationality": null,
+    "numberOfShare": 18671900,
+    "percentOfShare": 1.7,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 11,
+    "name": "MR. AUGCHIYA LEENUWONGSPHAN",
+    "nationality": null,
+    "numberOfShare": 14820000,
+    "percentOfShare": 1.35,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 12,
+    "name": "MR. AONGART MANAKULISSARA",
+    "nationality": null,
+    "numberOfShare": 12000000,
+    "percentOfShare": 1.09,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 13,
+    "name": "MR. NATAPON LAWANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 11940000,
+    "percentOfShare": 1.09,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 14,
+    "name": "MR. SURAYUT LAWANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 11760000,
+    "percentOfShare": 1.07,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 15,
+    "name": "MISS KETKARN KAEWKET",
+    "nationality": null,
+    "numberOfShare": 11760000,
+    "percentOfShare": 1.07,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 16,
+    "name": "MRS. PHETCHAREE LAWANSATHIAN",
+    "nationality": null,
+    "numberOfShare": 10830000,
+    "percentOfShare": 0.98,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 17,
+    "name": "MR. APINUT LAVANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 10452800,
+    "percentOfShare": 0.95,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 18,
+    "name": "MR. NUTCHAPON LAVANSATIAN",
+    "nationality": null,
+    "numberOfShare": 10452800,
+    "percentOfShare": 0.95,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 19,
+    "name": "นาย อาทิตย์ วิวัฒน์วงศ์เกษม",
+    "nationality": null,
+    "numberOfShare": 10169600,
+    "percentOfShare": 0.92,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 20,
+    "name": "น.ส. เนตรชนก วิวัฒน์วงศ์เกษม",
+    "nationality": null,
+    "numberOfShare": 10169600,
+    "percentOfShare": 0.92,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 21,
+    "name": "MR. EKSAKUL MANAKULISSARA",
+    "nationality": null,
+    "numberOfShare": 10010000,
+    "percentOfShare": 0.91,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 22,
+    "name": "MR. PEACHCHAN LAVANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 9567700,
+    "percentOfShare": 0.87,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 23,
+    "name": "MRS. KALLAYANEE MANAKULISSARA",
+    "nationality": null,
+    "numberOfShare": 9000000,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 24,
+    "name": "MRS. SUCHADA LAVANSATHIEN",
+    "nationality": null,
+    "numberOfShare": 8967200,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 25,
+    "name": "MISS MANEERAT SUNTHONWECHAPONG",
+    "nationality": null,
+    "numberOfShare": 8265400,
+    "percentOfShare": 0.75,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 26,
+    "name": "MR. WUTTIPONG SUNTORNWATCHAPONG",
+    "nationality": null,
+    "numberOfShare": 7714400,
+    "percentOfShare": 0.7,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 27,
+    "name": "MR. WIRAT LAWANSATHIAN",
+    "nationality": null,
+    "numberOfShare": 7700000,
+    "percentOfShare": 0.7,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 28,
+    "name": "MR. NUTTHAWUT JEARUDOMSUB",
+    "nationality": null,
+    "numberOfShare": 6000000,
+    "percentOfShare": 0.55,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 29,
+    "name": "MR. BORDIN LAWANSATHIAN",
+    "nationality": null,
+    "numberOfShare": 5880000,
+    "percentOfShare": 0.53,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-12T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 37.4900016784668,
+   "numberOfHolder": 1801
+  }
+ },
+ "dividend_xd": [
+  {
+   "currency": "Baht",
+   "symbol": "STARM",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-05-07T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-05-26T00:00:00+07:00",
+   "beginOperation": "2025-01-01T00:00:00+07:00",
+   "endOperation": "2025-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.058,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.058",
+   "xdate": "2026-05-06T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "STARM",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2025-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2025-05-26T00:00:00+07:00",
+   "beginOperation": "2024-01-01T00:00:00+07:00",
+   "endOperation": "2024-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.03,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.03",
+   "xdate": "2025-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "STARM",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2024-05-27T00:00:00+07:00",
+   "beginOperation": "2023-01-01T00:00:00+07:00",
+   "endOperation": "2023-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.03,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.03",
+   "xdate": "2024-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "STARM",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-05-26T00:00:00+07:00",
+   "beginOperation": "2022-01-01T00:00:00+07:00",
+   "endOperation": "2022-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.04,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.04",
+   "xdate": "2023-05-03T00:00:00+07:00",
+   "xSession": ""
+  }
+ ]
+}

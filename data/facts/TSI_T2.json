@@ -1,0 +1,474 @@
+{
+ "symbol": "TSI",
+ "snapshot": "T2",
+ "periods": {
+  "current": "6M 2026 (6 months to 30 Jun 2026)",
+  "prior": "6M 2025 (6 months to 30 Jun 2025)",
+  "statement_type": "Company",
+  "audit_status": "Reviewed"
+ },
+ "facts": [
+  {
+   "key": "income.Insurance revenue.current",
+   "label": "Insurance revenue",
+   "value": 583.1,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Insurance revenue.prior",
+   "label": "Insurance revenue",
+   "value": 520.1,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Insurance revenue.yoy",
+   "label": "Insurance revenue YoY change",
+   "value": 12.1,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.Insurance service result.current",
+   "label": "Insurance service result",
+   "value": -74.5,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Insurance service result.prior",
+   "label": "Insurance service result",
+   "value": 17.4,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Net investment result.current",
+   "label": "Net investment result",
+   "value": 10.3,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Net investment result.prior",
+   "label": "Net investment result",
+   "value": 2.9,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Net investment result.yoy",
+   "label": "Net investment result YoY change",
+   "value": 255.2,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "income.Profit before tax.current",
+   "label": "Profit before tax",
+   "value": -81.1,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Profit before tax.prior",
+   "label": "Profit before tax",
+   "value": -6.1,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.Net profit (owners of the parent).current",
+   "label": "Net profit (owners of the parent)",
+   "value": -81.1,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "income.Net profit (owners of the parent).prior",
+   "label": "Net profit (owners of the parent)",
+   "value": -6.0,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "income.EPS (THB per share).current",
+   "label": "EPS (THB per share)",
+   "value": -0.04,
+   "unit": "THB",
+   "period": "current"
+  },
+  {
+   "key": "income.EPS (THB per share).prior",
+   "label": "EPS (THB per share)",
+   "value": -0.0,
+   "unit": "THB",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Cash and cash equivalents.current",
+   "label": "Cash and cash equivalents",
+   "value": 7.2,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Cash and cash equivalents.prior",
+   "label": "Cash and cash equivalents",
+   "value": 28.0,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Cash and cash equivalents.yoy",
+   "label": "Cash and cash equivalents YoY change",
+   "value": -74.3,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Total assets.current",
+   "label": "Total assets",
+   "value": 912.1,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Total assets.prior",
+   "label": "Total assets",
+   "value": 1115.2,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Total assets.yoy",
+   "label": "Total assets YoY change",
+   "value": -18.2,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Insurance liabilities.current",
+   "label": "Insurance liabilities",
+   "value": 649.3,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Insurance liabilities.prior",
+   "label": "Insurance liabilities",
+   "value": 767.0,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Insurance liabilities.yoy",
+   "label": "Insurance liabilities YoY change",
+   "value": -15.3,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Total liabilities.current",
+   "label": "Total liabilities",
+   "value": 739.3,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Total liabilities.prior",
+   "label": "Total liabilities",
+   "value": 901.3,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Total liabilities.yoy",
+   "label": "Total liabilities YoY change",
+   "value": -18.0,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "balance.Shareholders' equity.current",
+   "label": "Shareholders' equity",
+   "value": 172.8,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "balance.Shareholders' equity.prior",
+   "label": "Shareholders' equity",
+   "value": 213.9,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "balance.Shareholders' equity.yoy",
+   "label": "Shareholders' equity YoY change",
+   "value": -19.2,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "cash_flow.Operating cash flow.current",
+   "label": "Operating cash flow",
+   "value": 0.4,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Operating cash flow.prior",
+   "label": "Operating cash flow",
+   "value": -6.2,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "cash_flow.Investing cash flow.current",
+   "label": "Investing cash flow",
+   "value": -0.7,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Investing cash flow.prior",
+   "label": "Investing cash flow",
+   "value": 0.5,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "cash_flow.Financing cash flow.current",
+   "label": "Financing cash flow",
+   "value": -4.4,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Financing cash flow.prior",
+   "label": "Financing cash flow",
+   "value": -5.2,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "cash_flow.Net cash flow.current",
+   "label": "Net cash flow",
+   "value": -4.7,
+   "unit": "THB m",
+   "period": "current"
+  },
+  {
+   "key": "cash_flow.Net cash flow.prior",
+   "label": "Net cash flow",
+   "value": -10.8,
+   "unit": "THB m",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.ROE (%).current",
+   "label": "ROE (%)",
+   "value": -33.25,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.ROE (%).prior",
+   "label": "ROE (%)",
+   "value": 21.9,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.ROA (%).current",
+   "label": "ROA (%)",
+   "value": -6.36,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.ROA (%).prior",
+   "label": "ROA (%)",
+   "value": 4.21,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.D/E (X).current",
+   "label": "D/E (X)",
+   "value": 4.28,
+   "unit": "x",
+   "period": "current"
+  },
+  {
+   "key": "ratio.D/E (X).prior",
+   "label": "D/E (X)",
+   "value": 4.21,
+   "unit": "x",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.Total Asset Turnover (X).current",
+   "label": "Total Asset Turnover (X)",
+   "value": 1.25,
+   "unit": "x",
+   "period": "current"
+  },
+  {
+   "key": "ratio.Total Asset Turnover (X).prior",
+   "label": "Total Asset Turnover (X)",
+   "value": 0.73,
+   "unit": "x",
+   "period": "prior"
+  },
+  {
+   "key": "ratio.Net Profit Margin (%).current",
+   "label": "Net Profit Margin (%)",
+   "value": -13.55,
+   "unit": "%",
+   "period": "current"
+  },
+  {
+   "key": "ratio.Net Profit Margin (%).prior",
+   "label": "Net Profit Margin (%)",
+   "value": -1.13,
+   "unit": "%",
+   "period": "prior"
+  },
+  {
+   "key": "market.last_price_thb",
+   "label": "last_price_thb",
+   "value": 0.04,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "market.price_change_ytd_pct",
+   "label": "price_change_ytd_pct",
+   "value": -20.0,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.price_change_3m_pct",
+   "label": "price_change_3m_pct",
+   "value": -33.33,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.price_change_6m_pct",
+   "label": "price_change_6m_pct",
+   "value": -20.0,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.high_52w_thb",
+   "label": "high_52w_thb",
+   "value": 0.07,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "market.low_52w_thb",
+   "label": "low_52w_thb",
+   "value": 0.03,
+   "unit": "THB",
+   "period": null
+  },
+  {
+   "key": "market.market_cap_thb_m",
+   "label": "market_cap_thb_m",
+   "value": 76.1,
+   "unit": "THB m",
+   "period": null
+  },
+  {
+   "key": "market.pbv_x",
+   "label": "pbv_x",
+   "value": 0.44,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.beta",
+   "label": "beta",
+   "value": 0.34,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.sector_ytd_pct",
+   "label": "sector_ytd_pct",
+   "value": -31.71,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "market.sector_pe_x",
+   "label": "sector_pe_x",
+   "value": 9.0,
+   "unit": "x",
+   "period": null
+  },
+  {
+   "key": "market.set_index_ytd_pct",
+   "label": "set_index_ytd_pct",
+   "value": -35.51,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.total",
+   "label": "Number of shareholders",
+   "value": 1764,
+   "unit": "count",
+   "period": null
+  },
+  {
+   "key": "holders.free_float",
+   "label": "Free float",
+   "value": 36.16,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top1",
+   "label": "Individual shareholder (Thai name)",
+   "value": 23.83,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top2",
+   "label": "MISS TITANAN SUN",
+   "value": 14.63,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top3",
+   "label": "MRS. DONG CHEN",
+   "value": 7.92,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top4",
+   "label": "MISS SUK FUN GUN",
+   "value": 6.73,
+   "unit": "%",
+   "period": null
+  },
+  {
+   "key": "holders.top5",
+   "label": "MISS SIU CHUN VIANNA CHAN",
+   "value": 6.73,
+   "unit": "%",
+   "period": null
+  }
+ ]
+}

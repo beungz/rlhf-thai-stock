@@ -1,0 +1,52 @@
+{
+  "run": "ppo_lowkl",
+  "stage": "ppo",
+  "status": "ok",
+  "error": null,
+  "steps_done": 80,
+  "peak_alloc_gb": 13.617,
+  "peak_reserved_gb": 14.727,
+  "mean_step_seconds": 67.51,
+  "mean_step_seconds_after_first": 67.48,
+  "total_seconds": 5401.8,
+  "settings": {
+    "run": "ppo_lowkl",
+    "sft_adapter": "models/sft_v1",
+    "reward_model": "models/rm_v2",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "split": [
+      "C_ppo",
+      "reserve"
+    ],
+    "longest": null,
+    "steps": 80,
+    "batch_size": 1,
+    "grad_accum": 8,
+    "rollout_batch": 4,
+    "ppo_epochs": 2,
+    "lr": 3e-05,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "response_length": 500,
+    "temperature": 0.7,
+    "missing_eos_penalty": 1.0,
+    "kl_coef": 0.005,
+    "kl_target": 0.0,
+    "kl_horizon": 10000,
+    "value_dtype": "bfloat16",
+    "save_every": 20,
+    "seed": 2026,
+    "no_grad_ckpt": false,
+    "n_prompts": 272,
+    "rollouts_per_update": 8
+  },
+  "versions": {
+    "python": "3.10.11",
+    "torch": "2.11.0+cu128",
+    "transformers": "5.20.2",
+    "trl": "1.12.0",
+    "peft": "0.21.2",
+    "gpu": "NVIDIA GeForce RTX 5060 Ti",
+    "gpu_total_gb": 15.9
+  }
+}

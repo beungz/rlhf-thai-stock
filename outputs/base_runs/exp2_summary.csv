@@ -1,0 +1,13 @@
+model,format,prompt_id,n,gold,severe_pct,num_precision,dir_err,scale_err,attr_flags,invented100w,coverage,out_tokens,over_500_pct,trunc_pct,filler_pct,advice_pct,repeat4
+gemma1b,markdown,guided,24,0.468,62,0.839,0.54,1.67,0.12,0.91,0.74,530,75,25,71,4,0.008
+gemma1b,markdown,guided_v2,24,0.442,58,0.882,0.79,1.42,0.21,1.36,0.66,521,62,42,0,8,0.01
+gemma1b,markdown,minimal,24,0.437,46,0.671,0.33,0.46,0.08,0.96,0.51,537,75,17,100,12,0.002
+gemma1b,markdown_bn,guided,24,0.492,71,0.821,0.83,1.79,0.0,1.08,0.7,492,42,17,46,0,0.007
+gemma1b,markdown_bn,guided_v2,24,0.424,79,0.811,0.92,2.29,0.04,1.22,0.65,480,50,33,0,4,0.009
+gemma1b,markdown_bn,minimal,24,0.442,42,0.683,0.5,0.08,0.0,0.93,0.51,522,67,12,100,4,0.002
+qwen1.5b,markdown,guided,24,0.802,17,0.967,0.33,0.25,0.04,1.25,0.75,414,8,0,0,38,0.003
+qwen1.5b,markdown,guided_v2,24,0.766,25,0.973,0.54,0.17,0.12,1.31,0.71,387,0,0,0,29,0.002
+qwen1.5b,markdown,minimal,24,0.498,17,0.959,0.25,0.25,1.5,0.2,0.55,557,83,71,0,0,0.004
+qwen1.5b,markdown_bn,guided,24,0.841,4,0.973,0.21,0.0,0.04,1.04,0.77,437,25,4,0,25,0.005
+qwen1.5b,markdown_bn,guided_v2,24,0.794,12,0.98,0.25,0.04,0.08,1.26,0.74,401,8,0,0,29,0.003
+qwen1.5b,markdown_bn,minimal,24,0.478,33,0.838,0.17,3.0,0.75,0.19,0.53,539,75,67,0,0,0.006

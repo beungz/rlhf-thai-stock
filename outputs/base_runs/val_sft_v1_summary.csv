@@ -1,0 +1,2 @@
+model,format,prompt_id,n,gold,severe_pct,num_precision,dir_err,scale_err,attr_flags,invented100w,coverage,out_tokens,over_500_pct,trunc_pct,filler_pct,advice_pct,repeat4
+qwen1.5b+sft_v1,markdown,guided_v2,12,0.805,0,0.986,0.67,0.0,0.0,0.48,0.76,430,25,0,0,0,0.001

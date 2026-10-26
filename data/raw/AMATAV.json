@@ -1,0 +1,3136 @@
+{
+ "_meta": {
+  "symbol": "AMATAV",
+  "stratum": "SET|PROPCON",
+  "fetchedAt": "2026-10-24T09:01:50.474Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "AMATAV",
+  "name": "AMATA VN PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "PROPCON",
+  "industryName": "Property & Construction",
+  "sector": "PROP",
+  "sectorName": "Property Development",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/AMATAV.png",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "AAA",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "AMATAV",
+  "name": "AMATA VN PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "PROPCON",
+  "industryName": "Property & Construction",
+  "sector": "PROP",
+  "sectorName": "Property Development",
+  "logoUrl": "https://media.set.or.th/common/logo/company/AMATAV.png",
+  "businessType": "AMATA VN PCL. is a holding company",
+  "url": "http://www.amatavn.com",
+  "address": "2126 New Petchaburi road, Bangkrapi, Huay Kwang Bangkok 10310",
+  "telephone": "0-2792-0000",
+  "fax": "0-2318-1096",
+  "email": "",
+  "dividendPolicy": "The Company has a policy to pay dividend of not less than 40 percent of net profits after deductions of tax and legal reserves. In this regard, the Board of Directors will make decisions regarding dividend payment to the greatest benefits of shareholders by considering relevant factors such as retaining profits for the purpose of future capital expansion, debt repayment or internal working capital.",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "AAA",
+  "setesgRatingRemark": "",
+  "establishedDate": "30/08/2012",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "Miss YUWANAN MANOMAIVISIT",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MR. BOONLERT KAMOLCHANOKKUL",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS NOPANUCH APICHATSATIEN",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Mr. Sukhum Pitayapiboonpong",
+    "startDate": "2024-11-12T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Miss Kanyanut Buddhasastra",
+    "startDate": "2024-08-13T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 532950000,
+   "paidupCapital": 532949132.5,
+   "par": 0.5,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 1065898265,
+   "votingRights": [
+    {
+     "symbol": "AMATAV",
+     "paidupShare": 1065898265,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 1065898265
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 1065898265
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "AMATAV",
+  "sign": "",
+  "prior": 2.08,
+  "last": 2.14,
+  "open": 2.1,
+  "high": 2.14,
+  "low": 2.08,
+  "average": 2.10737,
+  "floor": 1.46,
+  "ceiling": 2.7,
+  "change": 0.06,
+  "percentChange": 2.884615,
+  "totalVolume": 141400,
+  "totalValue": 297982,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 141400,
+  "aomValue": 297982,
+  "bids": [
+   {
+    "volume": 5000,
+    "price": "2.12"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 11100,
+    "price": "2.14"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.02,
+  "nameEN": "AMATA VN PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัท อมตะ วีเอ็น จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "PROPCON",
+  "sectorName": "PROP",
+  "isNPG": false,
+  "high52Weeks": 2.6,
+  "low52Weeks": 1.76,
+  "par": 0.5,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 2281022287.1,
+  "peRatio": 3.1,
+  "pbRatio": 0.4,
+  "dividendYield": null,
+  "nvdrNetVolume": 400,
+  "listedShare": 1065898265,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1270FIN100820262059560606E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 612108,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 814308,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 3510724,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 6126362,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 1311322,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 7957469,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 14083831,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 478000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1252167,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3136039,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 4340105,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 7476144,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 532950,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 532949,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1117735,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 3408587,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 682617,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": 1544828,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 5741888,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 865799,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1270FIN080820251658010363E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 466310,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 276838,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 3204927,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 4613639,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 1382859,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 8950796,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 13564435,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 533000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1716935,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3560522,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 4132569,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 7693091,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 532950,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 532949,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1117735,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 2672118,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 572030,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": 1544828,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 4894832,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 976512,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1270FIN250220260009470063E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 669666.918,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 636464.535,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 3114999.66,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 4883233.363,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 1207216.665,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 8734237.181,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 13617470.544,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 539031.322,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1296130.324,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3273192.462,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 4063406.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 7336598.467,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 532950,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 532949.133,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1117734.742,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 3051524.087,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 363256.738,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": 1544827.661,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 5065464.7,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 1215407.377,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1270FIN250220260009470063E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 527668.884,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 529465.282,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 3341183.837,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 5238577.438,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 1441519.438,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 9555267.002,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 14793844.44,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 488724.313,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1977688.068,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3997544.021,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 4567120.869,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 8564664.89,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 532950,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 532949.133,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1117734.742,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 2644968.544,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 933687.54,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": 1544827.661,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 5229339.959,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 999839.591,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": true,
+   "restatementDate": "2025-12-31T00:00:00+07:00"
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1270FIN230220242151340994E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "601",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 937078.804,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "602",
+     "accountName": "A/R Net",
+     "amount": 290183.588,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "603",
+     "accountName": "Inventories",
+     "amount": 3213901.839,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "604",
+     "accountName": "Current Assets",
+     "amount": 5107513.343,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "605",
+     "accountName": "PP&E Net",
+     "amount": 929468.128,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "606",
+     "accountName": "Non-Current Assets",
+     "amount": 8129047.85,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "607",
+     "accountName": "Total Assets",
+     "amount": 13236561.193,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "608",
+     "accountName": "OD",
+     "amount": 240000,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "609",
+     "accountName": "A/P Net",
+     "amount": 1073256.906,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "610",
+     "accountName": "Current portion of LT",
+     "amount": 1410242.952,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "611",
+     "accountName": "Current Liabilities",
+     "amount": 3683744.448,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "612",
+     "accountName": "Non-Current Liabilities",
+     "amount": 3461359.189,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "613",
+     "accountName": "Total Liabilities",
+     "amount": 7145103.637,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "614",
+     "accountName": "Authorized Capital",
+     "amount": 467500,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "615",
+     "accountName": "Paid-Up Capital",
+     "amount": 467500,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "616",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 1117734.742,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "617",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 2621901.936,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "618",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "619",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "620",
+     "accountName": "Other Components Of Equity",
+     "amount": 1068780.739,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "621",
+     "accountName": "- Surplus (Deficits)",
+     "amount": 1404046.227,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "622",
+     "accountName": "Shareholders' Equity",
+     "amount": 5275917.417,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "623",
+     "accountName": "Minority Interest",
+     "amount": 815540.139,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1270FIN100820262059560606E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 1393552,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 447122,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 1873637,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1229002,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 112648,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1294575,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 639996,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 56042,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 583954,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 357063,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 0.335,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1270FIN080820251658010363E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 1951869,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 6360,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 1982882,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 1542264,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 128799,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 1778574,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 260386,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 51255,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 209131,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 80444,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 0.07547,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1270FIN250220260009470063E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 3956007.947,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 13675.905,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 4022605.196,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 2797290.695,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 228848.94,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 3175046.587,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 984322.7,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 108196.299,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 876126.401,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 459849.951,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 0.43,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1270FIN250220260009470063E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 5304669.677,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 21177.191,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 5379396.889,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 4541989.327,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 343424.02,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 5007358.296,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 459838.373,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 84006.429,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 375831.944,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 75748.043,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 0.07106,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": true,
+   "restatementDate": "2025-12-31T00:00:00+07:00"
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1270FIN230220242151340994E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "624",
+     "accountName": "Revenue From Operations",
+     "amount": 4207669.819,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "625",
+     "accountName": "Other Income",
+     "amount": 79509.505,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "626",
+     "accountName": "Total Revenues",
+     "amount": 4287179.324,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "627",
+     "accountName": "Costs",
+     "amount": 3241759.026,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "628",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 248855.011,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "629",
+     "accountName": "Total Cost And Expenses",
+     "amount": 3579892.49,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "630",
+     "accountName": "EBITDA",
+     "amount": 784417.617,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "631",
+     "accountName": "Depre. & Amor.",
+     "amount": 69340.967,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "632",
+     "accountName": "EBIT",
+     "amount": 715076.65,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "633",
+     "accountName": "Net Profit  : Owners Of The Parent",
+     "amount": 404740.08,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "634",
+     "accountName": "EPS (B.)",
+     "amount": 0.43288,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1270FIN100820262059560606E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 255169,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -47037,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -231796,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -23664,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1270FIN080820251658010363E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 562552,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -306243,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -386880,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -130571,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1270FIN250220260009470063E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 1002854.506,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -822199.433,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -97209.725,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 83445.348,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1270FIN250220260009470063E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 930444.852,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -1746754.474,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": 505731.117,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": -310578.505,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": true,
+   "restatementDate": "2025-12-31T00:00:00+07:00"
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "6",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1270FIN230220242151340994E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "635",
+     "accountName": "Operating Cash Flow",
+     "amount": 1583000.805,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "636",
+     "accountName": "Investing Cash Flow",
+     "amount": -793076.454,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "637",
+     "accountName": "Financing Cash Flow",
+     "amount": -357660.731,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "638",
+     "accountName": "Net Cash Flow",
+     "amount": 432263.62,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 1.9535350166244745
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 13.84767014643612
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 9.049026076355023
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.1314313162835952
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.28308178169292786
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 11.807955497893154
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 31.166869569719214
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 20.949895844285738
+    }
+   ]
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 1.2957760126183746
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 1.341084233717546
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 2.4633028307987592
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.3102776808853305
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.35543103224194594
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 20.985271040218375
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 10.54682023438611
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 4.707743577277922
+    }
+   ]
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 1.4918870245717235
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 8.933631383735259
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 6.167447023249326
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.168085956305609
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.2831692375260837
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 29.29006398988658
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 21.780074266298865
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 13.19247238083419
+    }
+   ]
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": true,
+   "restatementDate": "2025-12-31T00:00:00+07:00",
+   "data": [
+    {
+     "accountName": "Current Ratio (X)",
+     "value": 1.3104489691147918
+    },
+    {
+     "accountName": "ROE (%)",
+     "value": 1.4420977470615761
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 2.6816018635397816
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 1.3749266370079187
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.38382583249694274
+    },
+    {
+     "accountName": "Gross Profit Margin (%)",
+     "value": 14.377527650317328
+    },
+    {
+     "accountName": "EBIT Margin (%)",
+     "value": 6.986506994838971
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 1.9828198621723188
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -28.60422497616387
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -20.31182728767578
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -5.509404997372512
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -27.21275583697951
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 343.8652975983293
+    }
+   ]
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -18.369855376972982
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -23.625532041330235
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -17.333761350087133
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -17.709775819941584
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": -5.309869931140016
+    }
+   ]
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": -25.424047327297473
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": -38.41265386680246
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": -25.222003836939415
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": -36.59238265414321
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 507.0783481658404
+    }
+   ]
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": true,
+   "restatementDate": "2025-12-31T00:00:00+07:00",
+   "data": [
+    {
+     "accountName": "Sales Growth",
+     "value": 26.071433998592582
+    },
+    {
+     "accountName": "COGs Growth",
+     "value": 40.10878933219168
+    },
+    {
+     "accountName": "Total Revenue Growth",
+     "value": 25.476367757810497
+    },
+    {
+     "accountName": "Total Expense Growth",
+     "value": 39.87454410956346
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": -81.28476922769794
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "AMATAV",
+   "fiveDayPercentChange": 1.9047619047619064,
+   "oneMonthPercentChange": -6.140350877192969,
+   "threeMonthPercentChange": null,
+   "sixMonthPercentChange": 9.743589743589753,
+   "ytdPercentChange": 18.888888888888893,
+   "peRatio": 3.1,
+   "pbRatio": 0.4,
+   "turnoverRatio": 0.009999999776482582
+  },
+  "sector": {
+   "symbol": "PROP",
+   "fiveDayPercentChange": 1.3160876338667915,
+   "oneMonthPercentChange": -4.4761727012621595,
+   "threeMonthPercentChange": 4.095172729346119,
+   "sixMonthPercentChange": 4.194897606025516,
+   "ytdPercentChange": 2.460408246276491,
+   "peRatio": 13.54,
+   "pbRatio": 0.86,
+   "turnoverRatio": 0.18000000715255737
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": 2.766211798057494,
+   "oneMonthPercentChange": -3.631492612908338,
+   "threeMonthPercentChange": 4.906346189530586,
+   "sixMonthPercentChange": 3.919560423623336,
+   "ytdPercentChange": -4.163536340573993,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 12433922.28,
+   "totalLiability": 6402862.41,
+   "equity": 5177335.6,
+   "paidupCapital": 467500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 2680585.15,
+   "totalExpense": 1212121.76,
+   "sales": 1298305.39,
+   "ebit": 1466005.58,
+   "ebitda": 1520945.98,
+   "netProfit": 1045749.53,
+   "profitFromOtherActivity": -2457.81,
+   "eps": 1.12,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 374436.94,
+   "netInvesting": 53519.04,
+   "netFinancing": -876621.56,
+   "netCashflow": -448665.58,
+   "roa": 12.075403743026328,
+   "roe": 22.133604350224687,
+   "netProfitMargin": 43.645528663769554,
+   "grossProfitMargin": 22.212051357192617,
+   "deRatio": 1.0616479603940658,
+   "currentRatio": 1.0243612112604688,
+   "quickRatio": 0.4369821923796813,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 13236561.19,
+   "totalLiability": 7145103.64,
+   "equity": 5275917.42,
+   "paidupCapital": 467500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 4287179.32,
+   "totalExpense": 3579892.49,
+   "sales": 4207669.82,
+   "ebit": 715076.65,
+   "ebitda": 784417.62,
+   "netProfit": 404740.08,
+   "profitFromOtherActivity": 7789.82,
+   "eps": 0.43,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1583000.8,
+   "netInvesting": -793076.45,
+   "netFinancing": -357660.73,
+   "netCashflow": 432263.62,
+   "roa": 5.571197368036482,
+   "roe": 7.7438110265889275,
+   "netProfitMargin": 9.910978484566863,
+   "grossProfitMargin": 22.955954989833312,
+   "deRatio": 1.1729710942942202,
+   "currentRatio": 1.3865004506487957,
+   "quickRatio": 0.3431601233902097,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": true,
+   "restatementDate": "2025-12-31T00:00:00+07:00",
+   "totalAsset": 14793844.44,
+   "totalLiability": 8564664.89,
+   "equity": 5229339.96,
+   "paidupCapital": 532949.13,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 5379396.89,
+   "totalExpense": 5007358.3,
+   "sales": 5304669.68,
+   "ebit": 375831.94,
+   "ebitda": 459838.37,
+   "netProfit": 75748.04,
+   "profitFromOtherActivity": 3793.35,
+   "eps": 0.07,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 930444.85,
+   "netInvesting": -1746754.47,
+   "netFinancing": 505731.12,
+   "netCashflow": -310578.51,
+   "roa": 2.6816018635397816,
+   "roe": 1.4420977470615761,
+   "netProfitMargin": 1.9828198621723188,
+   "grossProfitMargin": 14.377527650317328,
+   "deRatio": 1.3749266370079187,
+   "currentRatio": 1.3104489691147918,
+   "quickRatio": 0.26444590846556837,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 13617470.54,
+   "totalLiability": 7336598.47,
+   "equity": 5065464.7,
+   "paidupCapital": 532949.13,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 4022605.2,
+   "totalExpense": 3175046.59,
+   "sales": 3956007.95,
+   "ebit": 876126.4,
+   "ebitda": 984322.7,
+   "netProfit": 459849.95,
+   "profitFromOtherActivity": 28567.79,
+   "eps": 0.43,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1002854.51,
+   "netInvesting": -822199.43,
+   "netFinancing": -97209.73,
+   "netCashflow": 83445.35,
+   "roa": 6.167447023249326,
+   "roe": 8.933631383735259,
+   "netProfitMargin": 13.19247238083419,
+   "grossProfitMargin": 29.29006398988658,
+   "deRatio": 1.168085956305609,
+   "currentRatio": 1.4918870245717235,
+   "quickRatio": 0.3990390042631346,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AMATAV",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "accountFormId": "6",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 14083831,
+   "totalLiability": 7476144,
+   "equity": 5741888,
+   "paidupCapital": 532949,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 1873637,
+   "totalExpense": 1294575,
+   "sales": 1393552,
+   "ebit": 583954,
+   "ebitda": 639996,
+   "netProfit": 357063,
+   "profitFromOtherActivity": 4892,
+   "eps": 0.34,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 255169,
+   "netInvesting": -47037,
+   "netFinancing": -231796,
+   "netCashflow": -23664,
+   "roa": 9.049026076355023,
+   "roe": 13.84767014643612,
+   "netProfitMargin": 20.949895844285738,
+   "grossProfitMargin": 11.807955497893154,
+   "deRatio": 1.1314313162835952,
+   "currentRatio": 1.9535350166244745,
+   "quickRatio": 0.4548463842445837,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "AMATAV",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "PROP",
+   "prior": 7.25,
+   "open": 7.2,
+   "high": 8.5,
+   "low": 6.75,
+   "average": null,
+   "close": 7.2,
+   "change": -0.04999999999999982,
+   "percentChange": -0.6896551724137907,
+   "totalVolume": 31113140,
+   "totalValue": 233677897.29999998,
+   "pe": 4.05,
+   "pbv": 1.15,
+   "bookValuePerShare": 6.26,
+   "dividendYield": 0.6899999976158142,
+   "marketCap": 6732000000,
+   "listedShare": 935000000,
+   "par": 0.5,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 3.3276085561497326,
+   "beta": 0.7,
+   "dividendPayoutRatio": 0.03,
+   "averageValue": 969617.8311203319
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "AMATAV",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "PROP",
+   "prior": 7.2,
+   "open": 7.2,
+   "high": 7.2,
+   "low": 5.45,
+   "average": null,
+   "close": 5.5,
+   "change": -1.7000000000000002,
+   "percentChange": -23.611111111111114,
+   "totalVolume": 17004789,
+   "totalValue": 107944802.97999997,
+   "pe": 314,
+   "pbv": 0.96,
+   "bookValuePerShare": 5.74,
+   "dividendYield": 1.2699999809265137,
+   "marketCap": 5142500000,
+   "listedShare": 935000000,
+   "par": 0.5,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 1.8186940106951872,
+   "beta": 0.48,
+   "dividendPayoutRatio": 4,
+   "averageValue": 444217.29621399165
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "AMATAV",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "PROP",
+   "prior": 5.5,
+   "open": 5.6,
+   "high": 5.9,
+   "low": 4.34,
+   "average": null,
+   "close": 4.8,
+   "change": -0.7000000000000002,
+   "percentChange": -12.72727272727273,
+   "totalVolume": 10976660,
+   "totalValue": 55709558.61000001,
+   "pe": 21.83,
+   "pbv": 1.01,
+   "bookValuePerShare": 4.73,
+   "dividendYield": 0.23000000417232513,
+   "marketCap": 5116311672,
+   "listedShare": 1065898265,
+   "par": 0.5,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 1.0913212600882798,
+   "beta": 0.21,
+   "dividendPayoutRatio": 0.05,
+   "averageValue": 228317.86315573772
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "AMATAV",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "PROP",
+   "prior": 4.8,
+   "open": 4.78,
+   "high": 4.8,
+   "low": 1.77,
+   "average": null,
+   "close": 1.8,
+   "change": -3,
+   "percentChange": -62.5,
+   "totalVolume": 24093518,
+   "totalValue": 72288286.65000002,
+   "pe": 7.71,
+   "pbv": 0.4,
+   "bookValuePerShare": 4.51,
+   "dividendYield": 2.78,
+   "marketCap": 1918616877,
+   "listedShare": 1065898265,
+   "par": 0.5,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 2.2603956485471906,
+   "beta": 0.21,
+   "dividendPayoutRatio": 0.21,
+   "averageValue": 298711.92830578523
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "AMATAV",
+   "market": "SET",
+   "industry": "PROPCON",
+   "sector": "PROP",
+   "prior": 1.8,
+   "open": 1.8,
+   "high": 2.6,
+   "low": 1.76,
+   "average": null,
+   "close": 2.14,
+   "change": 0.3400000000000001,
+   "percentChange": 18.888888888888893,
+   "totalVolume": 28142211,
+   "totalValue": 60367758.220000006,
+   "pe": 3.1,
+   "pbv": 0.4,
+   "bookValuePerShare": 5.39,
+   "dividendYield": null,
+   "marketCap": 2281022287.1,
+   "listedShare": 1065898265,
+   "par": 0.5,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 2.640234244118973,
+   "beta": 0.63,
+   "dividendPayoutRatio": null,
+   "averageValue": 309578.2472820513
+  }
+ ],
+ "shareholder": {
+  "symbol": "AMATAV",
+  "bookCloseDate": "2026-03-10T00:00:00+07:00",
+  "caType": "XM",
+  "totalShareholder": 2065,
+  "percentScriptless": 100,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "บริษัท  อมตะ คอร์ปอเรชัน จำกัด (มหาชน)",
+    "nationality": null,
+    "numberOfShare": 390499658,
+    "percentOfShare": 36.64,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "AMATA ASIA LIMITED",
+    "nationality": null,
+    "numberOfShare": 385931290,
+    "percentOfShare": 36.21,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "MR. VITOON KROMADIT",
+    "nationality": null,
+    "numberOfShare": 51889202,
+    "percentOfShare": 4.87,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "MR. THAVEECHAT JURANGKOOL",
+    "nationality": null,
+    "numberOfShare": 25739604,
+    "percentOfShare": 2.41,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "กองทุนเปิด  บัวหลวงหุ้นทุน",
+    "nationality": null,
+    "numberOfShare": 18310300,
+    "percentOfShare": 1.72,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "MR. VIKROM KROMADIT",
+    "nationality": null,
+    "numberOfShare": 12000000,
+    "percentOfShare": 1.13,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "Thai NVDR Company Limited",
+    "nationality": null,
+    "numberOfShare": 11880239,
+    "percentOfShare": 1.11,
+    "isThaiNVDR": true
+   },
+   {
+    "sequence": 8,
+    "name": "บริษัท  ไอ.ซี.ซี.อินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+    "nationality": null,
+    "numberOfShare": 8762040,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "MR. Harald Link",
+    "nationality": null,
+    "numberOfShare": 8762040,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "SAHA PATHANA INTER-HOLDING PUBLIC COMPANY LIMITED",
+    "nationality": null,
+    "numberOfShare": 8762040,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 11,
+    "name": "SAHA PATHANAPIBUL PUBLIC COMPANY LIMITED",
+    "nationality": null,
+    "numberOfShare": 8762040,
+    "percentOfShare": 0.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 12,
+    "name": "MR. HUYNH NGOC PHIEN",
+    "nationality": null,
+    "numberOfShare": 7124726,
+    "percentOfShare": 0.67,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 13,
+    "name": "LGT BANK (SINGAPORE) LTD",
+    "nationality": null,
+    "numberOfShare": 7032249,
+    "percentOfShare": 0.66,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 14,
+    "name": "กองทุนเปิด  บัวหลวงโครงสร้างพื้นฐานเพื่อการเลี้ยงชีพ",
+    "nationality": null,
+    "numberOfShare": 6277182,
+    "percentOfShare": 0.59,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 15,
+    "name": "กองทุนเปิด  บัวหลวงผสม 75/25",
+    "nationality": null,
+    "numberOfShare": 6175900,
+    "percentOfShare": 0.58,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 16,
+    "name": "MR. WEI-TONG LIN",
+    "nationality": null,
+    "numberOfShare": 6146200,
+    "percentOfShare": 0.58,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-10T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 26.020000457763672,
+   "numberOfHolder": 1675
+  }
+ },
+ "dividend_xd": [
+  {
+   "currency": "Baht",
+   "symbol": "AMATAV",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2025-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2025-05-23T00:00:00+07:00",
+   "beginOperation": "2024-01-01T00:00:00+07:00",
+   "endOperation": "2024-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.05,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.05",
+   "xdate": "2025-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": null,
+   "symbol": "AMATAV",
+   "name": "",
+   "caType": "XD(ST)",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2024-05-23T00:00:00+07:00",
+   "beginOperation": "2023-01-01T00:00:00+07:00",
+   "endOperation": "2023-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": null,
+   "ratio": "1 : 0.14",
+   "dividendType": "Stock Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "1 : 0.14",
+   "xdate": "2024-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AMATAV",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2024-05-23T00:00:00+07:00",
+   "beginOperation": "2023-01-01T00:00:00+07:00",
+   "endOperation": "2023-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.01235,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.01235",
+   "xdate": "2024-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AMATAV",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-05-18T00:00:00+07:00",
+   "beginOperation": "2022-01-01T00:00:00+07:00",
+   "endOperation": "2022-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.07,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.07",
+   "xdate": "2023-05-03T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AMATAV",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2022-04-22T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2022-05-06T00:00:00+07:00",
+   "beginOperation": "2021-01-01T00:00:00+07:00",
+   "endOperation": "2021-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.05,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.05",
+   "xdate": "2022-04-21T00:00:00+07:00",
+   "xSession": ""
+  }
+ ]
+}

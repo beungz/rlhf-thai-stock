@@ -1,0 +1,9 @@
+model,format,prompt_id,n,gold,severe_pct,num_precision,dir_err,scale_err,attr_flags,invented100w,coverage,out_tokens,over_500_pct,trunc_pct,filler_pct,advice_pct,repeat4
+gemma1b,json,guided,24,0.462,46,0.866,0.92,0.21,0.04,0.89,0.74,559,88,46,100,0,0.006
+gemma1b,markdown,guided,24,0.589,42,0.881,0.5,1.42,0.08,1.01,0.76,502,54,21,71,4,0.007
+gemma1b,rawjson,guided,24,0.315,67,0.401,0.29,2.42,0.08,0.53,0.47,462,71,46,83,0,0.005
+gemma1b,text,guided,24,0.437,62,0.884,0.83,1.62,0.33,0.96,0.75,556,75,46,83,0,0.008
+qwen1.5b,json,guided,24,0.586,54,0.825,0.58,0.79,0.0,0.76,0.8,474,42,8,0,17,0.003
+qwen1.5b,markdown,guided,24,0.801,17,0.965,0.21,0.25,0.08,1.24,0.74,403,17,0,0,38,0.004
+qwen1.5b,rawjson,guided,24,0.484,75,0.502,1.04,0.79,0.12,0.63,0.69,463,25,4,0,17,0.021
+qwen1.5b,text,guided,24,0.658,17,0.951,0.29,0.46,0.17,1.19,0.77,499,50,17,0,29,0.006

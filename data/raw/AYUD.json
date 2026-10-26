@@ -1,0 +1,3009 @@
+{
+ "_meta": {
+  "symbol": "AYUD",
+  "stratum": "SET|FINCIAL",
+  "batch": "reserve",
+  "fetchedAt": "2026-10-24T11:30:50.801Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "AYUD",
+  "name": "ALLIANZ AYUDHYA CAPITAL PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "INSUR",
+  "sectorName": "Insurance",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/AYUD.png",
+  "cgScore": 3,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "AYUD",
+  "name": "ALLIANZ AYUDHYA CAPITAL PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "INSUR",
+  "sectorName": "Insurance",
+  "logoUrl": "https://media.set.or.th/common/logo/company/AYUD.png",
+  "businessType": "Investment holding company investing in insurance business",
+  "url": "http://www.ayud.co.th",
+  "address": "PLOENCHIT TOWER, FLOOR 7, 898 PLOENCHIT ROAD, LUMPINI, PATHUM Bangkok 10330",
+  "telephone": "0-2657-2970",
+  "fax": "0-2657-2971",
+  "email": "",
+  "dividendPolicy": "Not less than 60 percent of the net profit after income tax each year, subject to its operating results",
+  "cgScore": 3,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "establishedDate": "07/10/1950",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "MISS SINSIRI THANGSOMBAT",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS SAKUNA YAMSAKUL",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MR. PAIBOON TUNKOON",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Miss Acchara Kulrattanarak",
+    "startDate": "2023-01-01T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Miss Acchara Kulrattanarak",
+    "startDate": "2023-01-01T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 463473361,
+   "paidupCapital": 389266931,
+   "par": 1,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 389266931,
+   "votingRights": [
+    {
+     "symbol": "AYUD",
+     "paidupShare": 389266931,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 389266931
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 389266931
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "AYUD",
+  "sign": "",
+  "prior": 41.75,
+  "last": 42,
+  "open": 41.75,
+  "high": 42,
+  "low": 41.5,
+  "average": 41.7451,
+  "floor": 29.25,
+  "ceiling": 54.25,
+  "change": 0.25,
+  "percentChange": 0.598802,
+  "totalVolume": 10242,
+  "totalValue": 427566.5,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 10200,
+  "aomValue": 425800,
+  "bids": [
+   {
+    "volume": 1500,
+    "price": "41.75"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 10100,
+    "price": "42.00"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.25,
+  "nameEN": "ALLIANZ AYUDHYA CAPITAL PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัท อลิอันซ์ อยุธยา แคปปิตอล จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "FINCIAL",
+  "sectorName": "INSUR",
+  "isNPG": false,
+  "high52Weeks": 45.25,
+  "low52Weeks": 33.5,
+  "par": 1,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 16349211102,
+  "peRatio": 5.58,
+  "pbRatio": 1.12,
+  "dividendYield": 5.52,
+  "nvdrNetVolume": -31,
+  "listedShare": 389266931,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0093FIN130820261903202240E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2351531,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": 2801689,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 24382,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 38045,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 23583401,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 7999575,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 8929477,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 463473,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 389267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 10066331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 5658085,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 14653924,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0093FIN140820251740150848E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 3826513,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": 2124760,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 23445,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 41521,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 22398634,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 7853352,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 10277,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 9008534,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 463473,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 389267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 10066331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 3685879,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 13390100,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/0093FIN270220260838121850E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2246183,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 32955,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 3444736,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 42563,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 23698916,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 8374198,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 9043743,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 463473,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 389267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 10066331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 4502766,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 14655173,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0093FIN250220251811200616E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 3088890,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": 1447932,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 42674,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 2779220,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 48587,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 25379061,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 7988643,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 1360556,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 11034370,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 463473,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 389267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 10066331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 2699919,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 14344691,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0093FIN290220241744070964E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 949161,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": 1268249,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 19742,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 2621997,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 57709,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 23091615,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 7701519,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 1219649,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 10467219,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 463473,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 389267,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 10066331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 3004354,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 12624396,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0093FIN130820261903202240E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 5446035,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 4403766,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": -429754,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 612515,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 59252,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": -9471,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 49781,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 211964,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 1923976,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 92221,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 1831755,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 4.71,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0093FIN140820251740150848E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 5210439,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 5541407,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": 588679,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 257711,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 83916,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": -11955,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 71961,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 183399,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 1526628,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 30551,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 1496077,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 3.84332,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/0093FIN270220260838121850E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 10563335,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 11710797,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": 1547549,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 400087,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 156802,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": -14071,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 142731,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 434849,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 2621605,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 25915,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 2595690,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 6.66815,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0093FIN250220251811200616E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 10751172,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 7054830,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": -1443798,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 2252544,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 172366,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 172366,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": 1595268,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 770605,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 732135,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 17385,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 714750,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 1.83614,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0093FIN290220241744070964E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 10229238,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 6609513,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": -1156057,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 2463668,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 120834,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 120834,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": 1129757,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 1086199,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 1022066,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 89064,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 933002,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 2.39682,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0093FIN130820261903202240E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 612129,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": 166577,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -673331,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": 105375,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0093FIN140820251740150848E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 684631,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": 665088,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -673822,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": 675897,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/0093FIN270220260838121850E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": -636610,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": 683108,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -950941,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": -904443,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0093FIN250220251811200616E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 2548618,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": 632038,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -1040911,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": 2139745,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0093FIN290220241744070964E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": -966521,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": 766380,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -511068,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": -711209,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 20.905473479840126
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 13.160191800993584
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.6093573980593867
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.48127069626213803
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 32.76053158568052
+    }
+   ]
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 13.300265138265724
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 7.386593343051179
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.6727757074256353
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.4680756242612624
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 27.895662168101126
+    }
+   ]
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 17.901394296193942
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 10.707853748739481
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.6171024388453142
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.4416104192721717
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 23.952831279489562
+    }
+   ]
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 5.300513139358407
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 3.050912679658109
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.7692302329830597
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.45500541399505134
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 6.481693918951394
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": -29.305323466221054
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": -20.52982211918381
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": 15.575330290786754
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 22.437214127347723
+    }
+   ]
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": -2.53833089039343
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": 70.32737584780902
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": -47.51240648628847
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 191.28090806432772
+    }
+   ]
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": -8.961023121286567
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": 65.99687022933225
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": -43.57044140642742
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 263.16054564533056
+    }
+   ]
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": 42.633828719121226
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": 6.73751606207598
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": -29.054896938774572
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": -23.392447175890297
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "AYUD",
+   "fiveDayPercentChange": -0.591715976331361,
+   "oneMonthPercentChange": -4,
+   "threeMonthPercentChange": -0.591715976331361,
+   "sixMonthPercentChange": 11.258278145695364,
+   "ytdPercentChange": 19.148936170212767,
+   "peRatio": 5.58,
+   "pbRatio": 1.12,
+   "turnoverRatio": null
+  },
+  "sector": {
+   "symbol": "INSUR",
+   "fiveDayPercentChange": -2.2029902137804647,
+   "oneMonthPercentChange": -1.784770665806712,
+   "threeMonthPercentChange": 1.3476173082660026,
+   "sixMonthPercentChange": 0.01640652356129646,
+   "ytdPercentChange": 1.7053515244184192,
+   "peRatio": 9,
+   "pbRatio": 0.96,
+   "turnoverRatio": 0.38999998569488525
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": 0.24862999047361445,
+   "oneMonthPercentChange": -1.433930388380289,
+   "threeMonthPercentChange": 4.285598578941663,
+   "sixMonthPercentChange": 5.353865181590023,
+   "ytdPercentChange": -3.9539119420347824,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 21912550,
+   "totalLiability": 10053327,
+   "equity": 11859223,
+   "paidupCapital": 389267,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 8303435,
+   "totalExpense": 7338470,
+   "sales": null,
+   "ebit": 1055280,
+   "ebitda": null,
+   "netProfit": 1004727,
+   "profitFromOtherActivity": 981916,
+   "eps": 2.58,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 5172002,
+   "netInvesting": -2294883,
+   "netFinancing": -2511887,
+   "netCashflow": 365232,
+   "roa": 4.582913624859153,
+   "roe": 7.1047208919250515,
+   "netProfitMargin": 12.100136871066011,
+   "grossProfitMargin": null,
+   "deRatio": 0.8477222327297497,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 23091615,
+   "totalLiability": 10467219,
+   "equity": 12624396,
+   "paidupCapital": 389267,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 10402947,
+   "totalExpense": 8835170,
+   "sales": null,
+   "ebit": 1029091,
+   "ebitda": null,
+   "netProfit": 933002,
+   "profitFromOtherActivity": 607983,
+   "eps": 2.4,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -966521,
+   "netInvesting": 766380,
+   "netFinancing": -511068,
+   "netCashflow": -711209,
+   "roa": 4.57331449211423,
+   "roe": 7.621438644344204,
+   "netProfitMargin": 8.968631677158406,
+   "grossProfitMargin": null,
+   "deRatio": 0.8291263201819715,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 25379061,
+   "totalLiability": 11034370,
+   "equity": 14344691,
+   "paidupCapital": 389267,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 11027210,
+   "totalExpense": 9433648,
+   "sales": null,
+   "ebit": 739399,
+   "ebitda": null,
+   "netProfit": 714750,
+   "profitFromOtherActivity": 580976,
+   "eps": 1.84,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 2548618,
+   "netInvesting": 632038,
+   "netFinancing": -1040911,
+   "netCashflow": 2139745,
+   "roa": 3.050912679658109,
+   "roe": 5.300513139358407,
+   "netProfitMargin": 6.481693918951394,
+   "grossProfitMargin": null,
+   "deRatio": 0.7692302329830597,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 23698916,
+   "totalLiability": 9043743,
+   "equity": 14655173,
+   "paidupCapital": 389267,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 10836673,
+   "totalExpense": 12225375,
+   "sales": null,
+   "ebit": 2627599,
+   "ebitda": null,
+   "netProfit": 2595690,
+   "profitFromOtherActivity": 2472576,
+   "eps": 6.67,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -636610,
+   "netInvesting": 683108,
+   "netFinancing": -950941,
+   "netCashflow": -904443,
+   "roa": 10.707853748739481,
+   "roe": 17.901394296193942,
+   "netProfitMargin": 23.952831279489562,
+   "grossProfitMargin": null,
+   "deRatio": 0.6171024388453142,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "AYUD",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 23583401,
+   "totalLiability": 8929477,
+   "equity": 14653924,
+   "paidupCapital": 389267,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 5591347,
+   "totalExpense": 4683671,
+   "sales": null,
+   "ebit": 1927774,
+   "ebitda": null,
+   "netProfit": 1831755,
+   "profitFromOtherActivity": 1453636,
+   "eps": 4.71,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 612129,
+   "netInvesting": 166577,
+   "netFinancing": -673331,
+   "netCashflow": 105375,
+   "roa": 13.160191800993584,
+   "roe": 20.905473479840126,
+   "netProfitMargin": 32.76053158568052,
+   "grossProfitMargin": null,
+   "deRatio": 0.6093573980593867,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "AYUD",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 40,
+   "open": 40.25,
+   "high": 55.75,
+   "low": 39,
+   "average": null,
+   "close": 41.75,
+   "change": 1.75,
+   "percentChange": 4.375,
+   "totalVolume": 13729656,
+   "totalValue": 653221208.5,
+   "pe": 17.31,
+   "pbv": 1.63,
+   "bookValuePerShare": 25.58,
+   "dividendYield": 3.690000057220459,
+   "marketCap": 16251894369.25,
+   "listedShare": 389266931,
+   "par": 1,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 3.527054292726448,
+   "beta": 0.58,
+   "dividendPayoutRatio": 2.45,
+   "averageValue": 2710461.4460580912
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "AYUD",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 41.75,
+   "open": 42,
+   "high": 44,
+   "low": 32.5,
+   "average": null,
+   "close": 33.5,
+   "change": -8.25,
+   "percentChange": -19.760479041916167,
+   "totalVolume": 1825522,
+   "totalValue": 68061653.25,
+   "pe": 19.01,
+   "pbv": 1.2,
+   "bookValuePerShare": 27.86,
+   "dividendYield": 16.1200008392334,
+   "marketCap": 13040442188.5,
+   "listedShare": 389266931,
+   "par": 1,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 0.46896405900967736,
+   "beta": 0.29,
+   "dividendPayoutRatio": 0.66,
+   "averageValue": 280089.10802469135
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "AYUD",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 33.5,
+   "open": 33.75,
+   "high": 39.75,
+   "low": 30.5,
+   "average": null,
+   "close": 30.75,
+   "change": -2.75,
+   "percentChange": -8.208955223880597,
+   "totalVolume": 20640548,
+   "totalValue": 656296756.25,
+   "pe": 13.03,
+   "pbv": 0.89,
+   "bookValuePerShare": 34.74,
+   "dividendYield": 8.359999656677246,
+   "marketCap": 11969958128.25,
+   "listedShare": 389266931,
+   "par": 1,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 5.302414964193298,
+   "beta": 0.28,
+   "dividendPayoutRatio": 1.09,
+   "averageValue": 2689740.8043032787
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "AYUD",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 30.75,
+   "open": 31,
+   "high": 36,
+   "low": 30,
+   "average": null,
+   "close": 35.25,
+   "change": 4.5,
+   "percentChange": 14.634146341463415,
+   "totalVolume": 4134179,
+   "totalValue": 136373348.55,
+   "pe": 5.74,
+   "pbv": 0.93,
+   "bookValuePerShare": 38,
+   "dividendYield": 7.29,
+   "marketCap": 13721659317.75,
+   "listedShare": 389266931,
+   "par": 1,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 1.0620421799970468,
+   "beta": 0.13,
+   "dividendPayoutRatio": 0.38,
+   "averageValue": 563526.233677686
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "AYUD",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 35.25,
+   "open": 35.25,
+   "high": 45.25,
+   "low": 34.75,
+   "average": null,
+   "close": 42,
+   "change": 6.75,
+   "percentChange": 19.148936170212767,
+   "totalVolume": 6873331,
+   "totalValue": 286032015.5,
+   "pe": 5.58,
+   "pbv": 1.12,
+   "bookValuePerShare": 37.64,
+   "dividendYield": 5.52,
+   "marketCap": 16349211102,
+   "listedShare": 389266931,
+   "par": 1,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 1.7657115086408406,
+   "beta": 0.24,
+   "dividendPayoutRatio": 0.34,
+   "averageValue": 1466830.8487179487
+  }
+ ],
+ "shareholder": {
+  "symbol": "AYUD",
+  "bookCloseDate": "2026-08-27T00:00:00+07:00",
+  "caType": "XD",
+  "totalShareholder": 2415,
+  "percentScriptless": 95.26,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "DEUTSCHE BANK AG SINGAPORE SES CLT ACC FOR ALLIANZ ASIA HOLDING PTE. LTD.",
+    "nationality": null,
+    "numberOfShare": 151550770,
+    "percentOfShare": 38.93,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "CPRN (THAILAND) LIMITED",
+    "nationality": null,
+    "numberOfShare": 39185276,
+    "percentOfShare": 10.07,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "บริษัท  บีบีทีวี เอ็คควิตี้ จำกัด",
+    "nationality": null,
+    "numberOfShare": 32862050,
+    "percentOfShare": 8.44,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "บริษัท  กรุงเทพโทรทัศน์และวิทยุ จำกัด",
+    "nationality": null,
+    "numberOfShare": 28802500,
+    "percentOfShare": 7.4,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "บริษัท  บีบีทีวี โปรดัคชันส์ จำกัด",
+    "nationality": null,
+    "numberOfShare": 17249475,
+    "percentOfShare": 4.43,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "นาย กฤตย์ รัตนรักษ์",
+    "nationality": null,
+    "numberOfShare": 14867700,
+    "percentOfShare": 3.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "ธนาคาร  กรุงศรีอยุธยา จำกัด (มหาชน)",
+    "nationality": null,
+    "numberOfShare": 12124600,
+    "percentOfShare": 3.11,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 8,
+    "name": "บริษัท  ทองไทย (1956) จำกัด",
+    "nationality": null,
+    "numberOfShare": 9610000,
+    "percentOfShare": 2.47,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "UBS SWITZERLAND AG",
+    "nationality": null,
+    "numberOfShare": 8303100,
+    "percentOfShare": 2.13,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "บริษัท  ทุนมหาลาภ จำกัด",
+    "nationality": null,
+    "numberOfShare": 7045250,
+    "percentOfShare": 1.81,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 11,
+    "name": "นาย ลักษณ์ ทองไทย",
+    "nationality": null,
+    "numberOfShare": 6241050,
+    "percentOfShare": 1.6,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 12,
+    "name": "น.ส. สุดธิดา รัตนรักษ์",
+    "nationality": null,
+    "numberOfShare": 4960870,
+    "percentOfShare": 1.27,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 13,
+    "name": "นาย โสภณ มิตรพันธ์พานิชย์",
+    "nationality": null,
+    "numberOfShare": 4154261,
+    "percentOfShare": 1.07,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 14,
+    "name": "พ.อ. ยรรยง ภัทรเลาหะ",
+    "nationality": null,
+    "numberOfShare": 2848136,
+    "percentOfShare": 0.73,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 15,
+    "name": "นาง ศศิธร รัตนรักษ์",
+    "nationality": null,
+    "numberOfShare": 2812500,
+    "percentOfShare": 0.72,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 16,
+    "name": "CACEIS BANK",
+    "nationality": null,
+    "numberOfShare": 2640900,
+    "percentOfShare": 0.68,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-13T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 31.75,
+   "numberOfHolder": 1981
+  }
+ },
+ "dividend_xd": [
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-08-27T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-09-11T00:00:00+07:00",
+   "beginOperation": null,
+   "endOperation": null,
+   "sourceOfDividend": "Retained Earnings",
+   "dividend": 0.9,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.90",
+   "xdate": "2026-08-26T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-05-29T00:00:00+07:00",
+   "beginOperation": "2025-01-01T00:00:00+07:00",
+   "endOperation": "2025-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net profit and retained earnings",
+   "dividend": 1.67,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "1.67",
+   "xdate": "2026-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2025-08-28T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2025-09-12T00:00:00+07:00",
+   "beginOperation": "2025-01-01T00:00:00+07:00",
+   "endOperation": "2025-06-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.65,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.65",
+   "xdate": "2025-08-27T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2025-05-08T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2025-05-27T00:00:00+07:00",
+   "beginOperation": "2024-01-01T00:00:00+07:00",
+   "endOperation": "2024-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 1.67,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "1.67",
+   "xdate": "2025-05-07T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-08-27T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2024-09-12T00:00:00+07:00",
+   "beginOperation": "2024-01-01T00:00:00+07:00",
+   "endOperation": "2024-06-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.9,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.90",
+   "xdate": "2024-08-26T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2024-05-09T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": null,
+   "beginOperation": "2023-01-01T00:00:00+07:00",
+   "endOperation": "2023-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 1.67,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": "2024-05-29T00:00:00+07:00",
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "1.67",
+   "xdate": "2024-05-08T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-08-29T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-09-14T00:00:00+07:00",
+   "beginOperation": "2023-01-01T00:00:00+07:00",
+   "endOperation": "2023-06-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.9,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.90",
+   "xdate": "2023-08-28T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2023-05-02T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2023-05-24T00:00:00+07:00",
+   "beginOperation": "2022-01-01T00:00:00+07:00",
+   "endOperation": "2022-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.26,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.26",
+   "xdate": "2023-04-28T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2022-09-14T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2022-09-28T00:00:00+07:00",
+   "beginOperation": null,
+   "endOperation": null,
+   "sourceOfDividend": "Retained Earnings",
+   "dividend": 5.14,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "5.14",
+   "xdate": "2022-09-13T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2022-04-07T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2022-05-17T00:00:00+07:00",
+   "beginOperation": "2021-01-01T00:00:00+07:00",
+   "endOperation": "2021-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.77,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.77",
+   "xdate": "2022-04-05T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2021-08-31T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2021-09-10T00:00:00+07:00",
+   "beginOperation": "2021-01-01T00:00:00+07:00",
+   "endOperation": "2021-06-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.77,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.77",
+   "xdate": "2021-08-30T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "AYUD",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2021-03-12T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2021-05-13T00:00:00+07:00",
+   "beginOperation": "2020-01-01T00:00:00+07:00",
+   "endOperation": "2020-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.77,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.77",
+   "xdate": "2021-03-11T00:00:00+07:00",
+   "xSession": ""
+  }
+ ]
+}

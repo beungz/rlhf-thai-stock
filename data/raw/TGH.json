@@ -1,0 +1,2736 @@
+{
+ "_meta": {
+  "symbol": "TGH",
+  "stratum": "SET|FINCIAL",
+  "batch": "reserve",
+  "fetchedAt": "2026-10-24T11:31:16.798Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "TGH",
+  "name": "THAI GROUP HOLDINGS PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "INSUR",
+  "sectorName": "Insurance",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/TGH.png",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "AA",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "TGH",
+  "name": "THAI GROUP HOLDINGS PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "SET",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "INSUR",
+  "sectorName": "Insurance",
+  "logoUrl": "https://media.set.or.th/common/logo/company/TGH.png",
+  "businessType": "Investment Holding Company",
+  "url": "https://www.tgh.co.th",
+  "address": "315 Thai Group Building, 12th Floor, Silom Road, Silom, Bang Rak District Bangkok 10500",
+  "telephone": "0-2632-1224",
+  "fax": "",
+  "email": "",
+  "dividendPolicy": "The Company has a policy to pay dividends to shareholders at the rate of not less than 50% of net income from the separate financial statements after deduction of corporate income tax and reserves. All types are subject to the laws and regulations of the Company.",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": true,
+  "setesgRating": "AA",
+  "setesgRatingRemark": "",
+  "establishedDate": "29/06/2018",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "Mr. JEDSADA LEELAWATANASUK",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "Ms. CHARINRAT NOPRAMPA",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "Mr. CHOKECHAI NGAMWUTIKUL",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS SUREERAT THONGARUNSANG",
+    "company": "KPMG PHOOMCHAI AUDIT LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Miss Fah Mahanavanont",
+    "startDate": "2017-08-01T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Mrs. Pachara Ampornpaisalkit",
+    "startDate": "2019-03-01T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 12033565300,
+   "paidupCapital": 7520978320,
+   "par": 10,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 752097832,
+   "votingRights": [
+    {
+     "symbol": "TGH",
+     "paidupShare": 752097832,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 752097832
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 752097832
+    }
+   ]
+  },
+  "preferredCapital": null,
+  "preferredShare": null
+ },
+ "info": {
+  "symbol": "TGH",
+  "sign": "",
+  "prior": 10.3,
+  "last": 10.2,
+  "open": 10.5,
+  "high": 10.5,
+  "low": 10.2,
+  "average": 10.24815,
+  "floor": 7.25,
+  "ceiling": 13.3,
+  "change": -0.1,
+  "percentChange": -0.970874,
+  "totalVolume": 2700,
+  "totalValue": 27670,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 2700,
+  "aomValue": 27670,
+  "bids": [
+   {
+    "volume": 1000,
+    "price": "10.20"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 100,
+    "price": "10.30"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.1,
+  "nameEN": "THAI GROUP HOLDINGS PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัท ไทยกรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน)",
+  "marketName": "SET",
+  "industryName": "FINCIAL",
+  "sectorName": "INSUR",
+  "isNPG": false,
+  "high52Weeks": 12.3,
+  "low52Weeks": 9.2,
+  "par": 10,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 7671397886.4,
+  "peRatio": 7.19,
+  "pbRatio": 0.69,
+  "dividendYield": 0.98,
+  "nvdrNetVolume": 1000,
+  "listedShare": 752097832,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1500FIN140820261804530500E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2825525,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 231278,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 3530502,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 18211593,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 92967165,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 58889873,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 187644,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 81630259,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 12033565,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 7520978,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 18224269,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 8738990,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 11058785,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1500FIN140820251115000266E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 3130321,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 3465468,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 17554457,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 91584181,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 56686492,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 200309,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 81799241,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 12033565,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 7520978,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 18224269,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 7943128,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 9471254,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1500FIN260220261503350304E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 3721022,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": 224084,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 3987388,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 18009098,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 92274365,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 58914311,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 224682,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 81288699,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 12033565,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 7520978,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 18224269,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 8320812,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 10649447,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202511/1500FIN141120250952440946E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 3386061,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 2188209,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 16949382,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 84089055,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 51353769,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 244243,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 73957227,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 12033565,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 7520978,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 18224269,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 8136474,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 9774407,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": true,
+   "restatementDate": "2025-09-30T00:00:00+07:00"
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1500FIN270220241319200109E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "401",
+     "accountName": "Cash And Cash Equivalents",
+     "amount": 2951934.393,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "402",
+     "accountName": "Insurance Contract Assets",
+     "amount": 796621.45,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "403",
+     "accountName": "Accrued invest. Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "404",
+     "accountName": "Reinsurance Assets - Net",
+     "amount": 5258938.564,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "405",
+     "accountName": "PP&E Net",
+     "amount": 16895182.054,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "406",
+     "accountName": "Total Assets",
+     "amount": 86084902.769,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "407",
+     "accountName": "Insurance Liabilities",
+     "amount": 51951224.305,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "408",
+     "accountName": "Reinsurance Contract Liabilities",
+     "amount": 2312947.887,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "409",
+     "accountName": "Total Liabilities",
+     "amount": 77157778.257,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "410",
+     "accountName": "Authorized Capital",
+     "amount": 12033565.3,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "411",
+     "accountName": "Paid-Up Capital",
+     "amount": 7520978.32,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "412",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": 18224269.226,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "413",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 7224616.177,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "414",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "415",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "416",
+     "accountName": "Shareholders' Equity",
+     "amount": 8613626.43,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1500FIN140820261804530500E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 4379712,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 3457703,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": -365029,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 556980,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 1188435,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": -747161,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 441274,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 833092,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 587707,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 112050,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 509016,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 0.67679,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1500FIN140820251115000266E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 4186814,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 4982117,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": 1296201,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 500898,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 1325686,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": -698773,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 626913,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 796218,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 617349,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 155708,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 513452,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 0.68269,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1500FIN260220261503350304E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 8880403,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 9599629,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": 1880768,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 1161542,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 2730130,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": -1422857,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 1307273,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 1743391,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 1341763,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 294619,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 1071971,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 1.42531,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1500FIN250220251824130537E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 12734626.773,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 10597125.67,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": -832189.012,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 1305312.091,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 2125908.293,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 2125908.293,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": 864018.518,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 6164304.354,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 556414.293,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 126465.886,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 384977.97,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 0.51187,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1500FIN270220241319200109E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "417",
+     "accountName": "Insurance Revenue",
+     "amount": 13958637.512,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "418",
+     "accountName": "Insurance Service Expenses",
+     "amount": 13370868.876,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "419",
+     "accountName": "Net Revenues (Expenses) From Reinsurance Contracts Held",
+     "amount": 166380.268,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "420",
+     "accountName": "Insurance Service Result",
+     "amount": 754148.904,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "421",
+     "accountName": "Net Investment Income",
+     "amount": 2092778.186,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "422",
+     "accountName": "Net Insurance Finance Revenues (Expenses)",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "423",
+     "accountName": "Net Investment Result",
+     "amount": 2092778.186,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "424",
+     "accountName": "Other Underwriting Expenses",
+     "amount": 927091.009,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "425",
+     "accountName": "Operating Expenses",
+     "amount": 5564885.729,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "426",
+     "accountName": "EBT",
+     "amount": 178154.765,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "427",
+     "accountName": "Income Tax Expense",
+     "amount": 74031.602,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "428",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": 55329.154,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "429",
+     "accountName": "EPS (B.)",
+     "amount": 0.07357,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/1500FIN140820261804530500E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 2063065,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": -2062672,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -895919,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": -895526,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/1500FIN140820251115000266E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 2090265,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": -2140408,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -205707,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": -255850,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/1500FIN260220261503350304E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 5768221,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": -3901207,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -1532141,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": 334873,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/1500FIN250220251824130537E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 4126958.961,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": -2327068.697,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": -1296236.347,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": 503653.917,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "4",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/1500FIN270220241319200109E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "430",
+     "accountName": "Operating Cash Flow",
+     "amount": 1258141.287,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "431",
+     "accountName": "Investing Cash Flow",
+     "amount": -2146073.426,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "432",
+     "accountName": "Financing Cash Flow",
+     "amount": 553504.799,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "433",
+     "accountName": "Net Cash Flow",
+     "amount": -334427.34,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 10.399736698016014
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 2.1459307048348486
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 7.20040009152409
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.18261401355479684
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 5.674032043941997
+    }
+   ]
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 5.459494405555699
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 1.705012513731489
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 8.359707979813876
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.23031010141999667
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 5.765171069004567
+    }
+   ]
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 10.49724503514371
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 2.387948702741192
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 7.399523979702278
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.18683230343344442
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 6.355883439780246
+    }
+   ]
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": true,
+   "restatementDate": "2025-09-30T00:00:00+07:00",
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": 4.187266368164708
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": 1.6480238672157184
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 7.2994949183898505
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.2339023355821489
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": 2.160322978177212
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": -13.735294011407188
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": -30.59771579029557
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": 4.631143731992997
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": -0.8639561244283789
+    }
+   ]
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": 19.24890030651856
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": 90.83525811184016
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": -6.204366664075035
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 22.52206677182039
+    }
+   ]
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": 17.807306598579746
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": -9.412898375111938
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": -71.7179603567108
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 178.44995909765956
+    }
+   ]
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": true,
+   "restatementDate": "2025-09-30T00:00:00+07:00",
+   "data": [
+    {
+     "accountName": "Total Invest Income growth",
+     "value": 14.777380514088629
+    },
+    {
+     "accountName": "Total underwriting exp growth",
+     "value": -20.744674373024
+    },
+    {
+     "accountName": "Total operating exp growth",
+     "value": 10.771445256612648
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": 595.7959231255134
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "TGH",
+   "fiveDayPercentChange": -4.672897196261682,
+   "oneMonthPercentChange": -0.9708737864077808,
+   "threeMonthPercentChange": -13.559322033898317,
+   "sixMonthPercentChange": -7.27272727272728,
+   "ytdPercentChange": -11.304347826086962,
+   "peRatio": 7.19,
+   "pbRatio": 0.69,
+   "turnoverRatio": null
+  },
+  "sector": {
+   "symbol": "INSUR",
+   "fiveDayPercentChange": -6.218020989382933,
+   "oneMonthPercentChange": 1.3142535607576278,
+   "threeMonthPercentChange": -11.872970784912773,
+   "sixMonthPercentChange": -16.642170277278623,
+   "ytdPercentChange": -24.289525588810267,
+   "peRatio": 9,
+   "pbRatio": 0.96,
+   "turnoverRatio": 0.38999998569488525
+  },
+  "market": {
+   "symbol": "SET",
+   "fiveDayPercentChange": -3.8670514143422263,
+   "oneMonthPercentChange": 1.6761640411125711,
+   "threeMonthPercentChange": -9.318243124304072,
+   "sixMonthPercentChange": -12.193710415213765,
+   "ytdPercentChange": -28.502337554365642,
+   "peRatio": 15.57,
+   "pbRatio": 1.46,
+   "turnoverRatio": 0.5400000214576721
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 84151142.21,
+   "totalLiability": 74530865.51,
+   "equity": 9375550.93,
+   "paidupCapital": 7520978.32,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 23091478.39,
+   "totalExpense": 22331409.09,
+   "sales": null,
+   "ebit": 2176417.71,
+   "ebitda": null,
+   "netProfit": 1484855.6,
+   "profitFromOtherActivity": 1230420.02,
+   "eps": 1.97,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1128238.61,
+   "netInvesting": -1666503.86,
+   "netFinancing": 1218637.29,
+   "netCashflow": 680372.04,
+   "roa": 2.4772448735321313,
+   "roe": 15.343298195382395,
+   "netProfitMargin": 7.582690248010578,
+   "grossProfitMargin": null,
+   "deRatio": 7.747268374570486,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 86084902.77,
+   "totalLiability": 77157778.26,
+   "equity": 8613626.43,
+   "paidupCapital": 7520978.32,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 20368625.19,
+   "totalExpense": 20547339.44,
+   "sales": null,
+   "ebit": 856903.58,
+   "ebitda": null,
+   "netProfit": 55329.15,
+   "profitFromOtherActivity": null,
+   "eps": 0.07,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 1258141.29,
+   "netInvesting": -2146073.43,
+   "netFinancing": 553504.8,
+   "netCashflow": -334427.34,
+   "roa": 1.0067240226365368,
+   "roe": 0.6151381899544516,
+   "netProfitMargin": 0.5111938534325792,
+   "grossProfitMargin": null,
+   "deRatio": 8.64307181708615,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": true,
+   "restatementDate": "2025-09-30T00:00:00+07:00",
+   "totalAsset": 84089055,
+   "totalLiability": 73957227,
+   "equity": 9774407,
+   "paidupCapital": 7520978,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 19902043.09,
+   "totalExpense": 18723601.34,
+   "sales": null,
+   "ebit": 1402253.72,
+   "ebitda": null,
+   "netProfit": 384977.97,
+   "profitFromOtherActivity": null,
+   "eps": 0.51,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 4126958.96,
+   "netInvesting": -2327068.7,
+   "netFinancing": -1296236.35,
+   "netCashflow": 503653.92,
+   "roa": 1.6480238672157184,
+   "roe": 4.187266368164708,
+   "netProfitMargin": 2.160322978177212,
+   "grossProfitMargin": null,
+   "deRatio": 7.2994949183898505,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 92274365,
+   "totalLiability": 81288699,
+   "equity": 10649447,
+   "paidupCapital": 7520978,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 16475192,
+   "totalExpense": 16275909,
+   "sales": null,
+   "ebit": 2105734,
+   "ebitda": null,
+   "netProfit": 1071971,
+   "profitFromOtherActivity": null,
+   "eps": 1.43,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 5768221,
+   "netInvesting": -3901207,
+   "netFinancing": -1532141,
+   "netCashflow": 334873,
+   "roa": 2.387948702741192,
+   "roe": 10.49724503514371,
+   "netProfitMargin": 6.355883439780246,
+   "grossProfitMargin": null,
+   "deRatio": 7.399523979702278,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "TGH",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "accountFormId": "4",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 92967165,
+   "totalLiability": 81630259,
+   "equity": 11058785,
+   "paidupCapital": 7520978,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 8383051,
+   "totalExpense": 6651355,
+   "sales": null,
+   "ebit": 889812,
+   "ebitda": null,
+   "netProfit": 509016,
+   "profitFromOtherActivity": null,
+   "eps": 0.68,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 2063065,
+   "netInvesting": -2062672,
+   "netFinancing": -895919,
+   "netCashflow": -895526,
+   "roa": 2.1459307048348486,
+   "roe": 10.399736698016014,
+   "netProfitMargin": 5.674032043941997,
+   "grossProfitMargin": null,
+   "deRatio": 7.20040009152409,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "TGH",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 24.9,
+   "open": 25,
+   "high": 26,
+   "low": 19,
+   "average": null,
+   "close": 20.2,
+   "change": -4.699999999999999,
+   "percentChange": -18.87550200803213,
+   "totalVolume": 372828344,
+   "totalValue": 7457416781.5,
+   "pe": null,
+   "pbv": 1.84,
+   "bookValuePerShare": 10.97,
+   "dividendYield": null,
+   "marketCap": 15192376206.4,
+   "listedShare": 752097832,
+   "par": 10,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 49.57178815534732,
+   "beta": 0.36,
+   "dividendPayoutRatio": null,
+   "averageValue": 30943638.097510375
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "TGH",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 20.2,
+   "open": 19.8,
+   "high": 20.7,
+   "low": 16,
+   "average": null,
+   "close": 16.4,
+   "change": -3.8000000000000007,
+   "percentChange": -18.811881188118814,
+   "totalVolume": 125956,
+   "totalValue": 2375845.1999999997,
+   "pe": 301.7,
+   "pbv": 1.57,
+   "bookValuePerShare": 10.42,
+   "dividendYield": null,
+   "marketCap": 12334404444.8,
+   "listedShare": 752097832,
+   "par": 10,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 0.016747289334029088,
+   "beta": 0.27,
+   "dividendPayoutRatio": null,
+   "averageValue": 9777.140740740739
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "TGH",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 16.4,
+   "open": 16.3,
+   "high": 19.8,
+   "low": 9.95,
+   "average": null,
+   "close": 12.7,
+   "change": -3.6999999999999993,
+   "percentChange": -22.560975609756095,
+   "totalVolume": 408639,
+   "totalValue": 5995907.699999999,
+   "pe": 35.01,
+   "pbv": 0.97,
+   "bookValuePerShare": 13.13,
+   "dividendYield": null,
+   "marketCap": 9551642466.4,
+   "listedShare": 752097832,
+   "par": 10,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 0.05433322403195014,
+   "beta": 0.16,
+   "dividendPayoutRatio": null,
+   "averageValue": 24573.392213114752
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "TGH",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 12.7,
+   "open": 12,
+   "high": 15.4,
+   "low": 10,
+   "average": null,
+   "close": 11.5,
+   "change": -1.1999999999999993,
+   "percentChange": -9.448818897637791,
+   "totalVolume": 51582906,
+   "totalValue": 610610678.1,
+   "pe": 7.8,
+   "pbv": 0.82,
+   "bookValuePerShare": 14.06,
+   "dividendYield": null,
+   "marketCap": 8649125068,
+   "listedShare": 752097832,
+   "par": 10,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 6.858536722919313,
+   "beta": -0.16,
+   "dividendPayoutRatio": null,
+   "averageValue": 2523184.620247934
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "TGH",
+   "market": "SET",
+   "industry": "FINCIAL",
+   "sector": "INSUR",
+   "prior": 11.5,
+   "open": 11.2,
+   "high": 12.3,
+   "low": 9.2,
+   "average": null,
+   "close": 10.2,
+   "change": -1.3000000000000007,
+   "percentChange": -11.304347826086962,
+   "totalVolume": 1103188,
+   "totalValue": 11774950.72,
+   "pe": 7.19,
+   "pbv": 0.69,
+   "bookValuePerShare": 14.7,
+   "dividendYield": 0.98,
+   "marketCap": 7671397886.4,
+   "listedShare": 752097832,
+   "par": 10,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 0.14668144928251833,
+   "beta": -0.01,
+   "dividendPayoutRatio": 0.07,
+   "averageValue": 60384.36266666667
+  }
+ ],
+ "shareholder": {
+  "symbol": "TGH",
+  "bookCloseDate": "2026-05-05T00:00:00+07:00",
+  "caType": "XD",
+  "totalShareholder": 438,
+  "percentScriptless": 99.85,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "บริษัท  มงคลสิริ จำกัด",
+    "nationality": null,
+    "numberOfShare": 608007946,
+    "percentOfShare": 80.84,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "บริษัท  ไทยสิริวัฒน จำกัด",
+    "nationality": null,
+    "numberOfShare": 37500000,
+    "percentOfShare": 4.99,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "LGT BANK (SINGAPORE) LTD",
+    "nationality": null,
+    "numberOfShare": 37367000,
+    "percentOfShare": 4.97,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "DBS BANK LTD. AC DBS NOMINEES-PB CLIENTS",
+    "nationality": null,
+    "numberOfShare": 36618800,
+    "percentOfShare": 4.87,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "บริษัท  สินธนรัตน์ จำกัด",
+    "nationality": null,
+    "numberOfShare": 23000000,
+    "percentOfShare": 3.06,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "บริษัท  ทีคิวเอ็ม อัลฟา จำกัด (มหาชน)",
+    "nationality": null,
+    "numberOfShare": 3600000,
+    "percentOfShare": 0.48,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "สำนักงานพระคลังข้างที่",
+    "nationality": null,
+    "numberOfShare": 765672,
+    "percentOfShare": 0.1,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 8,
+    "name": "THANPHUYING TASNA-VALAYA SORASONGKRAM",
+    "nationality": null,
+    "numberOfShare": 648494,
+    "percentOfShare": 0.09,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "สมเด็จพระกนิษฐาธิราช กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
+    "nationality": null,
+    "numberOfShare": 327783,
+    "percentOfShare": 0.04,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "MR. KIATINAN DENPHAISAI",
+    "nationality": null,
+    "numberOfShare": 262165,
+    "percentOfShare": 0.03,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-23T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 19.15999984741211,
+   "numberOfHolder": 333
+  }
+ },
+ "dividend_xd": [
+  {
+   "currency": "Baht",
+   "symbol": "TGH",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2026-05-05T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2026-05-25T00:00:00+07:00",
+   "beginOperation": "2025-01-01T00:00:00+07:00",
+   "endOperation": "2025-12-31T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.1,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.10",
+   "xdate": "2026-04-30T00:00:00+07:00",
+   "xSession": ""
+  },
+  {
+   "currency": "Baht",
+   "symbol": "TGH",
+   "name": "",
+   "caType": "XD",
+   "type": "XD",
+   "bookCloseDate": null,
+   "recordDate": "2021-01-26T00:00:00+07:00",
+   "remark": null,
+   "paymentDate": "2021-02-05T00:00:00+07:00",
+   "beginOperation": "2020-01-01T00:00:00+07:00",
+   "endOperation": "2020-11-30T00:00:00+07:00",
+   "sourceOfDividend": "Net Profit",
+   "dividend": 0.6,
+   "ratio": null,
+   "dividendType": "Cash Dividend",
+   "approximatePaymentDate": null,
+   "tentativeDividendFlag": null,
+   "tentativeDividend": null,
+   "dividendPayment": "0.60",
+   "xdate": "2021-01-25T00:00:00+07:00",
+   "xSession": ""
+  }
+ ]
+}

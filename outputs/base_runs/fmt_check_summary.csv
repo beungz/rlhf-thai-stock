@@ -1,0 +1,5 @@
+format,snapshot,n,gold,severe_pct,num_precision,dir_err,scale_err,attr_flags,invented100w,coverage,out_tokens,over_500_pct,trunc_pct,filler_pct,advice_pct,repeat4
+markdown,T1,106,0.727,22,0.968,0.44,0.05,0.04,1.11,0.69,384,8,1,0,32,0.003
+markdown,T2,106,0.707,25,0.971,0.49,0.07,0.08,1.26,0.68,378,7,0,0,35,0.002
+markdown_bn,T1,106,0.693,24,0.968,0.54,0.01,0.19,1.1,0.71,416,21,7,0,30,0.004
+markdown_bn,T2,106,0.734,23,0.962,0.47,0.06,0.11,1.18,0.69,388,8,1,0,24,0.003

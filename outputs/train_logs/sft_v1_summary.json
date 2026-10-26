@@ -1,0 +1,40 @@
+{
+  "run": "sft_v1",
+  "stage": "sft",
+  "status": "ok",
+  "error": null,
+  "steps_done": 78,
+  "peak_alloc_gb": 5.401,
+  "peak_reserved_gb": 6.156,
+  "mean_step_seconds": 9.62,
+  "mean_step_seconds_after_first": 9.49,
+  "total_seconds": 754.7,
+  "settings": {
+    "run": "sft_v1",
+    "train": "data/sft/A_train.jsonl",
+    "eval": "data/sft/A_val.jsonl",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "limit": null,
+    "epochs": 6,
+    "patience": 2,
+    "max_steps": -1,
+    "batch_size": 2,
+    "grad_accum": 4,
+    "lr": 0.0001,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "max_length": 2560,
+    "no_grad_ckpt": false,
+    "seed": 2026,
+    "n_train": 103
+  },
+  "versions": {
+    "python": "3.10.11",
+    "torch": "2.11.0+cu128",
+    "transformers": "5.20.2",
+    "trl": "1.12.0",
+    "peft": "0.21.2",
+    "gpu": "NVIDIA GeForce RTX 5060 Ti",
+    "gpu_total_gb": 15.9
+  }
+}

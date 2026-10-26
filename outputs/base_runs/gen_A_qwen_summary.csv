@@ -1,0 +1,3 @@
+model,decoding,n,gold,severe_pct,num_precision,dir_err,scale_err,attr_flags,invented100w,coverage,out_tokens,over_500_pct,trunc_pct,filler_pct,advice_pct,repeat4
+qwen1.5b,greedy,120,0.741,15,0.983,0.43,0.0,0.17,1.14,0.7,385,10,5,0,31,0.003
+qwen1.5b,sample,360,0.651,27,0.947,0.51,0.08,0.16,1.1,0.64,376,15,4,0,18,0.002

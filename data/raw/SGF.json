@@ -1,0 +1,2829 @@
+{
+ "_meta": {
+  "symbol": "SGF",
+  "stratum": "mai|FINCIAL",
+  "batch": "reserve",
+  "fetchedAt": "2026-10-24T11:21:44.797Z",
+  "errors": {}
+ },
+ "overview": {
+  "symbol": "SGF",
+  "name": "SGF CAPITAL PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "mai",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "",
+  "sectorName": "",
+  "securityType": "S",
+  "securityTypeName": "Common Stocks",
+  "status": "Listed",
+  "indices": [],
+  "logoUrl": "https://media.set.or.th/common/logo/company/SGF.png",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": false,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "jumpPlusMember": false
+ },
+ "profile": {
+  "symbol": "SGF",
+  "name": "SGF CAPITAL PUBLIC COMPANY LIMITED",
+  "nameRemark": "",
+  "market": "mai",
+  "industry": "FINCIAL",
+  "industryName": "Financials",
+  "sector": "",
+  "sectorName": "",
+  "logoUrl": "https://media.set.or.th/common/logo/company/SGF.png",
+  "businessType": "Hire Purchase, Car for cash, Leasing, Personal Loan, Nano Finance and Loans.",
+  "url": "http://www.sgfcap.com",
+  "address": "89/1 3rd Floor, Kasemsup building, Vibhavadi Rangsit Road, Chomphon, Chatuchak Bangkok 10900",
+  "telephone": "0-2232-1789",
+  "fax": "0-2232-1790",
+  "email": "",
+  "dividendPolicy": "Not more than 50 percent after corporate income tax and appropriation to legal reserve (with additional conditions)",
+  "cgScore": 5,
+  "cgRemark": "",
+  "cacFlag": false,
+  "setesgRating": "",
+  "setesgRatingRemark": "",
+  "establishedDate": "07/08/1985",
+  "auditEnd": "2026-12-31T00:00:00+07:00",
+  "auditChoice": "Unqualified opinion",
+  "auditors": [
+   {
+    "name": "Ms. VIPHASIRI VIMANRAT",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MISS SAKUNA YAMSAKUL",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   },
+   {
+    "name": "MR. PAIBOON TUNKOON",
+    "company": "PRICEWATERHOUSE COOPERS ABAS LIMITED",
+    "auditEndDate": "2026-12-31T00:00:00+07:00"
+   }
+  ],
+  "managements": [
+   {
+    "positionCode": 1,
+    "position": "The person taking the highest responsibility in finance and accounting",
+    "name": "Miss Apinya Borivachanon",
+    "startDate": "2020-02-17T00:00:00+07:00"
+   },
+   {
+    "positionCode": 2,
+    "position": "The person supervising accounting",
+    "name": "Miss Patchara Tipphawes",
+    "startDate": "2019-07-01T00:00:00+07:00"
+   }
+  ],
+  "commonCapital": {
+   "authorizedCapital": 1637500000,
+   "paidupCapital": 1637500000,
+   "par": 1.25,
+   "currency": "Baht"
+  },
+  "commonsShare": {
+   "listedShare": 1310000000,
+   "votingRights": [
+    {
+     "symbol": "SGF",
+     "paidupShare": 1310000000,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 1310000000
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 1310000000
+    }
+   ]
+  },
+  "preferredCapital": {
+   "authorizedCapital": 5,
+   "paidupCapital": 5,
+   "par": 1.25,
+   "currency": "Baht"
+  },
+  "preferredShare": {
+   "listedShare": 4,
+   "votingRights": [
+    {
+     "symbol": "SGF-P1",
+     "paidupShare": 4,
+     "ratio": "1 : 1"
+    }
+   ],
+   "treasuryShares": null,
+   "votingShares": [
+    {
+     "asOfDate": "2026-10-26T00:00:00+07:00",
+     "share": 4
+    },
+    {
+     "asOfDate": "2026-09-30T00:00:00+07:00",
+     "share": 4
+    }
+   ]
+  }
+ },
+ "info": {
+  "symbol": "SGF",
+  "sign": "CB",
+  "prior": 0.15,
+  "last": 0.15,
+  "open": 0.15,
+  "high": 0.15,
+  "low": 0.14,
+  "average": 0.14191,
+  "floor": 0.11,
+  "ceiling": 0.19,
+  "change": 0,
+  "percentChange": 0,
+  "totalVolume": 13600,
+  "totalValue": 1930,
+  "trVolume": null,
+  "trValue": null,
+  "aomVolume": 13600,
+  "aomValue": 1930,
+  "bids": [
+   {
+    "volume": 21000,
+    "price": "0.14"
+   }
+  ],
+  "offers": [
+   {
+    "volume": 755700,
+    "price": "0.15"
+   }
+  ],
+  "marketStatus": "Closed",
+  "marketDateTime": "2026-10-23T03:20:16.485992138+07:00",
+  "securityType": "S",
+  "tickSize": 0.01,
+  "nameEN": "SGF CAPITAL PUBLIC COMPANY LIMITED",
+  "nameTH": "บริษัท เอสจีเอฟ แคปปิตอล จำกัด (มหาชน)",
+  "marketName": "mai",
+  "industryName": "FINCIAL",
+  "sectorName": "",
+  "isNPG": false,
+  "high52Weeks": 0.22,
+  "low52Weeks": 0.11,
+  "par": 1.25,
+  "inav": null,
+  "multiplier": null,
+  "exerciseRatio": "1 : 1",
+  "exercisePrice": null,
+  "exercisePriceUnit": "THB",
+  "maturityDate": null,
+  "lastTradingDate": null,
+  "underlying": "",
+  "isIFF": false,
+  "isPFUND": false,
+  "statisticsAsOf": "2026-10-22T00:00:00+07:00",
+  "marketCap": 196500000,
+  "peRatio": null,
+  "pbRatio": 0.14,
+  "dividendYield": null,
+  "nvdrNetVolume": null,
+  "listedShare": 1310000000,
+  "ttm": null,
+  "moneynessStatus": null,
+  "moneynessPercent": null
+ },
+ "balance_sheet": [
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0107FIN130820261529340711E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 70455.215,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": 162416.505,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 1239011.888,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 1239011.888,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 16170.849,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 1570928.979,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 176407.695,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -242507.26,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1394521.284,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0107FIN130820251659020696E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 99371.967,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": 30023.197,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 1691750.72,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 1691750.72,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 15054.429,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 1943993.864,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 470027.601,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -164447.861,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1473966.263,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/0107FIN270220261636340606E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 222778.989,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": 50521.475,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 1437998.148,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 1437998.148,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 17199.641,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 1832510.952,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 419907.768,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -224425.36,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1412603.184,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0107FIN260220251608380837E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 73809.625,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": 50045.689,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 1949597.502,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 1949597.502,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 21417.564,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2222623.529,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 644064.567,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": -59855.162,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1578558.962,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0107FIN280220241628040266E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "201",
+     "accountName": "Cash",
+     "amount": 56172.187,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "202",
+     "accountName": "Investment Net",
+     "amount": 81274.526,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "203",
+     "accountName": "Net Loans and Accured Int.",
+     "amount": 2617806.329,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "204",
+     "accountName": "- Loans & Receivables",
+     "amount": 2617806.329,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "205",
+     "accountName": "Assets Forclosed-Net",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "206",
+     "accountName": "PP&E Net",
+     "amount": 22591.21,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "207",
+     "accountName": "Total Assets",
+     "amount": 2941179.186,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "208",
+     "accountName": "Borrowings & Deposits",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "209",
+     "accountName": "Total Liabilities",
+     "amount": 1192486.891,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "210",
+     "accountName": "Authorized Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "211",
+     "accountName": "Paid-Up Capital",
+     "amount": 1637500.005,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "212",
+     "accountName": "Premium (Discount) on Share Capital",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "213",
+     "accountName": "Retained Earnings (Deficit)",
+     "amount": 110997.244,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "214",
+     "accountName": "Treasury Stock",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "215",
+     "accountName": "Shares Of The Company Held By Subsidiaries",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "216",
+     "accountName": "Shareholders' Equity",
+     "amount": 1748692.295,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "income_statement": [
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0107FIN130820261529340711E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 142303.432,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 135610.57,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 135610.57,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 145909.064,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 70853.677,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 83137.404,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": -8082.017,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": -18081.9,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": -0.0138,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0107FIN130820251659020696E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 186280.234,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 179969.229,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 179969.229,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 190869.531,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 118443.541,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 94824.093,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": -22398.103,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": -104592.699,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": -0.07984,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/0107FIN270220261636340606E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 350900.881,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 339044.292,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 339044.292,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 367479.106,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 249321.728,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 180272.674,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": -62115.296,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": -164570.198,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": -0.12563,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0107FIN260220251608380837E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 466120.725,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 455452.022,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 455452.022,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 474214.364,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 344364.679,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 207991.925,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": -78142.24,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": -170852.406,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": -0.13042,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0107FIN280220241628040266E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "217",
+     "accountName": "Revenue From Operations",
+     "amount": 553913.008,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "218",
+     "accountName": "- Interest Income",
+     "amount": 531422.385,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "219",
+     "accountName": "- From Loan Receivables",
+     "amount": 531422.385,
+     "adjusted": false,
+     "level": 2,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "220",
+     "accountName": "- Brokerage Fee Income",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "221",
+     "accountName": "- Revenue From Operations - Others",
+     "amount": null,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "222",
+     "accountName": "Total Revenue",
+     "amount": 570755.708,
+     "adjusted": false,
+     "level": 1,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "223",
+     "accountName": "Costs",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "224",
+     "accountName": "(Reversal Of) Expected Credit Losses",
+     "amount": 266039.573,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "225",
+     "accountName": "Selling And Administrative Expenses",
+     "amount": 234043.148,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "226",
+     "accountName": "Fees And Service Expenses",
+     "amount": null,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "227",
+     "accountName": "EBIT",
+     "amount": 70672.987,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "228",
+     "accountName": "Net Profit : Owners Of The Parent",
+     "amount": -31317.153,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    },
+    {
+     "accountCode": "229",
+     "accountName": "EPS (B.)",
+     "amount": -0.02391,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1,
+     "format": ""
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "cash_flow": [
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2026,
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202608/0107FIN130820261529340711E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 194940.708,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -103976.926,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -243287.556,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": -152323.774,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202508/0107FIN130820251659020696E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Reviewed",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 224705.44,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": 17617.082,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -216760.18,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": 25562.342,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2025,
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202602/0107FIN270220261636340606E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 429404.263,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": -5244.868,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -275190.031,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": 148969.364,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2024,
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202502/0107FIN260220251608380837E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": 533584.643,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": 32104.092,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": -548051.297,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": 17637.438,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2023,
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "fsType": "C",
+   "accountFormId": "2",
+   "downloadUrl": "https://weblink.set.or.th/dat/news/202402/0107FIN280220241628040266E.zip",
+   "fsTypeDescription": "Consolidate",
+   "status": "Audited",
+   "isFSComp": false,
+   "hasAdjustedAccount": false,
+   "accounts": [
+    {
+     "accountCode": "230",
+     "accountName": "Operating Cash Flow",
+     "amount": -87314.814,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "231",
+     "accountName": "Investing Cash Flow",
+     "amount": 71208.367,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "232",
+     "accountName": "Financing Cash Flow",
+     "amount": 30018.416,
+     "adjusted": false,
+     "level": 0,
+     "divider": 1000,
+     "format": ""
+    },
+    {
+     "accountCode": "233",
+     "accountName": "Net Cash Flow",
+     "amount": 13911.969,
+     "adjusted": false,
+     "level": -1,
+     "divider": 1000,
+     "format": "BU"
+    }
+   ],
+   "isRestatement": false,
+   "restatementDate": null
+  }
+ ],
+ "financial_ratio": [
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": -5.4425476082074935
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -2.7197877265493546
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.12650054361307417
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.18351392316765625
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -12.392582064472215
+    }
+   ]
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": -13.65616803867841
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -3.62900908421899
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.3188862681293668
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.17254909441948396
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -54.79800783288983
+    }
+   ]
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": -11.00376323966176
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -3.0635383515073955
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.2972581231198984
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.1812413925172711
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -44.78355245826083
+    }
+   ]
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "ROE (%)",
+     "value": -10.269883254924368
+    },
+    {
+     "accountName": "ROA (%)",
+     "value": -3.0265385506439335
+    },
+    {
+     "accountName": "D/E (X)",
+     "value": 0.40800792768614735
+    },
+    {
+     "accountName": "Total Asset Turnover (X)",
+     "value": 0.18366865882126496
+    },
+    {
+     "accountName": "Net Profit Margin (%)",
+     "value": -36.028518832706794
+    }
+   ]
+  }
+ ],
+ "financial_growth": [
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -24.647913423866957
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-06-30T00:00:00+07:00",
+   "asOfDate": "2025-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -27.52072456227114
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -25.558725153969025
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "beginDate": null,
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "data": [
+    {
+     "accountName": "Loans & Deposits growth",
+     "value": -14.295666014373237
+    },
+    {
+     "accountName": "Operating Expense growth",
+     "value": null
+    },
+    {
+     "accountName": "Net Profit Growth",
+     "value": null
+    }
+   ]
+  }
+ ],
+ "price_performance": {
+  "stock": {
+   "symbol": "SGF",
+   "fiveDayPercentChange": null,
+   "oneMonthPercentChange": null,
+   "threeMonthPercentChange": -11.764705882352951,
+   "sixMonthPercentChange": 7.142857142857129,
+   "ytdPercentChange": -11.764705882352951,
+   "peRatio": null,
+   "pbRatio": 0.14,
+   "turnoverRatio": null
+  },
+  "sector": {
+   "symbol": "",
+   "fiveDayPercentChange": null,
+   "oneMonthPercentChange": null,
+   "threeMonthPercentChange": null,
+   "sixMonthPercentChange": null,
+   "ytdPercentChange": null,
+   "peRatio": null,
+   "pbRatio": null,
+   "turnoverRatio": null
+  },
+  "market": {
+   "symbol": "mai",
+   "fiveDayPercentChange": 0.5689317736944144,
+   "oneMonthPercentChange": 2.257521278038177,
+   "threeMonthPercentChange": -8.543882711709195,
+   "sixMonthPercentChange": 5.401925915337635,
+   "ytdPercentChange": -12.832958953911511,
+   "peRatio": 82.07,
+   "pbRatio": 1.13,
+   "turnoverRatio": 0.07999999821186066
+  }
+ },
+ "highlight_financial": [
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2022,
+   "fsType": "C",
+   "accountFormId": "2",
+   "beginDate": "2022-01-01T00:00:00+07:00",
+   "endDate": "2022-12-31T00:00:00+07:00",
+   "asOfDate": "2022-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2949161.94,
+   "totalLiability": 1166857.49,
+   "equity": 1782304.45,
+   "paidupCapital": 1637500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 516160.6,
+   "totalExpense": 406552.61,
+   "sales": null,
+   "ebit": 109607.99,
+   "ebitda": null,
+   "netProfit": 41265.12,
+   "profitFromOtherActivity": null,
+   "eps": 0.03,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -353447.25,
+   "netInvesting": 67154.89,
+   "netFinancing": 300996.32,
+   "netCashflow": 14703.97,
+   "roa": 3.9540102477949457,
+   "roe": 2.342383972534182,
+   "netProfitMargin": 7.994628028563204,
+   "grossProfitMargin": null,
+   "deRatio": 0.6546903308242316,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2023,
+   "fsType": "C",
+   "accountFormId": "2",
+   "beginDate": "2023-01-01T00:00:00+07:00",
+   "endDate": "2023-12-31T00:00:00+07:00",
+   "asOfDate": "2023-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2941179.19,
+   "totalLiability": 1192486.89,
+   "equity": 1748692.29,
+   "paidupCapital": 1637500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 570755.71,
+   "totalExpense": 500082.72,
+   "sales": null,
+   "ebit": 70672.99,
+   "ebitda": null,
+   "netProfit": -31317.15,
+   "profitFromOtherActivity": null,
+   "eps": -0.02,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": -87314.81,
+   "netInvesting": 71208.37,
+   "netFinancing": 30018.42,
+   "netCashflow": 13911.97,
+   "roa": 2.399622986861505,
+   "roe": -1.773841909579333,
+   "netProfitMargin": -5.486962189129917,
+   "grossProfitMargin": null,
+   "deRatio": 0.6819306614544517,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2024,
+   "fsType": "C",
+   "accountFormId": "2",
+   "beginDate": "2024-01-01T00:00:00+07:00",
+   "endDate": "2024-12-31T00:00:00+07:00",
+   "asOfDate": "2024-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 2222623.53,
+   "totalLiability": 644064.57,
+   "equity": 1578558.96,
+   "paidupCapital": 1637500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 474214.36,
+   "totalExpense": 552356.6,
+   "sales": null,
+   "ebit": -78142.24,
+   "ebitda": null,
+   "netProfit": -170852.41,
+   "profitFromOtherActivity": null,
+   "eps": -0.13,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 533584.64,
+   "netInvesting": 32104.09,
+   "netFinancing": -548051.3,
+   "netCashflow": 17637.44,
+   "roa": -3.0265385506439335,
+   "roe": -10.269883254924368,
+   "netProfitMargin": -36.028518832706794,
+   "grossProfitMargin": null,
+   "deRatio": 0.40800792768614735,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "Q9",
+   "year": 2025,
+   "fsType": "C",
+   "accountFormId": "2",
+   "beginDate": "2025-01-01T00:00:00+07:00",
+   "endDate": "2025-12-31T00:00:00+07:00",
+   "asOfDate": "2025-12-31T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 1832510.95,
+   "totalLiability": 419907.77,
+   "equity": 1412603.18,
+   "paidupCapital": 1637500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 367479.11,
+   "totalExpense": 429594.4,
+   "sales": null,
+   "ebit": -62115.3,
+   "ebitda": null,
+   "netProfit": -164570.2,
+   "profitFromOtherActivity": null,
+   "eps": -0.13,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 429404.26,
+   "netInvesting": -5244.87,
+   "netFinancing": -275190.03,
+   "netCashflow": 148969.36,
+   "roa": -3.0635383515073955,
+   "roe": -11.00376323966176,
+   "netProfitMargin": -44.78355245826083,
+   "grossProfitMargin": null,
+   "deRatio": 0.2972581231198984,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  },
+  {
+   "symbol": "SGF",
+   "quarter": "6M",
+   "year": 2026,
+   "fsType": "C",
+   "accountFormId": "2",
+   "beginDate": "2026-01-01T00:00:00+07:00",
+   "endDate": "2026-06-30T00:00:00+07:00",
+   "asOfDate": "2026-06-30T00:00:00+07:00",
+   "isRestatement": false,
+   "restatementDate": null,
+   "totalAsset": 1570928.98,
+   "totalLiability": 176407.7,
+   "equity": 1394521.28,
+   "paidupCapital": 1637500,
+   "netAssets": null,
+   "netAssetsPerUnit": null,
+   "totalRevenue": 145909.06,
+   "totalExpense": 153991.08,
+   "sales": null,
+   "ebit": -8082.02,
+   "ebitda": null,
+   "netProfit": -18081.9,
+   "profitFromOtherActivity": null,
+   "eps": -0.01,
+   "netInvestmentIncome": null,
+   "changeNetAssetsFromOperation": null,
+   "netOperating": 194940.71,
+   "netInvesting": -103976.93,
+   "netFinancing": -243287.56,
+   "netCashflow": -152323.77,
+   "roa": -2.7197877265493546,
+   "roe": -5.4425476082074935,
+   "netProfitMargin": -12.392582064472215,
+   "grossProfitMargin": null,
+   "deRatio": 0.12650054361307417,
+   "currentRatio": null,
+   "quickRatio": null,
+   "investmentToTotalIncomeRatio": null,
+   "debtToAssetRatio": null
+  }
+ ],
+ "highlight_trading": [
+  {
+   "date": "2022-12-30T00:00:00+07:00",
+   "period": "2022",
+   "symbol": "SGF",
+   "market": "mai",
+   "industry": "FINCIAL",
+   "sector": "FINCIAL",
+   "prior": 1.14,
+   "open": 1.14,
+   "high": 1.3,
+   "low": 0.66,
+   "average": null,
+   "close": 0.76,
+   "change": -0.3799999999999999,
+   "percentChange": -33.33333333333332,
+   "totalVolume": 1452749287,
+   "totalValue": 1589594318.0300002,
+   "pe": 20.97,
+   "pbv": 0.56,
+   "bookValuePerShare": 1.36,
+   "dividendYield": null,
+   "marketCap": 995600000,
+   "listedShare": 1310000000,
+   "par": 1.25,
+   "financialDate": "2022-09-30T00:00:00+07:00",
+   "turnoverRatio": 110.89689213740458,
+   "beta": 0.92,
+   "dividendPayoutRatio": null,
+   "averageValue": 6595827.045767636
+  },
+  {
+   "date": "2023-12-28T00:00:00+07:00",
+   "period": "2023",
+   "symbol": "SGF",
+   "market": "mai",
+   "industry": "FINCIAL",
+   "sector": "FINCIAL",
+   "prior": 0.76,
+   "open": 0.76,
+   "high": 0.83,
+   "low": 0.42,
+   "average": null,
+   "close": 0.44,
+   "change": -0.32,
+   "percentChange": -42.10526315789474,
+   "totalVolume": 341304233,
+   "totalValue": 207911748.66,
+   "pe": null,
+   "pbv": 0.33,
+   "bookValuePerShare": 1.35,
+   "dividendYield": null,
+   "marketCap": 576400000,
+   "listedShare": 1310000000,
+   "par": 1.25,
+   "financialDate": "2023-09-30T00:00:00+07:00",
+   "turnoverRatio": 26.05375824427481,
+   "beta": 1.03,
+   "dividendPayoutRatio": null,
+   "averageValue": 855603.9039506173
+  },
+  {
+   "date": "2024-12-30T00:00:00+07:00",
+   "period": "2024",
+   "symbol": "SGF",
+   "market": "mai",
+   "industry": "FINCIAL",
+   "sector": "FINCIAL",
+   "prior": 0.44,
+   "open": 0.45,
+   "high": 0.52,
+   "low": 0.22,
+   "average": null,
+   "close": 0.22,
+   "change": -0.22,
+   "percentChange": -50,
+   "totalVolume": 296570258,
+   "totalValue": 106395307.8,
+   "pe": null,
+   "pbv": 0.18,
+   "bookValuePerShare": 1.25,
+   "dividendYield": null,
+   "marketCap": 288200000,
+   "listedShare": 1310000000,
+   "par": 1.25,
+   "financialDate": "2024-09-30T00:00:00+07:00",
+   "turnoverRatio": 22.63895099236641,
+   "beta": 0.96,
+   "dividendPayoutRatio": null,
+   "averageValue": 436046.3434426229
+  },
+  {
+   "date": "2025-12-30T00:00:00+07:00",
+   "period": "2025",
+   "symbol": "SGF",
+   "market": "mai",
+   "industry": "FINCIAL",
+   "sector": "FINCIAL",
+   "prior": 0.22,
+   "open": 0.22,
+   "high": 0.26,
+   "low": 0.12,
+   "average": null,
+   "close": 0.17,
+   "change": -0.04999999999999999,
+   "percentChange": -22.727272727272723,
+   "totalVolume": 177179815,
+   "totalValue": 34371283.86,
+   "pe": null,
+   "pbv": 0.15,
+   "bookValuePerShare": 1.11,
+   "dividendYield": null,
+   "marketCap": 222700000,
+   "listedShare": 1310000000,
+   "par": 1.25,
+   "financialDate": "2025-09-30T00:00:00+07:00",
+   "turnoverRatio": 13.525176717557251,
+   "beta": 0.72,
+   "dividendPayoutRatio": null,
+   "averageValue": 142030.09859504132
+  },
+  {
+   "date": "2026-10-22T00:00:00+07:00",
+   "period": "YTD",
+   "symbol": "SGF",
+   "market": "mai",
+   "industry": "FINCIAL",
+   "sector": "FINCIAL",
+   "prior": 0.17,
+   "open": 0.17,
+   "high": 0.22,
+   "low": 0.11,
+   "average": null,
+   "close": 0.15,
+   "change": -0.020000000000000018,
+   "percentChange": -11.764705882352951,
+   "totalVolume": 144510627,
+   "totalValue": 22386468.94,
+   "pe": null,
+   "pbv": 0.14,
+   "bookValuePerShare": 1.06,
+   "dividendYield": null,
+   "marketCap": 196500000,
+   "listedShare": 1310000000,
+   "par": 1.25,
+   "financialDate": "2026-06-30T00:00:00+07:00",
+   "turnoverRatio": 11.031345572519085,
+   "beta": 0.64,
+   "dividendPayoutRatio": null,
+   "averageValue": 114802.40482051282
+  }
+ ],
+ "shareholder": {
+  "symbol": "SGF",
+  "bookCloseDate": "2026-03-16T00:00:00+07:00",
+  "caType": "XM",
+  "totalShareholder": 5390,
+  "percentScriptless": 78.71,
+  "majorShareholders": [
+   {
+    "sequence": 1,
+    "name": "นาย ชวลิต เศรษฐเมธีกุล",
+    "nationality": null,
+    "numberOfShare": 80000000,
+    "percentOfShare": 6.11,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 2,
+    "name": "UOB KAY HIAN PRIVATE LIMITED",
+    "nationality": null,
+    "numberOfShare": 76007000,
+    "percentOfShare": 5.8,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 3,
+    "name": "นาย พิสุทธิ์ เดชะไกศยะ",
+    "nationality": null,
+    "numberOfShare": 60020000,
+    "percentOfShare": 4.58,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 4,
+    "name": "MISS KANOGWAN LEKVIJIT",
+    "nationality": null,
+    "numberOfShare": 59932400,
+    "percentOfShare": 4.57,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 5,
+    "name": "นาย พงศ์ศักดิ์ สุทธิศรีปก",
+    "nationality": null,
+    "numberOfShare": 47120900,
+    "percentOfShare": 3.6,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 6,
+    "name": "MR. ATT THONGTANG",
+    "nationality": null,
+    "numberOfShare": 36945300,
+    "percentOfShare": 2.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 7,
+    "name": "MR. ITTI THONGTANG",
+    "nationality": null,
+    "numberOfShare": 36945300,
+    "percentOfShare": 2.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 8,
+    "name": "MR. ATIKHUN THONGTANG",
+    "nationality": null,
+    "numberOfShare": 36945300,
+    "percentOfShare": 2.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 9,
+    "name": "MISS WIORN THONGTANG",
+    "nationality": null,
+    "numberOfShare": 36945300,
+    "percentOfShare": 2.82,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 10,
+    "name": "MRS. RACHANEEKORN CHINTAKANON",
+    "nationality": null,
+    "numberOfShare": 29165000,
+    "percentOfShare": 2.23,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 11,
+    "name": "MR. SOONTHORN SRIPRACHYA-ANUNT",
+    "nationality": null,
+    "numberOfShare": 28387700,
+    "percentOfShare": 2.17,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 12,
+    "name": "MR. SANTI SETSAWAD",
+    "nationality": null,
+    "numberOfShare": 27637839,
+    "percentOfShare": 2.11,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 13,
+    "name": "นาย ประยุทธ หอสว่างวงศ์",
+    "nationality": null,
+    "numberOfShare": 24474880,
+    "percentOfShare": 1.87,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 14,
+    "name": "MRS. THITIRAWEE OLARNTHATCHANANT",
+    "nationality": null,
+    "numberOfShare": 23550000,
+    "percentOfShare": 1.8,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 15,
+    "name": "MR. CHAIKORN BOONLAPAPAT",
+    "nationality": null,
+    "numberOfShare": 19800000,
+    "percentOfShare": 1.51,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 16,
+    "name": "MR. AMNAJ WONGSUWAN",
+    "nationality": null,
+    "numberOfShare": 19333500,
+    "percentOfShare": 1.48,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 17,
+    "name": "MR. PORNCHAI SHARDAVEE",
+    "nationality": null,
+    "numberOfShare": 12146000,
+    "percentOfShare": 0.93,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 18,
+    "name": "นาย รุ่งทวี สาลยาโกวิท",
+    "nationality": null,
+    "numberOfShare": 11990000,
+    "percentOfShare": 0.92,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 19,
+    "name": "MR. WUNLOP KAMOLVISIT",
+    "nationality": null,
+    "numberOfShare": 11500000,
+    "percentOfShare": 0.88,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 20,
+    "name": "MR. PICHAI EKSOMBATCHAI",
+    "nationality": null,
+    "numberOfShare": 11155000,
+    "percentOfShare": 0.85,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 21,
+    "name": "MR. WORAWUTH LOPYAEM",
+    "nationality": null,
+    "numberOfShare": 9700000,
+    "percentOfShare": 0.74,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 22,
+    "name": "นาย พงศ์ศักดิ์ ทิพย์ธวัชวงศา",
+    "nationality": null,
+    "numberOfShare": 9424180,
+    "percentOfShare": 0.72,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 23,
+    "name": "Thai NVDR Company Limited",
+    "nationality": null,
+    "numberOfShare": 9206254,
+    "percentOfShare": 0.7,
+    "isThaiNVDR": true
+   },
+   {
+    "sequence": 24,
+    "name": "นาง วัลลีย์ สังข์ศิริ",
+    "nationality": null,
+    "numberOfShare": 8452100,
+    "percentOfShare": 0.65,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 25,
+    "name": "MR. PIYAWAT KRAIPISITKUL",
+    "nationality": null,
+    "numberOfShare": 8447000,
+    "percentOfShare": 0.64,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 26,
+    "name": "นาย ธนากรณ์ พันธุ์พฤกษ์",
+    "nationality": null,
+    "numberOfShare": 7033200,
+    "percentOfShare": 0.54,
+    "isThaiNVDR": false
+   },
+   {
+    "sequence": 27,
+    "name": "MISS SOMJIT THARAAMORNRATANA",
+    "nationality": null,
+    "numberOfShare": 6584200,
+    "percentOfShare": 0.5,
+    "isThaiNVDR": false
+   }
+  ],
+  "freeFloat": {
+   "bookCloseDate": "2026-03-16T00:00:00+07:00",
+   "caType": "XM",
+   "percentFreeFloat": 83.04000091552734,
+   "numberOfHolder": 5056
+  }
+ },
+ "dividend_xd": []
+}
